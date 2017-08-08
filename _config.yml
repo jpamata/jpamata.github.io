@@ -9,9 +9,9 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+repo: http://github.com/jpamata/jpamata.github.io
+disqus_shortname: "john_amata"
+twitter_username: "john__amata"
 comments: true
 
 # Build settings
@@ -29,9 +29,9 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
-  job      : "Software Engineer"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
+  name     : "John"
+  job      : "blogger, programmer, and massive bibliophile."
+  bio      : "I’ll be writing my adventures and exploits, random thoughts and musings, and the projects I’ll be doing and be part of along the way. I hope that this journal will help me guide myself on this wide, long, space called life. Take what you need, and pass it on."
   thumb    : /images/author.jpg
   email    : hnrird@gmail.com
   url      : http://heiswayi.github.io
