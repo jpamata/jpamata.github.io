@@ -1,12 +1,12 @@
 
 # SEO settings
-title: "John"
-title2: "Amata" # default: ""
-description: "Just another minimalist Jekyll theme for technical writing."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://heiswayi.github.io/thinkspace # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+title: John
+title2: Amata 
+description: "The Education of a Programmer"
+keywords: "Programming, Startups, Business"
+url: ""
+baseurl: "" 
+
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/jpamata/jpamata.github.io
