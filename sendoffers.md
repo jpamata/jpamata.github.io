@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-
+<html>
 <form action="https://formspree.io/johnamata@gmx.com"
       method="POST">
     <input type="email" name="_replyto" placeholder="{{ site.var_your_email }}">
@@ -13,3 +13,4 @@ title: Contact
     <textarea type="text" name="content" rows="8" placeholder="{{ site.var_your_message }}"></textarea>
     <input type="submit" value="Send">
 </form>
+</html>
