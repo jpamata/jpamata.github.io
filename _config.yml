@@ -30,24 +30,25 @@ sass:
 # Author settings
 author:
   name     : "John"
-  job      : "blogger, programmer, and massive bibliophile."
-  bio      : "I’ll be writing my adventures and exploits, random thoughts and musings, and the projects I’ll be doing and be part of along the way. I hope that this journal will help me guide myself on this wide, long, space called life. Take what you need, and pass it on."
-  thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/heiswayi.nrird
-  linkedin : http://linkedin.com/in/nrird
+  job      : "very ordinary guy."
+  bio      : ""
+  thumb    : /images/johnamata.jpg
+  email    : johnamata@gmx.com
+  url      : https://jpamata.github.io
+  github   : https://github.com/jpamata
+  twitter  : https://twitter.com/john__amata
+  facebook : https://www.facebook.com/JohnTheGreat
+  linkedin : https://linkedin.com/in/jpamata
 
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@john__amata"
 
 gems:
   - bourbon
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # navbar pages
 navbar:
@@ -55,5 +56,7 @@ navbar:
     title: About
   - slug : blog
     title: Blog
+  - slug : contact
+    title: Contact
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
