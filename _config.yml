@@ -10,7 +10,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/jpamata/jpamata.github.io
-disqus_shortname: "john_amata"
+disqus_shortname: "john-amata"
 twitter_username: "john__amata"
 comments: true
 
