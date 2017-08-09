@@ -14,7 +14,7 @@ author: john
 > The First Two Weeks
 
 <p align="justify">I started my internship on May 4, a Thursday. For the first week (May 4 & 5), it was mostly spent on getting to grasp the company and its projects. They showed me this vantage page where I filled up some personal details and went through a few online courses about the company. I also attended a couple meetings about the company's projects. On the second week, I met up with a former developer intern, Joanna, (she was there to process her internship papers for graduation) and she showed me how to set up my attendance/time logging with an app called DTCapture.</p> <!--more-->
-<p align="justify">Actually, one of her major projects during her internship was the development of DTCapture where it automatically logs in your Time In/Time Out on the database. Afterwards, you'd visit the web app, note down your time in/time out, put it on an excel spreadsheet that's following the company's template, print it out, scan the </p>
+<p align="justify">Actually, one of her major projects during her internship was the development of DTCapture where it automatically logs in your Time In/Time Out on the database. Afterwards, you'd visit the web app, note down your time in/time out, put it on an excel spreadsheet that's following the company's template, print it out, have it signed, scan it, and e-mail it to the HR.</p>
 
 <p align="justify">According to her, you are marked late if you arrived at 9:30, and the half day starts at 11:00. Sweet.</p>
 
