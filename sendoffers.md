@@ -7,12 +7,12 @@ permalink: /sendoffers/
 <html>
 <form action="https://formspree.io/johnamata@gmx.com"
       method="POST">
-      <p class="lead">E-mail:</p>
+      <p class="lead">Your E-mail:</p>
     <input type="email" name="_replyto" placeholder="{{ site.var_your_email }}">
     <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks" />
     <input type="hidden" name="_subject" value="New submission from {{ site.url }}{{ site.baseurl }}" />
     <input type="text" name="_gotcha" style="display:none" />
-      <p class="lead">Message</p>
+      <p class="lead">Your Message:</p>
     <textarea type="text" name="content" rows="8" placeholder="{{ site.var_your_message }}"></textarea>
     <input type="submit" value="Send">
 </form>
