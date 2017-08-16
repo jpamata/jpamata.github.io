@@ -18,13 +18,13 @@ author: john
 
 <p align="justify">According to her, you are marked late if you arrived at 9:30, and the half day starts at 11:00. Sweet.</p>
 
-<p align="justify">She also solved a problem of mine which I have been enduring about, the constantly lagging/performance issues with my computer. As it turns out, the problem exists due to one process. The solution is to simply run the task manager, go to processes, look at the advanced option that shows the hidden processes, login "siemensdatmigration1", enter the password, find the svchost process and then kill it. Joanna said that it's best to just leave the computer running for the rest of the week rather than shutting it down everyday. The boot time is horribly slow because of the network syncing. For this reason, Joaanna recommended to only shut down the workstation every Fridays.</p>
+<p align="justify">She also solved a problem of mine which I have been enduring about, the constantly lagging/performance issues with my computer. As it turns out, the problem exists due to one process. The solution is to simply run the task manager and kill the darn process. Joanna said that it's best to just leave the computer running for the rest of the week rather than shutting it down everyday. The boot time is horribly slow because of the network syncing. For this reason, Joaanna recommended to only shut down the workstation every few days.</p>
 
 > The Work
 
 <p align="justify">During my internship interview, I had gotten the idea of what the company is and what it asks of its interns - .NET Development. So as what one sane person would've done, I studied some bit of the .NET world for the upcoming work. Unfortunately, all the time spent on studying were not enough to prepare me for the work ahead. Why? Because the projects were cluster bombs of different tech and libraries jumbled into an ASP.NET solution. </p>
 
-<p align="justify">They also have this VBA training program, which I think is a brilliant opportunity for interns but frankly, I am yet to attend a single meeting even though I get invitations to it. For the past couple of weeks, I've went thru dozens of meetings about the onboardings, the projects, and a few meetings to discuss the team metrics. I've also done some JQuery to scrape up the data for application testing as my first real work. I didn't had any experiences with JQuery though but luckily, Sir Matthew lended me a hand.</p>
+<p align="justify">They also have this VBA training program, which I think is a brilliant opportunity for interns but frankly, I am yet to attend a single meeting seeing that I wasn't there when they began the training. For the past couple of weeks, I've went thru dozens of meetings about the onboardings, the projects, and a few meetings to discuss the team metrics. I've also done some JQuery to scrape up the data for application testing as my first real work. I didn't had any experiences with JQuery though but luckily, Sir Matthew lended me a hand.</p>
 
 <p align="justify">For the next work, I was given the task to debug a code issue on how the excel output for a report from the web app is having some problems with rendering the values. I spent I think a couple of days or so before I realised that the problem was with the language type, that the app doesn't accept such values.</p> 
 
@@ -43,13 +43,13 @@ author: john
 
 **[6:00]** Alarm goes off. Read a book, typically memoirs and self-improvement books.
 
-**[7:00]** Finally Wake Up. Get out of bed, eat breakfast, bath, brush teeth. If still don't feel like it, I play piano or browse the net.
+**[7:00]** Finally Wake Up. Get out of bed, eat breakfast, bath, brush teeth. If I still don't feel like it, I play piano or browse the net.
 
 **[8:30]** Arrive at office. Open facebook, ycombinator, reddit, and read up the latest articles on business and tech.
 
 **[9:00]** Start looking at yesterday's work to prepare for a standup report/updates. 
 
-**[9:30]** Meal at Mcdonald's. I actually don't need to eat, but the stroll from the office to the nearby Mcdonald's is my "morning coffee".
+**[9:30]** Meal at Mcdonald's. I actually don't need to eat, but the daily pilgrimage from the office to the nearby Mcdonald's is my "morning coffee".
 
 **[10:00]** Normally, a team standup meeting is scheduled at this point. Around this time I get some tasks & then I'd add them to my to-do app. Thereafter, I'd research ways on how to solve that task and make a plan of action.
 
@@ -60,11 +60,15 @@ author: john
 
 **[12:00]** This is when I start executing my plan of action, whether that be coding, hacking around the project, or learning the technologies required.
 
+**[1:30]** Briefly consider my life choices.
+
+**[1:05]** Remember how much $$$ I'll be banking from a career/business in Tech
+
 **[2:00]** Either I get some snack or I go out for a 5-10 minute walk to stretch my back.
 
-**[3:00]** Team usually  goes out to have a snack. Either that or there is a meeting. On the occassions that there's none of both, this is when I put my headphones on, some Frank Sinatra or some repetitive instrumental music plays, and thereafter I'd transcend into deep work status.
+**[3:00]** Team usually  goes out to have a snack. Either that or there is a meeting. On the occassions that there's none of both, this is when I put my headphones on, play a song on repeat mode, and thereafter I'd transcend into deep work status.
 
-**[4:15]** Productivity breaks down and I start browsing the net. I start asking my seniors for help if I'm not done yet with my task.
+**[4:15]** Productivity breaks down and I start browsing the net every few minutes or so. I start asking my seniors for help if I'm not done yet with my task.
 
 **[4:45]** Cannot concentrate anymore! At this point, the only thing you'll see on my screen are a bunch of google chrome tabs and skype. I'd probably go to the nearby mcdonald's or the pantry for some snack.
 
@@ -72,8 +76,8 @@ author: john
 
 **[6:10/6:30]** If I arrived at work late, this is the time I'd leave for home.
 
-**[7:00]** Dine and shower. In that order. Showers are long as I contemplate about the universe and my life.
+**[7:00]** Dine and shower. In that order. Showers are long as I retrospect my life.
 
-**[8:00]** Either read a technical book (science, technology, math) or learn some new shit.
+**[8:00]** Either read a technical book (science, technology, math) or learn some new stuff from an online course/video.
 
 **[10:00]** Sleep. If I can't sleep, I read a fiction book to put me to sleep. 
