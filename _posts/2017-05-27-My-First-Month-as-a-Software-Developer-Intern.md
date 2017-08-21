@@ -60,9 +60,9 @@ author: john
 
 **[12:00]** This is when I start executing my plan of action, whether that be coding, hacking around the project, or learning the technologies required.
 
-**[1:30]** Briefly consider my life choices.
+**[1:05]** Briefly consider my life choices.
 
-**[1:05]** Remember how much $$$ I'll be banking from a career/business in Tech
+**[1:30]** Remember how much $$$ I'll be banking from a career/business in Tech
 
 **[2:00]** Either I get some snack or I go out for a 5-10 minute walk to stretch my back.
 
