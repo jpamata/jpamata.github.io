@@ -18,7 +18,7 @@ permalink: /projects/
 
 <p>Evaluating Machine Learning Algorithms for Employee Attrition Forecasting<p/>
 <ul>
-<li>Undergrad Thesis - Machine Learning</li>
+<li>Undergrad Thesis - Deep Learning</li>
 <li>Utilised: Python, TensorFlow</li>
 <li>Led a group of five to research, develop, and evaluate the efficiency of an intelligent
 human resources analytic system for analysing Employee Turnovers using neural
