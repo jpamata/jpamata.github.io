@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-<center><img src="{{ site.baseurl }}/assets/images/johnamata.jpg" title="Profile Picture"></center> 
+//<center><img src="{{ site.baseurl }}/assets/images/johnamata.jpg" title="Profile Picture"></center> 
+<center><img src="https://avatars2.githubusercontent.com/u/12871105?v=4&s=460" title="Profile Picture"></center> 
 
 <p align="justify">Hi! I'm John, but you can call me Ice as most of my friends do. I'm a computer science undergrad from Asia Pacific College. </p>								
 <p align="justify">Other than being busy in computer science, I also have various interests and hobbies. I'm a voracious reader, I read at least one book a week. I mostly read non-fiction, like Autobiographies, Self-Improvement, Business, Science, and recently, Mathematics. </p>
