@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-//<center><img src="{{ site.baseurl }}/assets/images/johnamata.jpg" title="Profile Picture"></center> 
+
 <center><img src="https://avatars2.githubusercontent.com/u/12871105?v=4&s=460" title="Profile Picture"></center> 
 
 <p align="justify">Hi! I'm John, but you can call me Ice as most of my friends do. I'm a computer science undergrad from Asia Pacific College. </p>								
