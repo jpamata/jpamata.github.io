@@ -11,4 +11,4 @@ permalink: /about/
 <p align="justify">I'm also a disciplined goal setter. Every year, I'd set up goals for myself and accomplish them. Thanks to that habit, it brought me some joys and skills in life: I learned to play the guitar, the piano, started hitting the gym and am strong enough to deadlift my bodyweight, and lately, learned some niche fields in computer science - natural language processing and machine learning.</p>
 <p align="justify">On the topic of CS, I was never the guy who was into computers, even though I came from a technical school, Don Bosco Technical Institute - Makati. In time though, I have found that it is indeed a rewarding path to take in life. </p> 
 <p align="justify"></p>
-<p align="justify">Currently? I'm busying myself with machine learning as I prepare for grad school and getting my hands dirty with this blockchain hype. </p>
+<p align="justify">Currently? I'm busying myself with machine learning as I prepare for grad school. I'm also getting swayed by this blockchain hype and started getting my hands dirty with the tech. </p>
