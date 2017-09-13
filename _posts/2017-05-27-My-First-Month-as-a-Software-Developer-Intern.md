@@ -11,8 +11,10 @@ author: john
 
 
 
-```javascript
-console.log("Hello Internship!");
+```go
+func main() {
+	fmt.Println("Hello, Internship")
+}
 ```
 
 > The First Two Weeks
