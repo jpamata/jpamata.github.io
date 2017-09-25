@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "I Blog Because I'm..."
+keywords: "blogging, benefits, career, expertise, expert"
 comments: true
 date:   2017-9-25 01:00:00 +1700
 categories: reflection
+
+
 ---
 
 # ...not an expert.
