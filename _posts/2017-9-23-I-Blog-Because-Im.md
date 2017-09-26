@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first month as a Software Developer Intern"
+title:  "My first month as a Software Developer Intern!"
 description: "That awkward first month."
 keywords: "internship"
 comments: true
