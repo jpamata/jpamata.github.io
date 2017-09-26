@@ -46,4 +46,4 @@ categories: reflection
  
  <p align="justify">That's why I blog, because I'm not an expert - and making a journal of my mistakes and lessons, sharing my failures to others, and learning alongside people about these mistakes will help me get there. </p>
  
- <h1>blog because I'm not an expert, and this will help me get there.</h1>
+ <h1>I blog because I'm not an expert, and this will help me get there.</h1>
