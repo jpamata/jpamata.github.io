@@ -46,14 +46,6 @@ My School Calendar for August
 
 </center>
 
-> \3. Jerk off
-
-<p align="justify">There is this scene in the movie <strong>Wall of Wall Street</strong> where Matthew McConaughey’s character asked Jordan if he jerks off or not. He then proceeded to explain that due to the stressful nature of their job as Stock Brockers, jerking off is a way to relax.</p>
-
-<p align="justify">Having tried out his advice a dozen or so times, I am in a great position to say that it has worked its magic. For some reason, jerking off releases some tension that is holding you back from doing your work. Whether that work be studying for an exam or something that you’ve been procrastinating, jerking off puts you in the mood for the job.</p>
-
-<p align="justify">You think more clearly after you jerk off. You reap the benefits of meditation in only a few minutes or seconds if you’re good at it.</p>
-
-> \4. The **Reality Check** writing exercise
+> \3. The **Reality Check** writing exercise
 
 <p align="justify">One thing that’s quite fun to do is to set a 15-20 minute timer, open a text editor (Notepad/MS Word) or get a notebook and pen, and within those minutes write about your life. I’d often start writing about (my plans in) the future then afterwards get down to the present. After a few minutes of self contemplation, you’d either motivate yourself about your success, or you’d either motivate yourself from the looming failure.</p>
