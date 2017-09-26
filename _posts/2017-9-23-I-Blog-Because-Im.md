@@ -1,57 +1,89 @@
 ---
 layout: post
-title:  "I Blog Because I'm..."
+title:  "My first month as a Software Developer Intern"
+description: "That awkward first month."
+keywords: "internship"
 comments: true
-date:   2017-9-23 23:00:00 +1700
-categories: reflection
+date:   2017-9-23 23:09:47 +0700
+categories: journey
+author: john
 ---
 
-# ...not an expert.
-
-<p align="justify">I admit it. I am not an expert and I do not claim to be one. How can I? I'm just an undergrad who hasn't gotten a glimpse yet of the industry; I haven't put in as much time as others had. Whenever I talk to people about putting their content out there, their voice on the matter, they would often tell me of not being good enough:</p>
-
-<p>"Why would they listen to me?"</p>
-
-<p>"What can I share that is worth reading?"</p>
-
-<p>But here's the thing:</p>
 
 
+```go
+func main() {
+	fmt.Println("Hello, Internship")
+}
+```
 
-> You do not have to be an expert
+> The First Two Weeks
 
-<p align="justify">I do not believe that you have to be an expert nor be the very best in your field to blog and share your lessons. After all, how can you be so sure that you're the top dog in your field? There will always be someone who's more knowledgeable - that's the hard truth.</p>
+<p align="justify">I started my internship on May 4, a Thursday. For the first week (May 4 & 5), it was mostly spent on getting to grasp the company and its projects. They showed me this vantage page where I filled up some personal details and went through a few online courses about the company. I also attended a couple meetings about the company's projects. On the second week, I met up with a former developer intern, Joanna, (she was there to process her internship papers for graduation) and she showed me how to set up my attendance/time logging app.</p> <!--more-->
+<p align="justify">Actually, one of her projects during her internship was the development of a workplace management/attendance app where it automatically logs in your Time In/Time Out on the database. Afterwards (this procedure is only for interns), you would visit the web app, note down your time in and time out, put it on an excel spreadsheet that's following the company's template, print it out, have it signed, scan it, and e-mail it to the HR.</p>
 
-<p align="justify"> At the same time, the inverse is also true: there will always be someone out there who knows less than you. You do not have to be an expert to have a voice because chances are, there are people out there who find yours valuable. </p>
+<p align="justify">According to her, you are marked late if you arrived at 9:30, and the half day starts at 11:00. Sweet.</p>
 
-<p align="justify">Still, there will be those saying that they don't have anything of value to share. </p>
+<p align="justify">She also solved a problem of mine which I have been raving about, the constantly lagging/performance issues with my computer. As it turns out, the problem exists due to one process. The solution is to simply run the task manager and kill the darn process. Joanna said that it's best to just leave the computer running for the rest of the week rather than shutting it down everyday. The boot time is horribly slow because of the network syncing. For this reason, Joaanna recommended to only shut down the workstation every few days.</p>
 
-<p align="justify">Here's a solution:</p>
+> The Work
 
-<p align="justify">When thinking of the question <strong>"What can I share?"</strong>, think in terms of <strong>"What do I know?"</strong> instead of <strong>"What unique knowledge do I know?"</strong></p>
+<p align="justify">During my internship interview, I had gotten the idea of what the company is and what it asks of its interns - .NET Development. So as what one sane person would've done, I studied some bit of the .NET world for the upcoming work. Unfortunately, all the time spent on studying were not enough to prepare me for the work ahead. Why? Because the projects were cluster bombs of different tech and libraries jumbled into an ASP.NET solution. </p>
 
-> Blogging improves your understanding
+<p align="justify">They also have this VBA training program, which I think is a brilliant opportunity for interns but frankly, I am yet to attend a single meeting seeing that I wasn't there when they began the training. For the past couple of weeks, I've went thru dozens of meetings about the onboardings, the projects, and a few meetings to discuss the team metrics. I've also done some JQuery to scrape up the data for application testing as my first real work. I didn't had any experiences with JQuery though but luckily, Sir Matthew lended me a hand.</p>
 
-<p align="justify">Learning is about doing and reflection. Blogging is the perfect platform for that. The very act of writing the content itself, is reinforcing what you know. I find questions, research, answer, and reflect. Or somebody corrects me and does it all for me. </p>
+<p align="justify">For the next work, I was given the task to debug a code issue on how the excel output for a report from the web app is having some problems with rendering the values. I spent I think a couple of days or so before I realised that the problem was with the language type, that the app doesn't accept such values.</p> 
 
-<p align="justify">Research, write, publish, stay hungry, learn more, and repeat. That's what it's all about.</p>
+<p align="justify">It was frustrating at first because I had absolutely no idea on how to approach the problem. I went through method by method then line by line of the code (commenting out some lines or editing some values) to see on which part of the code results to the issue. I was like a blind man groping for the door handle. Nevertheless, that experience taught me how to read error reports from Visual Studio to diagnose the problem. Later, I learned about Visual Studio's debugging tool.</p>
 
-> Blogging is a complement to your journey
 
-<p align="justify">Knowing that someone out there might be reading my articles is enough of an excuse for me to continually accept criticisms and reach out for any corrections. It is humbling. It also forces me to stay updated with the trend. It forces one to think in ways we don't normally do. And if anyone's not reading my articles, I do not worry. </p>
+<p align="justify">Aside from learning the ecosystem of Microsoft, one must also learn AngularJS and JavaScript. This free online course is what I used to grasp the basics of it: <a href="https://www.codeschool.com/courses/shaping-up-with-angularjs">codeschool - AngularJS</a>. This article also helped: <a href="https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/">Ultimate guide to learning AngularJS in one day</a>. I've always heard that JavaScript would be among the programming language of the future and will be seen everywhere from mobile to desktop - they were not kidding.</p>
 
-<p align="justify">As far as I'm concerned - I have one. Myself. In the end, this is a journal of my discoveries, of my thoughts, and reflections. Even if nobody reads your blog, it still has an intrinsic value: it is your knowledgebase of thoughts.</p>
+<p align="justify">The team executes well. They follow the <a href="https://www.atlassian.com/agile">Agile approach to Software Development</a> and they do all the agile ceremonies: tasks are given at the beginning of a sprint (2 weeks long), daily standup meetings to make a quick report of our status, iteration reviews and retros (retrospective/reflection) at the end of a sprint, and sprint plannings.</p>
 
-> Blogging extends my network
+> My Average Day
 
-<p align="justify">Aside from this blog, I have a personal blog that I regularly update and through that blog I have expanded my circle of friends. I can't remember how much I've used that blog as an excuse to be friends with a taxi driver, a colleague or a beautiful model. </p>
+<div align="center"><img src="https://i.imgur.com/hK8Pvfw.png" align="center"></div>
 
-<p align="justify">Way too much that I have also used it to improve my relationship with my friends - simply because I can recall the times we've had and share or give a different take on that experience again.</p>
+<p align = "center"> *AM* </p>
 
-> Don't be so gentle
+**[6:00]** Alarm goes off. Read a book, typically memoirs and self-improvement books.
 
-<p align="justify">So whatever mistakes or any foolish piece of writing I publish, don't be so gentle. Tell me I'm wrong, point out my mistakes, and help me learn. Let's learn together.</p>
+**[7:00]** Finally Wake Up. Get out of bed, eat breakfast, bath, brush teeth. If I still don't feel like it, I play piano or browse the net.
 
-<p align="justify">That's why I blog, because I'm not an expert - and making a journal of my mistakes and lessons, sharing my failures to others, and learning alongside people about these mistakes will help me get there. </p>
+**[8:30]** Arrive at office. Open facebook, ycombinator, reddit, and read up the latest articles on business and tech.
 
-<p align="justify">So that's why I blog, because I'm not an expert, and I'm doing whatever I can to become one.</p>
+**[9:00]** Start looking at yesterday's work to prepare for a standup report/updates. 
+
+**[9:30]** The daily pilgrimage to Mcdonald's. I don't actually need to eat, but that routine serves as my "morning coffee".
+
+**[10:00]** Normally, a team standup meeting is scheduled at this point. Around this time I get some tasks & then I'd add them to my to-do app. Thereafter, I'd research ways on how to solve that task and make a plan of action.
+
+**[11:00]** Lunch
+
+
+<p align= "center"> *PM* </p>
+
+**[12:00]** This is when I start executing my plan of action, whether that be coding, hacking around the project, or learning the technologies required.
+
+**[1:05]** Briefly consider my life choices.
+
+**[1:30]** Remember how much $$$ I'll be banking from a career/business in Tech
+
+**[2:00]** Either I get some snack or I go out for a 5-10 minute walk to stretch my back.
+
+**[3:00]** Team usually  goes out to have a snack. Either that or there is a meeting. On the occassions that there's none of both, this is when I put my headphones on, play a song on repeat mode, and thereafter I'd transcend into deep work status.
+
+**[4:15]** Productivity breaks down and I start browsing the net every few minutes or so. I start asking my seniors for help if I'm not done yet with my task.
+
+**[4:45]** Cannot concentrate anymore! At this point, the only thing you'll see on my screen are a bunch of google chrome tabs and skype. I'd probably go to the nearby mcdonald's or the pantry for some snack.
+
+**[5:00-5:15]** Elvis has left the building.
+
+**[6:10/6:30]** If I arrived at work late, this is the time I'd leave for home.
+
+**[7:00]** Dine and shower. In that order. Showers are long as I retrospect my life.
+
+**[8:00]** Either read a technical book (science, technology, math) or learn some new stuff from an online course/video.
+
+**[10:00]** Sleep. If I can't sleep, I read a fiction book to put me to sleep. 
