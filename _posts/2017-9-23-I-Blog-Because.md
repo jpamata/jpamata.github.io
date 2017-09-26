@@ -1,10 +1,10 @@
----
-layout: post
- title:  "I Blog Because..."
- comments: true
- date:   2017-9-25 01:00:00 1700
- categories: reflection
  ---
+layout: post
+title:  "I Blog Because..."
+comments: true
+date:   2017-9-23 01:00:00 1700
+categories: reflection
+---
  
  # ...I'm not an expert.
  
