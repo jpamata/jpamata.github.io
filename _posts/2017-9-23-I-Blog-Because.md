@@ -6,7 +6,7 @@ date:   2017-9-23 01:00:00 1700
 categories: reflection
 ---
  
- #...I'm not an expert.
+<h1>I'm not an expert.</h1>
  
 <p align="justify">I admit it. I am not an expert and I do not claim to be one. How can I? I'm just an undergrad who hasn't gotten a glimpse yet of the industry; I haven't put in as much time as others had. Whenever I talk to people about putting their content out there, their voice on the matter, they would often tell me of not being good enough:</p>
  
@@ -46,4 +46,4 @@ categories: reflection
  
  <p align="justify">That's why I blog, because I'm not an expert - and making a journal of my mistakes and lessons, sharing my failures to others, and learning alongside people about these mistakes will help me get there. </p>
  
- #I blog because I'm not an expert, and this will help me get there.
+ <h1>blog because I'm not an expert, and this will help me get there.</h1>
