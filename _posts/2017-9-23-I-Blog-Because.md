@@ -1,3 +1,4 @@
+---
 layout: post
  title:  "I Blog Because..."
  comments: true
