@@ -46,6 +46,6 @@ My School Calendar for August
 
 </center>
 
-> \3. The **Reality Check** writing exercise
+> 3. The **Reality Check** writing exercise
 
 <p align="justify">One thing that’s quite fun to do is to set a 15-20 minute timer, open a text editor (Notepad/MS Word) or get a notebook and pen, and within those minutes write about your life. I’d often start writing about (my plans in) the future then afterwards get down to the present. After a few minutes of self contemplation, you’d either motivate yourself about your success, or you’d either motivate yourself from the looming failure.</p>
