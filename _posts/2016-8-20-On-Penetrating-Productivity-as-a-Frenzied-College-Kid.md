@@ -2,6 +2,7 @@
 layout: post
 title:  "On Penetrating Productivity as a Frenzied College Kid"
 keywords: "college, productivity, programming, programmer, masturbation"
+description: "Just like every other ability, therein lies techniques to help you refine your prowess in this important skill . This post is about the four techniques that I use to amp myself from “slacker mode” to “warrior mode” in a few minutes."
 comments: true
 date:   2016-8-26 23:00:00 +1700
 categories: advice
