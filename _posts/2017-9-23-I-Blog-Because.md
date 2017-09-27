@@ -39,12 +39,11 @@ categories: reflection
  
  > Blogging extends my network
  
- <p align="justify">Aside from this blog, I have a personal blog that I regularly update and through that blog I have expanded my circle of friends. I can't remember how much I've used that blog as an excuse to be friends with a taxi driver, a colleague or a beautiful model. Way too much that I have also used it to improve my relationship with my friends - simply because I can recall the times we've had and share or give a different take on that experience again.</p>
+ <p align="justify">Aside from this blog, I have a personal blog that I regularly update and through that blog I have expanded my circle of friends. I can't remember how much I've used that blog as an excuse to be friends with a taxi driver, a colleague or a beautiful model. Way too much that I have also used it to improve my relationship with my friends - simply because I can recall the times we've shared or give a different take on that experience again.</p>
  
  > Don't be so gentle
  
- <p align="justify">So whatever mistakes or any foolish piece of writing I publish, don't be so gentle. Tell me I'm wrong, point out my mistakes, and help me learn. Let's learn together.</p>
+<p align="justify">So whatever mistakes or any foolish piece of writing I publish, don't be so gentle. Tell me I'm wrong, point out my mistakes, and help me learn. Let's learn together.</p>
  
+ > Because I am not an expert
  <p align="justify">That's why I blog, because I'm not an expert - and making a journal of my mistakes and lessons, sharing my failures to others, and learning alongside people about these mistakes will help me get there. </p>
- 
- <h1>I blog because I'm not an expert, and this will help me get there.</h1>
