@@ -1,16 +1,13 @@
 ---
+title: "College: Penultimate Term?"
 layout: post
-title:  "College: Penultimate Term?"
-keywords: "college, failure, internship, classes"
-comments: true
-date:   2016-9-19 23:00:00 +1700
-category: blog
+date: 2016-09-19 22:00
 tag:
--reflections
--college
-
-
-
+- reflections
+- college
+category: blog
+author: john
+description: 
 ---
 
 # Will this be my penultimate term or will my date for internship will be moved to September?
