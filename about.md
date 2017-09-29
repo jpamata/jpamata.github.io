@@ -46,3 +46,7 @@ layout: page
 		<li>Blockchain</li>
 	  </ul>
 </ul>
+
+<h2>This Blog</h2>
+
+Powered by GitHub Pages, Jekyll, Namecheap, and Indigo.
