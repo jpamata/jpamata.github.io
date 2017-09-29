@@ -1,25 +1,20 @@
 ---
+title: "College: On Penetrating Productivity as a Frenzied College Kid"
 layout: post
-title:  "On Penetrating Productivity as a Frenzied College Kid"
-keywords: "college, productivity, programming, programmer, masturbation"
-description: "Just like every other ability, therein lies techniques to help you refine your prowess in this important skill . This post is about the four techniques that I use to amp myself from “slacker mode” to “warrior mode” in a few minutes."
-comments: true
-date:   2016-8-26 23:00:00 +1700
-category: blog
+date: 2016-08-26 22:00
 tag:
--productivity
--college
-
-
-
-
+- productivity
+- college
+category: blog
+author: john
+description: Just like every other ability, therein lies techniques to help you refine your prowess in this important skill. This post is about the four techniques that I use to amp myself from “slacker mode” to “warrior mode” in a few minutes.
 ---
 
 # I believe that productivity is a skill. 
 
 Just like every other ability, therein lies techniques to help you refine your prowess in this important skill . This post is about the four techniques that I use to amp myself from “slacker mode” to “warrior mode” in a few minutes. 
 
-> \1. Sets and Reps
+> 1. Sets and Reps
 
 <p align="justify">One good piece of advice that I got from reading Arnold Schwarzenegger’s Total Recall was to implement the Sets & Reps method from bodybuilding to your daily life .</p>
 
@@ -49,7 +44,7 @@ Timer+. A windows stopwatch app that I use for studying.
 
 <img src="https://i.imgur.com/owXGwzA.png">
 
-My School Calendar for August
+<p>My School Calendar for August</p>
 
 </center>
 
