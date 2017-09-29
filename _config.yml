@@ -34,20 +34,20 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/JohnTheGreat
-twitter: https://twitter.com/john__amata
+facebook: JohnTheGreat
+twitter: john__amata
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/jpamata
+github: jpamata
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: https://medium.com/@john__amata
+medium: john__amata
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: johnamata@gmx.com
