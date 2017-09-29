@@ -1,18 +1,13 @@
 ---
+title: "College: PBL Track and The Search for The Holy Grail"
 layout: post
-title:  "College: PBL Track and The Search for The Holy Grail"
-keywords: "college, productivity, programming, programmer, masturbation"
-comments: true
-date:   2016-6-26 23:00:00 +1700
-category: blog
+date: 2016-06-26 22:00
 tag:
--reflections
--college
-
-
-
-
-
+- reflections
+- college
+category: blog
+author: john
+description: 
 ---
 
 It is the 3rd week of class and we still haven’t gotten a sound project idea for our PB. You see, in my school's curriculum, we have this thing called a Project Based Learning track where a student will propose a project that will undergo the entire systems development lifecycle through a set of classes. Previous PBL tracks had the students working on a project with a real client but this year is different.
