@@ -1,17 +1,14 @@
 ---
+title: "My first month as a Software Developer Intern"
 layout: post
-title:  "My first month as a Software Developer Intern"
-description: "That awkward first month."
-keywords: "internship"
-comments: true
-date:   2017-05-27 23:09:47 +0700
-category: blog
+date: 2017-05-27 22:00
 tag:
--work
--internship
-
-
-
+- work
+- internship
+- college
+category: blog
+author: john
+description: 
 ---
 
 
