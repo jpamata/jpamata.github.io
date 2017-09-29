@@ -49,4 +49,4 @@ layout: page
 
 <h2>This Blog</h2>
 
-Powered by GitHub Pages, Jekyll, Namecheap, and Indigo.
+Powered by GitHub Pages, Jekyll, Namecheap, and Indigo by [Kopplin](https://github.com/sergiokopplin/indigo).
