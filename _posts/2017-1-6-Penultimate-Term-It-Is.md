@@ -3,7 +3,13 @@ layout: post
 title:  "College: Penultimate Term it is"
 comments: true
 date:   2017-1-6 23:00:00 +1700
-categories: reflection
+category: blog
+tag:
+-college
+-reflections
+
+
+
 ---
 
 # WE HAVE ACHIEVED LIFT OFF

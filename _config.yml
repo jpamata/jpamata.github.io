@@ -1,62 +1,104 @@
+# main text of home
+name: John Amata
+bio: The Education of a Programmer
 
-# SEO settings
-title: "John"
-title2: " Amata" # default: ""
-description: "The Education of a Programmer"
-keywords: "programming, startups, blockchain, web, mobile, apps, computer, science, blog"
-url: "" # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+# twitter summary info
+description: A blog about technology and stuff related
 
-google_analytics: UA-XXXXX-XX
-repo: http://github.com/jpamata/jpamata.github.io
-disqus_shortname: "john-amata"
-twitter_username: "john__amata"
-comments: true
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile.jpg
 
-# Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://jpamata.github.io/resume/
 
-source: ./
-destination: ./_site
+url: https://jpamata.github.io
+# your url: http://USERNAME.github.io
 
-# Sass configuration
-sass:
-  sass_dir: assets/scss
-  style: compressed # expanded
+permalink: /:title/
 
-# Author settings
-author:
-  name     : "John"
-  job      : "very ordinary guy."
-  bio      : ""
-  thumb    : /images/johnamata.jpg
-  email    : johnamata@gmx.com
-  url      : http://jpamata.github.io
-  github   : https://github.com/jpamata
-  twitter  : https://twitter.com/john__amata
-  facebook : https://www.facebook.com/JohnTheGreat
-  linkedin : https://linkedin.com/in/jpamata
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
 
-# social settings
-og_locale: "en_US"
-twitter_card: "summary_large_image"
-twitter_site: "@john__amata"
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
 
-gems:
-  - bourbon
-  - jekyll-paginate
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: "john-amata" # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+facebook: https://www.facebook.com/JohnTheGreat
+twitter: https://twitter.com/john__amata
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+# linkedin: mylinkedin
+# youtube: myyoutube
+# spotify: myspotify
+github: https://github.com/jpamata
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+medium: https://medium.com/@john__amata
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: johnamata@gmx.com
+
+authors:
+    john:
+        name: John Amata
+        bio: Into tech, blockchain, web development, and lasagnas. Delicious lasagnas.
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter: john__amata
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: [blog]
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: true
+
+plugins:
   - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
-  - slug : contact
-    title: Contact
-
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+#jekyll-mentions:
+#    base_url: 

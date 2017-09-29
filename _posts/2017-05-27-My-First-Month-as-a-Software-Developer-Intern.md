@@ -5,8 +5,13 @@ description: "That awkward first month."
 keywords: "internship"
 comments: true
 date:   2017-05-27 23:09:47 +0700
-categories: journey
-author: john
+category: blog
+tag:
+-work
+-internship
+
+
+
 ---
 
 

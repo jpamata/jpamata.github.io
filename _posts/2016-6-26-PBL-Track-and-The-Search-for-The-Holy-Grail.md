@@ -4,7 +4,13 @@ title:  "College: PBL Track and The Search for The Holy Grail"
 keywords: "college, productivity, programming, programmer, masturbation"
 comments: true
 date:   2016-6-26 23:00:00 +1700
-categories: reflections
+category: blog
+tag:
+-reflections
+-college
+
+
+
 
 
 ---
