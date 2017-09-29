@@ -100,5 +100,5 @@ plugins:
   - jekyll-feed
   - jemoji
 
-#jekyll-mentions:
-#    base_url: 
+jekyll-mentions:
+    base_url: https://github.com
