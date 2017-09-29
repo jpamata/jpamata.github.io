@@ -1,14 +1,12 @@
 ---
+title: "I Blog Because"
 layout: post
-title:  "I Blog Because..."
-description: "I admit. I am not an expert and I do not claim to be one. How can I? I'm just an undergrad who hasn't gotten a glimpse yet of the industry; I haven't put in as much time as others had. But whenever I talk to people about putting their content out there, their voice on the matter, they would often tell me of not being good enough."
-comments: true
-date:   2016-6-23 01:00:00 1700
+date: 2016-06-23 22:00
+tag:
+- reflections
 category: blog
-tag: 
--reflections
-
-
+author: john
+description: I admit. I am not an expert and I do not claim to be one. How can I? I'm just an undergrad who hasn't gotten a glimpse yet of the industry; I haven't put in as much time as others had. But whenever I talk to people about putting their content out there, their voice on the matter, they would often tell me of not being good enough.
 ---
 
 <h1>I am not an expert.</h1>
