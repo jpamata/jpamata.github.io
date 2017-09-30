@@ -3,7 +3,6 @@ title: "College: Penultimate Term it is"
 layout: post
 date: 2017-01-06 22:00
 tag:
-- reflections
 - college
 category: blog
 author: john
