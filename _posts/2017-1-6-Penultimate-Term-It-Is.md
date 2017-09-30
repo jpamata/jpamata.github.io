@@ -7,12 +7,12 @@ tag:
 - college
 category: blog
 author: john
-description: 
+description: Okay boys, I’ve now passed all my subjects and targets from my previous blog post, "Penultimate Term?" So here it is, the final run. 
 ---
 
 # WE HAVE ACHIEVED LIFT OFF
 
-<p align="justify">Okay boys, I’ve now passed all my subjects and targets from my previous blog post, Penultimate Term?, so here it is, the final run. </p>
+<p align="justify">Okay boys, I’ve now passed all my subjects and targets from my previous blog post, "Penultimate Term?" So here it is, the final run. </p>
 <p align="justify">Five more subjects to go and I’m off to internship:</p>
 
 <img src="https://i.imgur.com/Y9B7VVg.png" align="center">
