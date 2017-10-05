@@ -10,7 +10,7 @@ permalink: /resume/
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-<a class="btn btn-primary btn-lg" href="https://drive.google.com/file/d/0B60HfAD9wkNmV0g3X3J4X0RrUVk/view">Download</a>
+<a class="btn btn-primary" href="https://drive.google.com/file/d/0B60HfAD9wkNmV0g3X3J4X0RrUVk/view">Download</a>
 
 <iframe  src="https://drive.google.com/file/d/0B60HfAD9wkNmV0g3X3J4X0RrUVk/preview" width="100%" height="768">
 </iframe>
