@@ -3,7 +3,6 @@ title: "College: PBL Track and The Search for The Holy Grail"
 layout: post
 date: 2016-06-26 22:00
 tag:
-- reflections
 - college
 category: blog
 author: john
