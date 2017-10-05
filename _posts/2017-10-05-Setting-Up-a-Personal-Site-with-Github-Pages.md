@@ -20,7 +20,7 @@ description: How to set up your own personal website and email - the cheapskate 
 <p align="justify">Once you have your site up and running on github pages, it is now time to get yourself a domain from namecheap. The process is simple, just go to <a href="https://www.namecheap.com">namecheap</a>, register for an account, search for your chosen domain, add to cart, and buy. After you bought yourself a domain, just follow the official guide by namecheap to connect your new domain to your github pages site: <a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages">How do I link my domain to GitHub Pages?</a></p>
 
 <p align="justify">#3. <strong>Building Your Web Presence with Google Webmasters</strong></p>
-Now that you have your own site, it is time to get Google to index your site so that it appears on searches. This is the guide that I followed to make it happen: <a href="https://support.google.com/a/answer/6248925?hl=en">Google Domains: Verify your domain</a></p>
+<p align="justify">Now that you have your own site, it is time to get Google to index your site so that it appears on searches. This is the guide that I followed to make it happen: <a href="https://support.google.com/a/answer/6248925?hl=en">Google Domains: Verify your domain</a></p>
 
 <p align="justify">#4. <strong>Your Free Custom Email with Zoho mail</strong></p>
 <p align="justify"><a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9758/2208/how-to-set-up-zoho-email-for-my-domain">How to set up Zoho email for my domain?</a></p>
