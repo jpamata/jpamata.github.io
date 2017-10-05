@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+[comment]: #  ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p align="justify">Hi! I'm John, but you can call me Ice as most of my friends do. I'm a computer science undergrad from Asia Pacific College.</p>
 
