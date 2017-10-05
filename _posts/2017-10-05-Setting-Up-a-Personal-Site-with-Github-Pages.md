@@ -6,7 +6,7 @@ tag:
 - web
 category: blog
 author: john
-description: How to set up your own personal website with github pages. 
+description: How to set up your own personal website and email - the cheapskate way. 
 ---
 
 //draft to be updated later
