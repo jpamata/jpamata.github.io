@@ -68,7 +68,7 @@ func main() {
 
 **[12:00]** This is when I start executing my plan of action, whether that be coding, hacking around the project, or learning the technologies required.
 
-**[1:05]** Briefly consider my life choices.
+**[1:05]** Briefly consider a career change.
 
 **[1:30]** Remember how much $$$ I'll be banking from a career/business in Tech
 
