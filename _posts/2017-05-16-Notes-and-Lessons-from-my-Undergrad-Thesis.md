@@ -89,4 +89,20 @@ To accomplish the feat and lay claim to the road to internship, the group and I 
 
 <p align="justify">Nevertheless, you can never go wrong with being too knowledgeable so I gave my group a bunch of resources to study and asked them to find a way to motivate themselves. I told them that if you’re planning to attend grad school for an MS in Computer Science (either because you want to work as an academic, in AI, or want to get an H1B Visa to work in the US) take it as a preparation. If they’re looking to get a trophy, then I told them to be glad that they’re doing an undergrad thesis in on a graduate level topic. And if they just want to finish the courseload, then I asked them to do well so that in the future they could grab a letter of recommendation from the professors. Some of those seemed to motivate them.</p>
 
+
+
 <p align="justify">The weeks went by and although there were some irregularities with the team's performance, we managed to pull off and submit a paper for finals. Yet despite of the praises received, it was by no means, a fine work. It was not a smooth ride. I had to revisit a lot of maths and spend some time on the weekends studying the maths required to understand the process. The team also encountered some dramas. In spite of all of these, we saw it as a victory. The point of a thesis is to venture to the unknown, and going through such adventure required us to conquer a few demons. We fought off procrastination. We picked a subject we know so little of and didn't surrender. I faced my math phobia. We instilled the value of self-education. We grew confident of our abilities to absorb new materials. And then in the end, we've grown into each other. It was certainly a victory; not of the paper, but of the self. </p>
+
+<center>
+    <figure>
+        <img src="https://i.imgur.com/HBoiIIR.jpg">
+        <figcaption>We celebrated our thesis victory at Vikings - Me</figcaption>
+    </figure>
+</center>
+
+<center>
+    <figure>
+        <img src="https://i.imgur.com/tlWV88L.jpg">
+        <figcaption> A view of the pulpit rock in Norway.</figcaption>
+    </figure>
+</center>
