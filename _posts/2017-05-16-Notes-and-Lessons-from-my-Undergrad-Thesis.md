@@ -7,7 +7,7 @@ tag:
 - college
 category: blog
 author: john
-description: Four important notes from the days spent doing our undergrad thesis: preparation, reading, writing, and the experience itself.
+description: Four important notes from the days spent doing our undergrad thesis. Preparation, reading, writing, and the experience itself.
 ---
 
 A brief reflection on four important notes from the days spent doing our undergrad thesis: preparation, reading, writing, and the experience.
