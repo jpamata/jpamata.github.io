@@ -3,6 +3,7 @@ title: "Notes and Lessons from my Undergrad Thesis"
 layout: post
 date: 2017-05-16 22:00
 tag:
+- reflections
 - college
 category: blog
 author: john
