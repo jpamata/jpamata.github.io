@@ -1,7 +1,7 @@
 ---
-title: "College: Penultimate Term?"
+title: "Notes and Lessons from my Undergrad Thesis"
 layout: post
-date: 2016-09-19 22:00
+date: 2017-05-16 22:00
 tag:
 - college
 category: blog
