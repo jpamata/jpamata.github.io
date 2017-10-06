@@ -6,7 +6,7 @@ tag:
 - college
 category: blog
 author: john
-description: I am seriously hoping that this term would be the second to the last term before I enter internship. This term is hard. Not just because of the personal tasks that I ought to accomplish by the end of this year, but also the academe work. My classes for this term looks daunting; SCSPROJ, DESALGO, NATSER2, COMPORG, ENTJAVA, OCCP.
+description: A brief reflection on four important notes from the days spent doing our undergrad thesis: preparation, reading, writing, and the experience.
 ---
 
 A brief reflection on four important notes from the days spent doing our undergrad thesis: preparation, reading, writing, and the experience.
