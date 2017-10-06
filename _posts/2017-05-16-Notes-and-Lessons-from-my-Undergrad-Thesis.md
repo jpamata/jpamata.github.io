@@ -94,15 +94,12 @@ To accomplish the feat and lay claim to the road to internship, the group and I 
 <p align="justify">The weeks went by and although there were some irregularities with the team's performance, we managed to pull off and submit a paper for finals. Yet despite of the praises received, it was by no means, a fine work. It was not a smooth ride. I had to revisit a lot of maths and spend some time on the weekends studying the maths required to understand the process. The team also encountered some dramas. In spite of all of these, we saw it as a victory. The point of a thesis is to venture to the unknown, and going through such adventure required us to conquer a few demons. We fought off procrastination. We picked a subject we know so little of and didn't surrender. I faced my math phobia. We instilled the value of self-education. We grew confident of our abilities to absorb new materials. And then in the end, we've grown into each other. It was certainly a victory; not of the paper, but of the self. </p>
 
 <center>
-    <figure>
+    <p align="center">Us celebrating our thesis victory at Vikings, a buffet restaurant.</p>
         <img src="https://i.imgur.com/HBoiIIR.jpg">
-        <figcaption>We celebrated our thesis victory at Vikings - Me</figcaption>
-    </figure>
+        <p align="center">L-R: Max, Our Friendly Guard at School, AR</p>
 </center>
 
 <center>
-    <figure>
         <img src="https://i.imgur.com/tlWV88L.jpg">
-        <figcaption> A view of the pulpit rock in Norway.</figcaption>
-    </figure>
+    <p align="center">L-R: Me, Eman, JV</p>
 </center>
