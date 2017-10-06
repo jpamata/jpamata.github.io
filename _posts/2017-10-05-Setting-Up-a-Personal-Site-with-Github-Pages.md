@@ -23,4 +23,4 @@ description: How to set up your own personal website and email - the cheapskate 
 <p align="justify">#4. <strong>Your Custom Email with Zoho mail</strong></p>
 <p align="justify">If you want to add an e-mail for your new domain, you can do it for free with zoho mail. Just follow this guide: <a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9758/2208/how-to-set-up-zoho-email-for-my-domain">How to set up Zoho email for my domain?</a></p>
 
-<p align="justify">Sometimes, you will come across (or not, if you're lucky) some infinite redirection errors. Don't fret, it's okay. You have just created and moved to a new domain. Still, if it persists for more than 48 hours, it is best to mail your domain provider.</p>
+<p align="justify">Sometimes, you will come across (or not, if you're lucky) some infinite redirection errors. Don't fret, it's okay. You have just created and moved to a new domain. Still, if it persists for more than 48 hours, it is best to mail your domain provider or check your DNS settings.</p>
