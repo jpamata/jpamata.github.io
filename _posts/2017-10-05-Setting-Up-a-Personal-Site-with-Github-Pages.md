@@ -21,6 +21,6 @@ description: How to set up your own personal website and email - the cheapskate 
 <p align="justify">Now that you have your own site, it is time to get Google to index your site so that it appears on searches. This is the guide that I followed to make it happen: <a href="https://support.google.com/a/answer/6248925?hl=en">Google Domains: Verify your domain</a></p>
 
 <p align="justify">#4. <strong>Your Custom Email with Zoho mail</strong></p>
-If you want to add an e-mail for your new domain, you can do it for free with zoho mail. Just follow this guide: <p align="justify"><a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9758/2208/how-to-set-up-zoho-email-for-my-domain">How to set up Zoho email for my domain?</a></p>
+<p align="justify">If you want to add an e-mail for your new domain, you can do it for free with zoho mail. Just follow this guide: <a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9758/2208/how-to-set-up-zoho-email-for-my-domain">How to set up Zoho email for my domain?</a></p>
 
 <p align="justify">Sometimes, you will come across (or not, if you're lucky) some infinite redirection errors. Don't fret, it's okay. You have just created and moved to a new domain. Still, if it persists for more than 48 hours, it is best to mail your domain provider.</p>
