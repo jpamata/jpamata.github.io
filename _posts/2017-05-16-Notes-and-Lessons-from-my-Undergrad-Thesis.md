@@ -6,7 +6,6 @@ tag:
 - college
 category: blog
 author: john
-description: A brief reflection on four important notes from the days spent doing our undergrad thesis: preparation, reading, writing, and the experience.
 ---
 
 A brief reflection on four important notes from the days spent doing our undergrad thesis: preparation, reading, writing, and the experience.
