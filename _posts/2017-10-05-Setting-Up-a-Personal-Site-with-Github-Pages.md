@@ -9,8 +9,6 @@ author: john
 description: How to set up your own personal website and email - the cheapskate way. 
 ---
 
-//draft to be updated later
-
 <p align="justify">I have just recently moved this site from github pages to a namecheap domain. Without reinventing the wheel or anything I'll just stick to linking the excellent tutorials (which the authors update from time to time) that I've followed to the bone to get this site up and running.</p>
 
 <p align="justify">#1. <strong>Hosting with Github Pages. </strong></p> 
