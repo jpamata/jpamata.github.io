@@ -18,6 +18,6 @@ permalink: /resume/
 <p align="center"> Temporarily made private. Send a message below instead. </p>
 <form method="POST" action="http://formspree.io/contact@johnamata.com">
   <input type="email" name="email" placeholder="Your email"> </br>
-  <textarea name="message" placeholder="Your message"></textarea> </br>
+  <textarea name="message" placeholder="Your message"/></br>
   <button type="submit">Send</button> </br>
 </form>
