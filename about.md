@@ -35,13 +35,14 @@ layout: page
 	<li>Technologies</li>
 	  <ul>
 	    <li>NodeJS</li>
-	    <li>AngularJS (1.x) </li>
 	    <li>ReactJS</li>
 	    <li>Git</li>
+		<li>jQuery</li>
 	  </ul>
 	<li>Knowledgeable</li>
 	  <ul>
 		<li>Agile - Scrum</li>
+		<li>Blockchain (Ethereum) Programming</li>
 	  </ul>
 </ul>
 
