@@ -4,8 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+<h2>Hi!</h2>
 
-<p align="justify">Hi! I'm John, but you can call me Ice as most of my friends do. I'm a computer science undergrad from Asia Pacific College.</p>
+<p align="justify">I'm John, but you can call me Ice as most of my friends do. I'm a computer science undergrad from Asia Pacific College.</p>
 
 <p align="justify">Other than being busy in computer science, I also have various interests and hobbies. I'm a voracious reader, I read at least one book a week. I mostly read non-fiction, like Autobiographies, Self-Improvement, Business, Science, and recently, Mathematics.</p>
 
@@ -45,6 +46,11 @@ layout: page
 		<li>Blockchain (Ethereum) Programming</li>
 	  </ul>
 </ul>
+
+<h2>What I'm Currently Up To</h2>
+<p align="justify"><strong>In programming:</strong> The latest trend in blockchain and the rise of cryptocurrencies as an asset has caught my eye on the May of 2017. Ever since then, I have been pouring some of my free time on the topic. </p>
+<p align="justify"><strong>In life:</strong>
+I'm spending my time learning the spanish language with duolingo this year. Apart from it, I'm trying to commune with my creative side by relearning my dusty piano and taking some writing classes.</p>
 
 <h2>This Blog</h2>
 <p align="justify">This blog started as a collection of my thoughts and musings across my journey as a programmer. Soon, I will also be publishing my notes as I learn about new domains and skills - currently, I'm learning ReactJS for a startup I'm working on so expect a few articles about it this October. To learn more about why I blog, I recommend reading this <a href="http://johnamata.com/I-Blog-Because//">blog post</a>. </p>
