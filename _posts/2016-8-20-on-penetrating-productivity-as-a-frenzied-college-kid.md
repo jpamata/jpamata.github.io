@@ -14,7 +14,7 @@ description: Just like every other ability, therein lies techniques to help you 
 
 Just like every other ability, therein lies techniques to help you refine your prowess in this important skill . This post is about the four techniques that I use to amp myself from “slacker mode” to “warrior mode” in a few minutes. 
 
-> 1. Sets and Reps
+> 1) Sets and Reps
 
 <p align="justify">One good piece of advice that I got from reading Arnold Schwarzenegger’s Total Recall was to implement the Sets & Reps method from bodybuilding to your daily life .</p>
 
@@ -34,7 +34,7 @@ Timer+. A windows stopwatch app that I use for studying.
 
 </center>
 
->  2. Plan ahead
+>  2) Plan ahead
 
 <p align="justify">When you have a goal in mind, you don’t float around aimlessly. Goals ought to also be specific: prioritise it, set up a deadline, write some notes, etc.</p>
 
@@ -48,6 +48,6 @@ Timer+. A windows stopwatch app that I use for studying.
 
 </center>
 
-> 3. The **Reality Check** writing exercise
+> 3) The **Reality Check** writing exercise
 
 <p align="justify">One thing that’s quite fun to do is to set a 15-20 minute timer, open a text editor or get a notebook and pen, and within those minutes write about your life. I’d often start writing about (my plans in) the future then afterwards get down to the present. After a few minutes of self contemplation, you’d either motivate yourself about your success, or you’d either motivate yourself from the looming failure.</p>
