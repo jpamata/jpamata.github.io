@@ -53,6 +53,6 @@ layout: page
 I'm spending my time learning the spanish language with duolingo this year. Apart from it, I'm trying to commune with my creative side by relearning my dusty piano and taking some writing classes.</p>
 
 <h2>This Blog</h2>
-<p align="justify">This blog started as a collection of my thoughts and musings across my journey as a programmer. Soon, I will also be publishing my notes as I learn about new domains and skills - currently, I'm learning ReactJS for a startup I'm working on so expect a few articles about it this October. To learn more about why I blog, I recommend reading this <a href="http://johnamata.com/I-Blog-Because//">blog post</a>. </p>
+<p align="justify">This blog started as a collection of my thoughts and musings across my journey as a programmer. Soon, I will also be publishing my notes as I learn about new domains and skills - currently, I'm learning ReactJS for a startup I'm working on so expect a few articles about it this October. To learn more about why I blog, I recommend reading this <a href="http://johnamata.com/i-blog-because/">blog post</a>. </p>
 
 <p align="justify">To those who are curious, this blog is powered by GitHub Pages, Jekyll, Namecheap, and Indigo.</p>
