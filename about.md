@@ -43,14 +43,15 @@ layout: page
 	<li>Knowledgeable</li>
 	  <ul>
 		<li>Agile - Scrum</li>
-		<li>Blockchain (Ethereum) Programming</li>
 	  </ul>
 </ul>
 
 <h2>What I'm Currently Up To</h2>
-<p align="justify"><strong>In programming:</strong> The latest trend in blockchain and the rise of cryptocurrencies as an asset has caught my eye on the May of 2017. Ever since then, I have been pouring some of my free time on the topic. </p>
 <p align="justify"><strong>In life:</strong>
 I'm spending my time learning the spanish language with duolingo this year. Apart from it, I'm trying to commune with my creative side by relearning my dusty piano and taking some writing classes.</p>
+<p align="justify"><strong>In programming:</strong> The latest trend in blockchain and the rise of cryptocurrencies as an asset has caught my eye on the May of 2017. Ever since then, I have been pouring some of my free time on the topic. </p>
+<p align="justify"><strong>In other businesses:</strong>
+I spend some of my free time working on an indepedent smartwatch app development studio, developing and publishing apps and watchfaces for the android market. I utilise Javascript and C++ for the job.</p>
 
 <h2>This Blog</h2>
 <p align="justify">This blog started as a collection of my thoughts and musings across my journey as a programmer. Soon, I will also be publishing my notes as I learn about new domains and skills - currently, I'm learning ReactJS for a startup I'm working on so expect a few articles about it this October. To learn more about why I blog, I recommend reading this <a href="http://johnamata.com/i-blog-because/">blog post</a>. </p>
