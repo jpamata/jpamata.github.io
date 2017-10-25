@@ -17,19 +17,20 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Proficient</li>
+	<li>5+ Years</li>
 	  <ul>
 		<li>Java</li>
 		<li>Python</li>
 	  </ul>
-	<li>Intermediate</li>
+	<li>3-5 Years</li>
 	  <ul>
 	    <li>Javascript</li>
-	    <li>SQL</li>
+	    <li>C</li>
 	  </ul>
-	<li>Familiar</li>
+	<li>0-2 Years</li>
 	  <ul>
 	    <li>PHP</li>
+		<li>SQL</li>
 		<li>C#</li>
 	    <li>Ruby</li>
 	  </ul>
