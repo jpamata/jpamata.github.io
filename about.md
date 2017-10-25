@@ -44,6 +44,7 @@ layout: page
 	<li>Knowledgeable</li>
 	  <ul>
 		<li>Agile - Scrum</li>
+		<li>Machine Learning - TensorFlow & scikit-learn</li>
 	  </ul>
 </ul>
 
