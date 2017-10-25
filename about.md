@@ -36,7 +36,7 @@ layout: page
 	  </ul>
 	<li>Technologies</li>
 	  <ul>
-	    <li>NodeJS</li>
+	    <li>Node.js</li>
 	    <li>ReactJS</li>
 	    <li>Git</li>
 		<li>jQuery</li>
