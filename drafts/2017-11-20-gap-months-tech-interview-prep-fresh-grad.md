@@ -41,7 +41,7 @@ description: On making a study plan for preparing for tech interviews.
 
 > December, 2017: Web Development, Java, TOPCIT Flashcards
 
-> January, 2018: Algorithms
+> January, 2018: Algorithms, Design and Enterprise Patterns
 
 # Miscellaneous
 
