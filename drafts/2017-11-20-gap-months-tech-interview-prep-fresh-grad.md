@@ -39,11 +39,9 @@ description: On making a study plan for preparing for tech interviews.
 
 (picture of whiteboard)
 
-> December, 2017
--- Web Development, Java, TOPCIT Flashcards
+> December, 2017: Web Development, Java, TOPCIT Flashcards
 
-> January, 2018
--- Algorithms
+> January, 2018: Algorithms
 
 # Miscellaneous
 
