@@ -25,7 +25,8 @@ description: On making a study plan for preparing for tech interviews.
 > CS Fundamentals
 * http://www.geeksforgeeks.org/
 * MIT OCW: Introduction to Computer Science and Programming
-* MIT OCW:
+* YouTube Java Algorithms Playlist
+* MIT OCW: Introduction to Algorithms
 * https://www.udacity.com/course/technical-interview--ud513
 
 > Practicing
@@ -39,8 +40,10 @@ description: On making a study plan for preparing for tech interviews.
 (picture of whiteboard)
 
 > December, 2017
+-- Web Development, Java, TOPCIT Flashcards
 
 > January, 2018
+-- Algorithms
 
 # Miscellaneous
 
