@@ -11,6 +11,7 @@ description: On making a study plan for preparing for tech interviews.
 ---
 
 # Entering the Job Market
+Having slacked off on some of my classes, I. 
 
 # Study Materials
 > IT
