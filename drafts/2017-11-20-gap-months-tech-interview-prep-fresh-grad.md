@@ -18,8 +18,9 @@ description: On making a study plan for preparing for tech interviews.
 * 
 
 > Web Development
-* FreeCodeCamp
 * Youtube Playlist
+* FreeCodeCamp
+* https://www.udacity.com/course/full-stack-foundations--ud088
 
 > CS Fundamentals
 * http://www.geeksforgeeks.org/
