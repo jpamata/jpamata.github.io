@@ -10,6 +10,7 @@ author: john
 description: On making a study plan for preparing for tech interviews.
 ---
 
+#RESOURCES
 > IT
 * TOPCIT
 * 
@@ -22,3 +23,5 @@ description: On making a study plan for preparing for tech interviews.
 
 > Practicing
 * https://www.interviewbit.com/dashboard/
+
+#Study Plan
