@@ -17,7 +17,7 @@ resume-external: true
 resume-url: https://jpamata.github.io/resume/
 
 title: The Education of a Programmer
-url: 
+url: ""http://johnamata.com""
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
