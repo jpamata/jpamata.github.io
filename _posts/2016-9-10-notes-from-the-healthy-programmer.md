@@ -11,25 +11,27 @@ description: Some of my notes, input, and some additional research for the book,
 ---
 
 # On Chairs
-a
+<p align="justify"></p>
+Change Often Dr. Hedge recommends sitting for no longer than twenty minutes,
+but you shouldn’t stand for longer than twenty minutes at a time,
+either. The key is to keep your body moving—adjust your position often
+and take many breaks.
 
-# On Chairs
-a
 
 # On Diet
-a
+<p align="justify"></p>a
 
 # On Eye Strain
-a
+<p align="justify"></p>a
 
 # On Back Pain
-a
+<p align="justify"></p>a
 
 # On Wrist Pain
-a
+<p align="justify"></p>a
 
 # On Exercising
-a
+<p align="justify"></p>a
 
 # On Life
-a
+<p align="justify"></p>a
