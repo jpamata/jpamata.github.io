@@ -63,7 +63,7 @@ may promote the production of anticancer proteins.</p>
     <li>Support Your Body Relax </li>
     <li>Go for a Walk at Lunch </li>
     <li>Keep Your Feet on the Ground</li>
-    <li>Exercise
+    <li>Exercise</li>
     <li>Drink Enough Water</li>
     <li>Get Your Vitamin D</li>
     <li>Get Enough Sleep</li>
