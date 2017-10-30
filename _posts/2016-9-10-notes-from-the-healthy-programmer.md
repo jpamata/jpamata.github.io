@@ -31,16 +31,23 @@ and abdomen to contract more often than when you sit. This is important because 
 
 # On Headache
 <p align="justify"><strong>Drink Water</strong> Dehydration contributes to headaches in many different ways. It creates a chemical imbalance by reducing the quantity of essential salts (sodium and potassium) in your body. It also leads to a drop in blood volume, which lowers the blood and oxygen levels in the brain. This causes blood vessels in the brain to dilate and swell, which results in the feeling of a headache. As a result, one of the best ways to prevent headaches is to drink plenty of water. A recent study from the Institute of Medicine determined that adult men need roughly 3.7 liters (about 16 cups) of water per day and women need roughly 2.7 liters (about 12 cups) of water each day</p>
+
 <p align="justify"><strong>Dim the lights, lie down, close your eyes, and try to relax.</strong> That’s the best way to treat a headache, because it has no side effects and won’t cause a rebound headache. If possible, place a cool wet towel on your forehead. Despite its simplicity, this strategy has proven to be effective.</p>
 
 # On Back Pain
-<p align="justify"></p>a
+<p align="justify"><strong>Support Your Body</strong> Adjust your chair height so that your back is properly supported. Your hips should be level with your knees so your are not sliding forward or backward in the seat. You’ll also want to adjust your desk height so that your elbows are level with your wrists. This will help relieve strain on your shoulders that can ripple down your back.</p>
+
+<p align="justify"><strong>Go for a Walk at Lunch</strong> The benefits of walking are undeniable, and the most relevant benefit to this discussion is that walking can help reduce back pain. Decades ago, doctors recommended bed rest for patients with back problems, but today we know that activity is the best prescription.</p>
+
+<p align="justify"><strong>Keep Your Feet on the Ground</strong> One of the most overlooked aspects of posture is the importance of keeping your feet on the ground. This helps support the weight from your legs and keeps you balanced. If your feet are not touching the ground but your position is good otherwise, then you may want to use a small footrest to prop up your feet.</p>
+
+<p align="justify"><strong>Cat Back (Cat-Camel)</strong> Dr. McGill recommends beginning each routine with the cat-back exercise, which is intended to reduce spine viscosity (that is, internal resistance and friction) by lubricating the nerve roots where they exit the spine. It is essentially a warm-up for your back. Keep in mind that it is intended as a motion exercise, not a stretching exercise. <a href="https://www.webmd.com/fitness-exercise/cat-camel">Link to Exercise Instructions</a></p>
 
 # On Wrist Pain
-<p align="justify"></p>a
+<p align="justify"><strong></p>
 
 # On Exercising
-<p align="justify"></p>a
+<p align="justify"><strong></p>a
 
 # On Life
-<p align="justify"></p>a
+<p align="justify"><strong></p>a
