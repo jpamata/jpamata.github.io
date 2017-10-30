@@ -43,11 +43,12 @@ and abdomen to contract more often than when you sit. This is important because 
 
 <p align="justify"><strong>Cat Back (Cat-Camel)</strong> Dr. McGill recommends beginning each routine with the cat-back exercise, which is intended to reduce spine viscosity (that is, internal resistance and friction) by lubricating the nerve roots where they exit the spine. It is essentially a warm-up for your back. Keep in mind that it is intended as a motion exercise, not a stretching exercise. <a href="https://www.webmd.com/fitness-exercise/cat-camel">Link to Exercise Instructions</a></p>
 
-# On Wrist Pain
-<p align="justify"><strong></p>
-
-# On Exercising
-<p align="justify"><strong></p>a
-
 # On Life
-<p align="justify"><strong></p>a
+<p align="justify"><strong>Drink Enough Water </strong>We’ve already discussed the relationship between hydration and headaches, but hydration affects your immune system, as well. Dehydration creates a chemical imbalance in your body that prevents the immune system from functioning at it’s best. So keep drinking eight glasses of water each day (follow the 8x8 rule), and remember to stay
+hydrated during and after exercise.</p>
+
+<p align="justify"><strong></p>
+    
+<p align="justify"><strong>Get Your Vitamin D</strong> It is clear that vitamin D plays an important role in the immune system. In fact, a deficiency in vitamin D has been shown to increase the risk of infection.19 Your ten minutes of unprotected sun exposure each day should help improve your immune function and restore balance in your health.</p>
+
+<p align="justify"><strong> Get Enough Sleep</strong> We don’t know the exact number of hours one should sleep at night—it probably differs from person to person—but we do know that losing sleep, such as by staying awake for twenty-four-hour periods, has a negative impact on the immune system. One of the first studies to demonstrate this came from the University of Lübeck in Germany. Researchers vaccinated participants against hepatitis A. One experimental group slept after the shot while another group stayed awake. Both groups were tested four weeks later, and the experimental group showed a twofold increase in certain antibodies. In general, a good amount of sleep is probably between seven and nine hours, and going without sleep is really bad</p>
