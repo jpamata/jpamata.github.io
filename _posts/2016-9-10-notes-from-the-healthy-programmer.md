@@ -20,9 +20,6 @@ description: Some of my notes, input, and some additional research for the book,
 <p align="justify"><strong>Stand</strong> An advantage of standing is that it’s not sitting. This simple fact means that standing can reduce your risk for many of the diseases we discussed in the previous section. To be specific, standing forces the muscles in your legs
 and abdomen to contract more often than when you sit. This is important because when those muscles don’t contract, your body suppresses the production of an enzyme in the skeletal muscle called lipoprotein lipase (LPL). LPL plays an important role in transporting fats and breaking down fat-carrying molecules in the bloodstream. When the enzyme is not available, fatty materials can build up on the walls of your arteries.</p>
 
-# On Diet
-<p align="justify"></p>a
-
 # On Eye Strain
 <p align="justify"></p>a
 
