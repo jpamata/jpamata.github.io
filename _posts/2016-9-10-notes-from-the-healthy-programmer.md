@@ -29,6 +29,10 @@ and abdomen to contract more often than when you sit. This is important because 
 
 <p align="justify"><strong>Take Off Your Prescription Glasses</strong> Many people with myopia (nearsightedness) don’t actually need their glasses when using a computer. Try taking them off—you may find that you can see just fine. In fact, most optometrists recommend taking off your glasses whenever it’s possible.</p>
 
+# On Headache
+<p align="justify"><strong>Drink Water</strong> Dehydration contributes to headaches in many different ways. It creates a chemical imbalance by reducing the quantity of essential salts (sodium and potassium) in your body. It also leads to a drop in blood volume, which lowers the blood and oxygen levels in the brain. This causes blood vessels in the brain to dilate and swell, which results in the feeling of a headache. As a result, one of the best ways to prevent headaches is to drink plenty of water. A recent study from the Institute of Medicine determined that adult men need roughly 3.7 liters (about 16 cups) of water per day and women need roughly 2.7 liters (about 12 cups) of water each day</p>
+<p align="justify"><strong>Dim the lights, lie down, close your eyes, and try to relax.</strong> That’s the best way to treat a headache, because it has no side effects and won’t cause a rebound headache. If possible, place a cool wet towel on your forehead. Despite its simplicity, this strategy has proven to be effective.</p>
+
 # On Back Pain
 <p align="justify"></p>a
 
