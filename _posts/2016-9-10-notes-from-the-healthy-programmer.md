@@ -17,7 +17,7 @@ description: Some of my notes, input, and some additional research for the book,
 
 <p align="justify"><strong>Change If It Hurts</strong> If you’ve been standing for a few minutes and your legs or feet are starting to hurt, then sit down. Likewise, if you’ve been sitting and your back or shoulders start to hurt, then stand up. Neither of these positions should be painful, so the best position is the one in which you are able to hold good posture.</p>
 
-<p align="justify"><strong>Stand</strong> An advantage of standing is that it’s not sitting. This simple fact means that standing can reduce your risk for many of the diseases we discussed in the previous section. To be specific, standing forces the muscles in your legs
+<p align="justify"><strong>Stand Often</strong> An advantage of standing is that it’s not sitting. This simple fact means that standing can reduce your risk for many of the diseases we discussed in the previous section. To be specific, standing forces the muscles in your legs
 and abdomen to contract more often than when you sit. This is important because when those muscles don’t contract, your body suppresses the production of an enzyme in the skeletal muscle called lipoprotein lipase (LPL). LPL plays an important role in transporting fats and breaking down fat-carrying molecules in the bloodstream. When the enzyme is not available, fatty materials can build up on the walls of your arteries.</p>
 
 # On Eye Strain
@@ -53,3 +53,19 @@ hydrated during and after exercise.</p>
 
 <p align="justify"><strong> Stop and smell the roses</strong>—literally. Some natural scents, such as evergreen,
 may promote the production of anticancer proteins.</p>
+
+# Retrospective
+<ul>
+    <li>Stand Often</li>
+    <li>Exercise Your Eyes</li>
+    <li>Take Breaks Often </li>
+    <li>Take Off Your Prescription Glasses</li>
+    <li>Support Your Body Relax </li>
+    <li>Go for a Walk at Lunch </li>
+    <li>Keep Your Feet on the Ground</li>
+    <li>Exercise
+    <li>Drink Enough Water</li>
+    <li>Get Your Vitamin D</li>
+    <li>Get Enough Sleep</li>
+    <li>Stop and smell the roses</li>
+</ul>
