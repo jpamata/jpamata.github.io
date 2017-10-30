@@ -21,7 +21,13 @@ description: Some of my notes, input, and some additional research for the book,
 and abdomen to contract more often than when you sit. This is important because when those muscles don’t contract, your body suppresses the production of an enzyme in the skeletal muscle called lipoprotein lipase (LPL). LPL plays an important role in transporting fats and breaking down fat-carrying molecules in the bloodstream. When the enzyme is not available, fatty materials can build up on the walls of your arteries.</p>
 
 # On Eye Strain
-<p align="justify"></p>a
+<p align="justify"><strong>Blink Often</strong> Blinking moistens your eyes and replenishes the protective film that coats the cornea. When working at a computer, you tend to blink less often—about five times less than normal. This causes your eyes to dry out more rapidly. As a result, you need to force yourself to blink—ideally every twenty minutes. Close your eyes slowly, as though you are falling asleep, and repeat ten times.</p>
+
+<p align="justify"><strong>Exercise Your Eyes</strong> The primary reason that eyes become tired or fatigued is that they are focusing at a single depth for a long period of time. Think of holding a heavy object—after a while you need to shift it around. That’s exactly why it’s good to exercise your eyes. Rely on the 20-20-20 rule. That is, look away from your computer every 20 minutes, focus on an object that is 20 feet (6 meters) away, and look at it for 20 seconds.</p>
+
+<p align="justify"><strong>Take Breaks Often</strong> You’re probably getting tired of being told to take breaks. But here’s one more reason: according to the National Institute for Occupational Safety and Health, discomfort and eye strain were significantly reduced when computer-workers took four additional five-minute “mini-breaks” throughout the work day.</p>
+
+<p align="justify"><strong>Take Off Your Prescription Glasses</strong> Many people with myopia (nearsightedness) don’t actually need their glasses when using a computer. Try taking them off—you may find that you can see just fine. In fact, most optometrists recommend taking off your glasses whenever it’s possible.</p>
 
 # On Back Pain
 <p align="justify"></p>a
