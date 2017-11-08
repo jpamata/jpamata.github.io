@@ -26,3 +26,5 @@ description: How to set up your own personal website and email - the cheapskate 
 <p align="justify">Sometimes, you may come across (or not, if you're lucky) some redirection errors. Don't fret, it's okay. You have just created and moved to a new domain. Your DNS still has to propagate to various other servers around the world. To see its status, you can check it here: <a href="http://cachecheck.opendns.com/">CacheCheck – OpenDNS</a>. For some, it takes 48 hours, some 72 hours, and then on others up to a week. Nonetheless, if it persists for more than 3 days, it is best to mail namecheap about it. Also, check your DNS settings for any duplicates or past records. Those redirection errors may be happening because of a fault in your end, use this site, <a href="http://www.redirect-checker.org">Redirect Checker</a> to diagnose the fault.</p>
 
 <p align="justify">-- John</p>
+> Namecheap DNS Settings
+<div align="center"><img src="https://i.imgur.com/iVhB4TG.png"></div>
