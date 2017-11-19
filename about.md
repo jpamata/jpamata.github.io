@@ -3,23 +3,10 @@ layout: page
 title: "About"
 permalink: /about/
 ---
-<script>
-.hi img {
-  float: left;
-  width: 300px;
-  height: 399px;
-}
 
-.hi h1 {
-  position: relative;
-}
-</script>
 
-<div class="hi">
-  <img src="/assets/profile.JPG"/>
-  <h1>Hi</h1>
-</div>
-
+  
+<img src="/assets/profile.JPG"/ align="center" height="300"> ## Hi 
 <p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities.</p>
 
 ## About me
