@@ -104,7 +104,7 @@ How to Speak to Computers, Pre-Siri</a>
    <p align="justify"> >>
     <a href="http://hackerrank.com">HackerRank</a>
    </p>
-  <p align="justify">
+  <p align="justify"> >>
     <a href="https://www.codewars.com">codewars</a>
   </p>
 
