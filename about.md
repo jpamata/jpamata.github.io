@@ -4,237 +4,70 @@ title: "About"
 permalink: /about/
 ---
 
-whiteglass is a minimal, responsive Jekyll theme for hackers.
+## Hi,
+<p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities.</p>
 
-## Installation
+<p align="justify">My main site, which is full of my thoughts from programming, can be visited by clicking the <strong>Back to Main Site</strong> button from the above menu, next to the Archives button. You can also visit it through this <a href="johnamata.com">link</a>.</p>
 
-Add this link to your Jekyll site's Gemfile:
+## About me
+<p align="justify">Some of my friends call me John, while some call me Ice. I'm a computer science undergrad from Asia Pacific College.</p>
 
-``` ruby
-gem "jekyll-whiteglass"
-```
+<p align="justify">Other than being busy in computer science, I also have various interests and hobbies. I'm a voracious reader, I read at least one book a week. I mostly read non-fiction, like Autobiographies, Self-Improvement, Business, Science, and recently, Mathematics.</p>
 
-And add this line to your Jekyll site's `_config.yml`:
+<p align="justify">My most proud trait, is being a disciplined goal setter. Every year, I'd set up goals for myself and accomplish them. Thanks to that habit, it brought me some joys and skills in life: I learned to play the guitar, the piano, started hitting the gym and am strong enough to deadlift my bodyweight, and over time, learned some niche fields in computer science - natural language processing and machine learning.</p>
 
-``` yaml
-theme: jekyll-whiteglass
-```
+<p align="justify">On the topic of CS, I was never the guy who was into computers, even though I came from a technical school, Don Bosco Technical Institute - Makati. In time though, I have found that it is indeed a rewarding path to take in life. There is nothing more rewarding than creating your own product and shipping it to the public.</p>
 
-And then execute:
+<h2>Resume</h2>
+<a href="https://drive.google.com/open?id=1dHgeTZn1feIsLZAPTLa6Y7CKn5OX1tZF">PDF</a>
 
-``` sh
-bundle
-```
+<h2>Skills</h2>
 
-Or install it yourself as:
+<ul class="skill-list">
+	<li>5+ Years</li>
+	<ul>
+		  <li>Java</li>
+		  <li>Python</li>
+	</ul>
+	<li>3-5 Years</li>
+	<ul>
+		  <li>Javascript</li>
+		  <li>SQL</li>
+	</ul>
+	<li>0-2 Years</li>
+	<ul>
+		  <li>PHP</li>
+		  <li>C#</li>
+		  <li>Ruby</li>
+	</ul>
+	<li>Technologies</li>
+	<ul>
+		<li>Node.js</li>
+		<li>ReactJS</li>
+		<li>Git</li>
+		<li>jQuery</li>
+	</ul>
+	<li>Knowledgeable</li>
+	<ul>
+		<li>Agile - Scrum</li>
+		<li>Machine Learning - TensorFlow & scikit-learn</li>
+	</ul>
+</ul>
 
-``` sh
-gem install jekyll-whiteglass
-```
+<h2>What I'm Currently Up To</h2>
+<p align="justify"><strong>In life:</strong>
+I'm spending my time learning the spanish language with duolingo this year. Apart from it, I'm trying to commune with my creative side by relearning my dusty piano and taking some writing classes.</p>
+<p align="justify"><strong>In programming:</strong> Other than programming C# and JavaScript at work, the latest trend in blockchain and the rise of cryptocurrencies as an asset has caught my eye on the May of 2017. Ever since then, I have been pouring some of my free time on the topic. </p>
+<p align="justify"><strong>In other businesses:</strong>
+I spend some of my free time working on an independent smartwatch app development studio, developing and publishing apps and watchfaces for the android market. I utilise Javascript and C++ for the job.</p>
 
-## Quick Start
-
-1. Generate a new Jekyll blog:
-
-   ``` sh
-   jekyll new blog --skip-bundle
-   cd blog
-   ```
-
-2. Edit `Gemfile` to use whiteglass theme:
-
-   ``` ruby
-   gem "jekyll-whiteglass"
-   ```
-
-3. Edit `_config.yml` to use whiteglass theme and its plugins:
-
-   ``` yaml
-   theme: jekyll-whiteglass
-   gems:
-     - jekyll-archives
-     - jekyll-paginate
-     - jekyll-sitemap
-
-   permalink: /:year/:month/:day/:title/
-   paginate_path: /posts/:num/
-   paginate: 5
-
-   jekyll-archives:
-     enabled:
-       - categories
-     layout: category_archives
-     permalinks:
-       category: /categories/:name/
-   ```
-
-4. Copy
-   [`index.html`](https://github.com/yous/whiteglass/blob/master/index.html),
-   [`about.md`](https://github.com/yous/whiteglass/blob/master/about.md),
-   [`archives.md`](https://github.com/yous/whiteglass/blob/master/archives.md),
-   [`feed.xml`](https://github.com/yous/whiteglass/blob/master/feed.xml), and
-   [`_data/navigation.yml`](https://github.com/yous/whiteglass/blob/master/_data/navigation.yml)
-   from the theme:
-
-   ``` sh
-   rm index.md
-   curl -L -O "https://github.com/yous/whiteglass/raw/master/{index.html,about.md,archives.md,feed.xml}"
-   curl -L --create-dirs -o _data/navigation.yml https://github.com/yous/whiteglass/raw/master/_data/navigation.yml
-   ```
-
-5. Install gems and you're good to go! The blog will be available on
-   `http://127.0.0.1:4000`.
-
-   ``` sh
-   bundle install
-   bundle exec jekyll serve
-   ```
-
-## Usage
-
-### Customization
-
-To override the default structure and style of whiteglass, simply create the
-concerned directory at the root of your site, copy the file you wish to
-customize to that directory, and then edit the file. e.g., to override the
-[`_includes/head_custom.html`](_includes/head_custom.html) file to specify a
-custom style path, create an `_includes` directory, copy
-`_includes/head_custom.html` from jekyll-whiteglass gem folder to
-`<your-site>/_includes` and start editing that file.
-
-The site's default CSS is in the gem itself,
-[`assets/main.scss`](assets/main.scss). To override the default CSS, the file
-has to exist at your site source. Do either of the following:
-
-- Create a new instance of `main.scss` at site source
-  - Create a new file `main.scss` at `<your-site>/assets/`
-  - Add the frontmatter dashes, and
-  - Add `@import "whiteglass";`, to `<your-site>/assets/main.scss`
-  - Add your custom CSS
-- Download the file from this repo
-  - Create a new file `main.scss` at `<your-site>/assets/`
-  - Copy the contents at [`assets/main.scss`](assets/main.scss) onto the `main.scss` you just created, and edit away
-- Copy directly from jekyll-whiteglass gem
-  - Go to your local jekyll-whiteglass gem installation directory (run `bundle show jekyll-whiteglass` to get the path to it)
-  - Copy the `assets/` folder from there into the root of `<your-site>`
-  - Change whatever values you want, inside `<your-site>/assets/main.scss`
-
-### Locale
-
-`site.lang` is used to declare the primary language for each web page within the
-site.
-
-`lang: en-US` sets the `lang` attribute for the site to the United States flavor
-of English, while `en-GB` would be for the United Kingdom style of English.
-Country codes are optional and the shorter variation `lang: en` is also
-acceptable. You may want to write a post in different language, then add `lang`
-attribute to the frontmatter of that post:
-
-``` yaml
-layout: post
-title: "안녕하세요"
-lang: ko
-```
-
-### Description
-
-`site.description` describes the site. This is mainly used in meta descriptions
-for improving SEO. Also, you can set `description` attribute for each post:
-
-``` yaml
-layout: post
-title: Awesome Post
-description: This is an awesome post.
-```
-
-### Category
-
-Each post can have `categories` attribute. It can be a string or an array. This
-will be displayed on index, archive and each post, and provide a link to the
-archive of category.
-
-``` yaml
-layout: post
-title: Awesome Post
-categories: Misc
-```
-
-``` yaml
-layout: post
-title: Another Awesome Post
-categories:
-  - Misc
-  - Idea
-```
-
-### Comments
-
-whiteglass provides the ability to include your favourite commenting service, like [Disqus](https://disqus.com) or [Isso](https://posativ.org/isso).
-
-To enable comments on pages and posts:
-1. Overwrite the `_includes/custom_comments_provider.html` with your custom provider of comments.
-2. Add `comments: true` to your `_config.yml`.
-
-To disable comments on certain pages or posts specify `comments: false` in the front matter of the page or post.
-
-### Metadata for SEO
-
-#### Keywords
-
-Each post can have `keywords` attribute. This is a comma-separated list which is
-used in meta descriptions for improving SEO.
-
-``` yaml
-layout: post
-title: How to configure jekyll-whiteglass
-keywords: jekyll, whiteglass, github pages
-```
-
-YAML list is also available:
-
-``` yaml
-keywords:
-  - jekyll
-  - whiteglass
-  - github pages
-```
-
-#### Twitter
-
-- `site.twitter_username` sets `twitter:site` and `twitter:creator` meta tag
-- `site.twitter_image` sets `twitter:image:src` meta tag
-- `page.twitter_card.type` sets `twitter:card` meta tag (default: `summary`)
-  - If `page.twitter_card.type` is `gallery`, it sets `twitter:image0`, `twitter:image1`, `twitter:image2` and `twitter:image3` meta tags with `page.twitter_card.image`, `page.twitter_card.image1`, `page.twitter_card.image2` and `page.twitter_card.image3`, respectively
-  - If `page.twitter_card.type` is `photo`, `page.twitter_card.width` sets `twitter:image:width` meta tag and `page.twitter_card.height` sets `twitter:image:height` meta tag
-- `page.twitter_card.creator` sets `twitter:creator` meta tag. It overrides `site.twitter_username`
-- `page.twitter_card.image` sets `twitter:image:src` meta tag if `page.twitter_card.type` is not `gallery`. It overrides `site.twitter_image`
-
-#### Facebook
-
-- `site.facebook_app_id` sets `fb:admins` meta tag
-- `site.facebook_page` sets `article:author` meta tag
-- `site.facebook_image` sets `og:image` meta tag
-- `page.facebook.image` sets `og:image` meta tag. It overrides `site.facebook_image`
-
-### Navigation
-
-To define header links, add titles and URLs under the `main` key in
-`_data/navigation.yml`:
-
-``` yaml
-main:
-  - title: "About"
-    url: /about/
-  - title: "Archives"
-    url: /archives/
-  - title: "GitHub"
-    url: https://github.com/yous/whiteglass
-```
-
-### Enabling Google Analytics
-
-To enable Google Analytics, add the following lines to your Jekyll site:
-
-``` yaml
-google_analytics: UA-NNNNNNNN-N
-```
+<h2>Bookshelf</h2>
+<p align="justify">A list of books that influenced me.</p>
+<ul>
+	<li><strong>Arnold: Education of a Bodybuilder by Arnold Schwarzenegger</strong> for showing me that confidence is built by victories and success, and that smart, hard work trumps all.</li>
+	<li><strong>Surely You're Joking, Mr. Feynman! by Richard Feynman</strong> for showing me how to enjoy life and to always carry curiosity.</li>
+	<li><strong>Don Quixote by Miguel de Cervantes</strong> for showing me how beautiful literature can be.</li>
+	<li><strong>The 4-Hour Workweek by Timothy Ferriss</strong> for showing me that there's something else other than working.</li>
+	<li><strong>Head First Android Development by Anthony Griffiths and Thomas Asbridge</strong> for showing me how fun programming could be.</li>
+	<li><strong>Introduction to Algorithms by C., L., R., S.</strong> for showing me that math is actually useful.</li>
+</ul>
