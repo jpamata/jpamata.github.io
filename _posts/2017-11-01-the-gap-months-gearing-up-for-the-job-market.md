@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Gap Months: Gearing Up for the Job Market"
-categories: career
 author: "John"
 description: On preparing for technical interviews and putting myself out there.
 ---
@@ -13,7 +12,7 @@ description: On preparing for technical interviews and putting myself out there.
 </p>
   <p>  --- Arnold Schwarzenegger </p>
   <p align="justify">Out of all the quotes I've heard, it is the one that has always stood out to me the most. Simply because it is something that forces you to think about defeat - yours, precisely. Since then, I've used it as a way to assess my life. <i> Am I spending my time correctly? Am I doing the right thing? Which should I prioritise? </i> These are such questions that arise as I ponder about the said quote. And as my internship is drawing to an end, I see the same thoughts popping up as I reflect on the question, <i>What's  next?</i></p>
-  
+<!-- more -->  
 <p align="justify">In a month, I am to depart from Willis Towers Watson and enter the world as an undergrad facing the job market. So the answer to the question, <i>What's next?</i>, is of course to keep busy. That could be either with getting another job, studying, or working on a new project. I would like to work on a new project, that is what I'll do, yet at the same time I need to find a way to finance my ventures. So the priority then, is to find a job.</p>
 
 <p align="justify">I've a little knowledge of the IT job industry in the country, yet enough to understand that it is a competitive one. Yes, we all know that there's a high demand for IT workers but the demand is for competitive, skilled workers. I've heard stories from my friends and from strangers of typical interview practices and processes and what employers look for fresh grads. With these knowledge, I developed a plan to prepare myself for the Job Market, one that I'll follow as early as today to January. This blog post details the plan that I've made, a three pronged attack on the following: </p>
@@ -22,8 +21,6 @@ description: On preparing for technical interviews and putting myself out there.
    <p align="justify"> >><strong>Projects</strong>: to pass the resume filters and get to the interview </p>
    <p align="justify"> >><strong>Knowledge</strong>: to pass the interviews and get the job </p>
 </ol>
-
-<!-- more -->
 
 <h2>Three - Pronged Attack</h2>
 <hr>
