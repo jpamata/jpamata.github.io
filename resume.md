@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "Blog Archive"
+layout: page
+title: "Resume"
 permalink: /resume/
 ---
 <h2>Resume</h2>
