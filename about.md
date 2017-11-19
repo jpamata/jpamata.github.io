@@ -16,7 +16,7 @@ permalink: /about/
 </script>
 
 <div class="hi">
-  <img src="/assets/profile.jpg" alt="profile" />
+  <img src="/assets/profile.JPG"/>
   <h1>Hi</h1>
 </div>
 
