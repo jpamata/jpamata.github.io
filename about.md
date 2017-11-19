@@ -38,7 +38,7 @@ I spend some of my free time working on an independent smartwatch app developmen
 <p align="justify">Books I'm currently reading.</p>
 <ul>
 	<li><strong>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance</strong> because we all need a good motivational story every once in a while.</li>
-	<li><strong>Basic Economics by Thomas Sowell</strong> because it has always been a subject matter that is significant, and as such, is worth reviewing.</li>
+	<li><strong>Basic Economics by Thomas Sowell</strong> because it's not really an economics 101 book, but a book that teaches the economic principles through real world examples, policies, and more.</li>
 	<li><strong>Building a JavaScript Framework by Alex Young</strong> because I want to learn about clean API designs and the machinations of JavaScript .</li>
 	<li><strong>Coding the Matrix: Linear Algebra Through Computer Science Applications by Philip N. Klein</strong> because it would help once I start diving deeper into machine learning, though that is a big "if".</li>
 </ul>
