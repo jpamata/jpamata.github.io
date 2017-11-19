@@ -70,3 +70,6 @@ jekyll-archives:
   layout: category_archives
   permalinks:
     category: /categories/:name/
+
+disqus:
+  shortname: "john-amata" # enter this from your disqus account
