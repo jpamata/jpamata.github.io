@@ -7,8 +7,6 @@ permalink: /about/
 ## Hi,
 <p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities.</p>
 
-<p align="justify">My main site, which is full of my thoughts from programming, can be visited by clicking the <strong>Back to Main Site</strong> button from the above menu, next to the Archives button. You can also visit it through this <a href="johnamata.com">link</a>.</p>
-
 ## About me
 <p align="justify">Some of my friends call me John, while some call me Ice. I'm a computer science undergrad from Asia Pacific College.</p>
 
@@ -17,42 +15,6 @@ permalink: /about/
 <p align="justify">My most proud trait, is being a disciplined goal setter. Every year, I'd set up goals for myself and accomplish them. Thanks to that habit, it brought me some joys and skills in life: I learned to play the guitar, the piano, started hitting the gym and am strong enough to deadlift my bodyweight, and over time, learned some niche fields in computer science - natural language processing and machine learning.</p>
 
 <p align="justify">On the topic of CS, I was never the guy who was into computers, even though I came from a technical school, Don Bosco Technical Institute - Makati. In time though, I have found that it is indeed a rewarding path to take in life. There is nothing more rewarding than creating your own product and shipping it to the public.</p>
-
-<h2>Resume</h2>
-<a href="https://drive.google.com/open?id=1dHgeTZn1feIsLZAPTLa6Y7CKn5OX1tZF">PDF</a>
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>5+ Years</li>
-	<ul>
-		  <li>Java</li>
-		  <li>Python</li>
-	</ul>
-	<li>3-5 Years</li>
-	<ul>
-		  <li>Javascript</li>
-		  <li>SQL</li>
-	</ul>
-	<li>0-2 Years</li>
-	<ul>
-		  <li>PHP</li>
-		  <li>C#</li>
-		  <li>Ruby</li>
-	</ul>
-	<li>Technologies</li>
-	<ul>
-		<li>Node.js</li>
-		<li>ReactJS</li>
-		<li>Git</li>
-		<li>jQuery</li>
-	</ul>
-	<li>Knowledgeable</li>
-	<ul>
-		<li>Agile - Scrum</li>
-		<li>Machine Learning - TensorFlow & scikit-learn</li>
-	</ul>
-</ul>
 
 <h2>What I'm Currently Up To</h2>
 <p align="justify"><strong>In life:</strong>
