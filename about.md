@@ -4,9 +4,8 @@ title: "About"
 permalink: /about/
 ---
 
-
-  
-<img src="/assets/profile.JPG"/ align="center" height="300"> ## Hi 
+<img src="/assets/profile.JPG"/ align="center" />
+## Hi  
 <p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities.</p>
 
 ## About me
