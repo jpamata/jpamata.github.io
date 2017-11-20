@@ -22,3 +22,10 @@ description: A few things on the first blockchain app I made.
 
 <p align="justify">Enter my first blockchain app:</p>
 <!-- more -->  
+<p align="justify">screenshot here</p>
+<p align="justify">explain app</p>
+<h2>Blockchain Fundamentals</h2>
+<p align="justify">details</p>
+<p align="justify">image of process here</p>
+<h2>Learning Resources</h2>
+<p align="justify">put list here</p>
