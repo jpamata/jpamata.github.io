@@ -8,7 +8,7 @@ description:
 <p style="text-align: center;">“Keep your eyes on the horizon and your nose to the wind.” ~ Clint Eastwood</p>
 <a href="http://i.imgur.com/LAjOCk9.jpg"><img class="alignnone" src="http://i.imgur.com/LAjOCk9.jpg" alt=""/></a>
 
-<!--more-->
+<!-- more -->  
 
 <p align="justify">I along with my cousins JR, and Charles and a few friends were staying at Claveria, Cagayan at that time and we have been planning to go to one of the northernmost islands of the Philippines, Palaui. Fortunately, we know of this mountaineering club and they graciously offered to rendezvous with them. And so We slept past midnight and woke up at around 3:00 AM as group the meet-up was set at 4:00 AM. The first thing we did was a morning pump, ergo we did push-ups, situps, and planks in the morning to wake ourselves up and prep our bodies into a cover photo ready state lol. </p>
 
