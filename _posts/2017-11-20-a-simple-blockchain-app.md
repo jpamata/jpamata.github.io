@@ -28,4 +28,4 @@ description: A few things on the first blockchain app I made.
 <p align="justify">details</p>
 <p align="justify">image of process here</p>
 <h2>Learning Resources</h2>
-<p align="justify">put a <ul> list here</p>
+<p align="justify">put a "<ul>" list here</p>
