@@ -9,7 +9,7 @@ description: I admit. I am not an expert and I do not claim to be one. How can I
 
 > Whoever gets elected, I will support. But if he does something wrong, he will hear my voice. Our country cannot afford any more mistakes.
 > Source: (twitter) @DickGordonDG on 3 May 2016
-
+<!-- more -->  
 <p align="justify">Anyhow, I surely do hope that the outrageous things that Mr Duterte promised during his campaign are just for the sake of showbiz and garnering votes. Please Sir Duterte, please prove me wrong.</p>
 <p align="justify">On one hand, that hefty salary increase for government officials looks good. My dad who’s contemplating about retiring from the government early and move abroad might just change his mind and stay in this country for a bit.</p>
 <p align="justify">Aquino’s sound economic achievements/policies and massive improvements on provincial infrastructure, and Arroyo’s policies geared towards in foreign investors and various economic projects, it should shield us for at least the first couple of years in case Duterte does something bad.</p>
