@@ -7,7 +7,7 @@ permalink: /about/
 <img src="/assets/profile.JPG"/>
 </center>
 ## Hi  
-<p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities.</p>
+<p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities. This blog is powered by Jekyll, Github Pages, Namecheap, Disqus, whiteglass, formspree, and a few JavaScript magic.</p>
 
 ## About me
 <p align="justify">Some of my friends call me John, while some call me Ice. I'm a computer science undergrad from Asia Pacific College.</p>
