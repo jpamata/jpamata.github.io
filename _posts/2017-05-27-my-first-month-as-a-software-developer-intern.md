@@ -85,6 +85,6 @@ func main() {
 
 **[7:00]** Dine and shower. In that order. Showers are long as I retrospect my life.
 
-**[8:00]** Either read a technical book (science, technology, math) or learn some new stuff from an online course/video.
+**[8:00]** Either read a STE, book or learn some new stuff from an online course/video.
 
 **[10:00]** Sleep. If I can't sleep, I read a fiction book to put me to sleep. 
