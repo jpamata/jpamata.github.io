@@ -45,13 +45,17 @@ func main() {
 
 <p align = "center"> *AM* </p>
 
-**[6:00]** Alarm goes off. Read a book, typically memoirs and self-improvement books.
+**[5:00]** Alarm goes off
 
-**[7:00]** Finally Wake Up. Get out of bed, eat breakfast, bath, brush teeth. If I still don't feel like it, I play piano or browse the net.
+**[6:00]** Finally wake up. Read a book, typically memoirs and self-improvement books.
 
-**[8:30]** Arrive at office. Open facebook, ycombinator, reddit, and read up the latest articles on business and tech.
+**[7:00]** Get out of bed, eat breakfast, bath, brush teeth. If I still don't feel like it, I play piano or browse the net.
 
-**[9:00]** Start looking at yesterday's work to prepare for a standup report/updates. 
+**[8:30]** Arrive at office to get my allowance. 
+
+**[8:45]** Open ycombinator (hacker news) to read up the latest articles on business and tech.
+
+**[9:00]** Panic as I start looking at yesterday's work to prepare for a standup report. 
 
 **[9:30]** The daily pilgrimage to Mcdonald's. I don't actually need to eat, but that routine serves as my "morning coffee".
 
@@ -59,24 +63,25 @@ func main() {
 
 **[11:00]** Lunch
 
-
 <p align= "center"> *PM* </p>
 
 **[12:00]** This is when I start executing my plan of action, whether that be coding, hacking around the project, or learning the technologies required.
 
 **[1:05]** Briefly consider a career change.
 
-**[1:30]** Remember how much $$$ I'll be banking from a career/business in Tech
+**[1:30]** Remember how much $$$ I'll be banking from a career and eventually a business in Tech.
 
 **[2:00]** Either I get some snack or I go out for a 5-10 minute walk to stretch my back.
 
 **[3:00]** Team usually  goes out to have a snack. Either that or there is a meeting. On the occassions that there's none of both, this is when I put my headphones on, play a song on repeat mode, and thereafter I'd transcend into deep work status.
 
+**[3:30]** Receive a company e-mail about how much money "we" (aka the shareholders) are making.
+
 **[4:15]** Productivity breaks down and I start browsing the net every few minutes or so. I start asking my seniors for help if I'm not done yet with my task.
 
-**[4:45]** Cannot concentrate anymore! At this point, the only thing you'll see on my screen are a bunch of google chrome tabs and skype. I'd probably go to the nearby mcdonald's or the pantry for some snack.
+**[4:45]** I've probably read every post on the first 5 pages of hacker news and the Philippines subreddit.
 
-**[5:00-5:15]** Elvis has left the building.
+**[5:30]** Elvis has left the building.
 
 **[6:10/6:30]** If I arrived at work late, this is the time I'd leave for home.
 
