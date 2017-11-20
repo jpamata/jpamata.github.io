@@ -5,7 +5,7 @@ author: "John"
 description: A few things on the first blockchain app I made.
 ---
 
-// Draft, full post to be git-pushed on 2017
+// Preview - full post to be git-pushed on 2017-11-20, 10:00 PM
 
 <p align="justify">I first heard of blockchain 3 years ago when a friend of mine coerced me to mine bitcoin (BTC). Back then, I didn't paid it much attention, but I did do his suggestion thinking "Why not? It's free money." Mining was easier back then, and I had gotten around 0.01 BTC from that few weeks of venture. My friend was more fortunate, getting a sum of 1.34 BTC after several months. He sold it eventually for PHP 20,000. Now if he had held til today, he could've sold it for more than half a million Philippine Pesos.</p>
 
