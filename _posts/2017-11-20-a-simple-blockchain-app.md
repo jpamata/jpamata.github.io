@@ -6,7 +6,7 @@ description: A few things on the first blockchain app I made.
 ---
 <table style="border:2px solid black;" width="75%" align="center">	
 <tr>
-  <td>Comment</td>
+  <th>Comment</th>
 </tr>
 <tr>
   <td>This is a draft/preview</td>
