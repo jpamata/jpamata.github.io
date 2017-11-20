@@ -11,7 +11,7 @@ description:
 
 <p align="justify"><strong>*CAUTION*</strong> This post has more red flags than china.</p>
 
-<!--more-->
+<!-- more -->  
 
 Jim's photoshoot
 
