@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Life: Tagaytay Road Trip."
+author: "John"
+description: 
+---
+
 <img class="alignnone" src="http://i.imgur.com/xlsdYJX.jpg" alt="" width="960" height="716" /> 
 > Go where you are celebrated, not merely tolerated. - Paul F Davis
 
