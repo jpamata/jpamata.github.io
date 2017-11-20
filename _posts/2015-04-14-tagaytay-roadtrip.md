@@ -10,7 +10,7 @@ description:
 
 <p style="text-align: justify;">We've been planning this trip for the past week, just six of us. A few days went by and we invited others to our trip; just our friends from our block. As the saying goes, the more the merrier... right? It's a bit sad though that they couldn't come. We were hoping for them to come, even though we expected them not to as they're not much keen into these kind of outings.</p>
 
-<!--more-->
+<!-- more -->  
 <p style="text-align: center;">Anyway, enter this day: April 14, 2015. A Tuesday. Day of our trip.</p>
 
 <p style="text-align: justify;">It was morning, and we met on our QUAMET class. I brought some snacks for the trip, just half a dozen tuna sandwiches to feed us some protein for the trip (We're manly men who need as much protein as we can). It all seemed to go well as we talked fervently about our trip but then we had a quiz on our Information Security class. Nice.</p>
