@@ -11,19 +11,19 @@ description: It is the 3rd week of class and we still haven’t gotten a sound p
 
 <p align="justify">There are just too many topics to ponder about, that it should be easy for us to pick one.</p>
 <!-- more -->  
-<center>
+<ul>
 
-Should we go with NLP?
+<li>Should we go with NLP?</li>
 
-How about Machine Learning?
+<li>How about Machine Learning?</li>
 
-Dive into algorithm research?
+<li>Dive into algorithm research?</li>
 
-Tinker with compilers?
+<li>Tinker with compilers?</li>
 
-Computer Vision perhaps?
+<li>Computer Vision perhaps?</li>
 
-</center>
+</ul>
 
 <p align="justify">So many cool topics and so many ideas for us One problem sticks out though:</p>
 
