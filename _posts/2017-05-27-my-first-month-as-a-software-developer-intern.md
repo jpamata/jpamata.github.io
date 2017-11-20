@@ -16,11 +16,9 @@ func main() {
 > The First Two Weeks
 
 <p align="justify">I started my internship on May 4, a Thursday. For the first week (May 4 & 5), it was mostly spent on getting to grasp the company and its projects. They showed me this vantage page where I filled up some personal details and went through a few online courses about the company. I also attended a couple meetings about the company's projects. On the second week, I met up with a former developer intern, Joanna, (she was there to process her internship papers for graduation) and she showed me how to set up my attendance/time logging app.</p> <!--more-->
-<p align="justify">Actually, one of her projects during her internship was the development of a workplace management/attendance app where it automatically logs in your Time In/Time Out on the database. Afterwards (this procedure is only for interns), you would visit the web app, note down your time in and time out, put it on an excel spreadsheet that's following the company's template, print it out, have it signed, scan it, and e-mail it to the HR.</p>
+<p align="justify">Actually, one of her projects during her internship was the development of a workplace management/attendance app where it automatically logs in your Time In/Time Out on the database. Also, according to her, you are only marked late if you arrived at 9:30, and the half day starts at 11:00. Sweet.</p>
 
 <!-- more -->  
-
-<p align="justify">According to her, you are marked late if you arrived at 9:30, and the half day starts at 11:00. Sweet.</p>
 
 <p align="justify">She also solved a problem of mine which I have been raving about, the constantly lagging/performance issues with my computer. As it turns out, the problem exists due to one process. The solution is to simply run the task manager and kill the darn process. Joanna said that it's best to just leave the computer running for the rest of the week rather than shutting it down everyday. The boot time is horribly slow because of the network syncing. For this reason, Joaanna recommended to only shut down the workstation every few days.</p>
 
