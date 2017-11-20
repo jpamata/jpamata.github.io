@@ -47,4 +47,4 @@ description: I admit. I am not an expert and I do not claim to be one. How can I
 
 > Because I am not an expert
 
- <p align="justify">That's why I blog, because I'm not an expert - and making a journal of my mistakes and lessons, sharing my failures to others, and learning alongside people about these mistakes will help me get there. </p>
+ <p align="justify">That's why I blog, because I am not an expert - and making a journal of my mistakes and lessons, sharing my failures to others, and learning alongside people about these mistakes will help me get there. </p>
