@@ -7,7 +7,7 @@ permalink: /about/
 <img src="/assets/profile.JPG"/>
 </center>
 ## Hi  
-<p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities. This blog is powered by Jekyll, Github Pages, Namecheap, Disqus, whiteglass, formspree, and a few JavaScript magic. To learn more about why I blog, please read this <a href="http://johnamata.com/2016/06/23/i-blog-because/">post</a>.</p>
+<p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities. This blog is powered by Jekyll, Github Pages, Namecheap, Disqus, whiteglass, formspree, and a few scoops of JavaScript magic. To learn more about why I blog, please read this <a href="http://johnamata.com/2016/06/23/i-blog-because/">post</a>.</p>
 
 ## About me
 <p align="justify">Some of my friends call me John, while some call me Ice. I'm a computer science undergrad from Asia Pacific College.</p>
