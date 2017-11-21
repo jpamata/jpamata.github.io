@@ -5,10 +5,10 @@ author: "John"
 description: 
 ---
 
-<p align="justify"> When thinking about problems, people mostly switch to either . This is breadth first search, an algorithm in computer science.
+<p align="justify"> When thinking about problems, people usually have two ways to tackle such situation.
 </p>
 
-<p align="justify"> Consider the following graph below:
+<p align="justify"> Let's consider the following graph below:
 </p>
 <center>
 <img src="https://i.imgur.com/6ibbeM2.png">
