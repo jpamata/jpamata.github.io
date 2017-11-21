@@ -34,4 +34,5 @@ I spend some of my free time working on an independent smartwatch app developmen
 	<li><strong>The 4-Hour Workweek by Timothy Ferriss</strong> for showing me that there's something else other than working.</li>
 	<li><strong>How to Calculate Quickly: Full Course in Speed Arithmetic by Henry Sticker</strong> for showing me how fun mathematics could be.</li>
 	<li><strong>Introduction to Algorithms by C., L., R., S.</strong> for bruising my ego and showing me how little knowledge I have of computer science.</li>
+	<li><strong>Category Theory for the Sciences by David Spivak</strong> for giving me a mental model when thinking about problems. It is the perfect book for making anyone fall in love with math: a book that does not care about your mathematical background and proceeds teaches you abstract math of which the lessons can be applied in life.</li>
 </ol>
