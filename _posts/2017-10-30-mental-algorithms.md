@@ -5,13 +5,13 @@ author: "John"
 description: 
 ---
 
-<p align="justify"> One of the smartest people I know are 
+<p align="justify"> When thinking about problems, people mostly switch to either . This is breadth first search, an algorithm in computer science.
 </p>
 
 <p align="justify"> Consider the following graph below:
 </p>
 <center>
-<img src="https://i.imgur.com/Q1pDCYx.png">
+<img src="https://i.imgur.com/6ibbeM2.png">
 </center>
 <!-- more -->  
 <p align="justify">
