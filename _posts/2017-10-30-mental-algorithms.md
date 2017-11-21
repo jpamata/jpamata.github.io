@@ -13,9 +13,11 @@ description:
 <center>
 <img src="https://i.imgur.com/6ibbeM2.png">
 </center>
-<!-- more -->  
-<p align="justify">
+
+<p align="justify"> The above is an example of an undirected graph, of which the graph is mathematically represented as <strong>G</strong>.
 </p>
+<!-- more -->  
+
 
 <p align="justify">
 </p>
