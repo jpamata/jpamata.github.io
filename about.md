@@ -27,18 +27,11 @@ I spend some of my free time working on an independent smartwatch app developmen
 
 <h2>Bookshelf</h2>
 <p align="justify">A list of books that influenced me.</p>
-<ul>
+<ol>
 	<li><strong>Arnold: Education of a Bodybuilder by Arnold Schwarzenegger</strong> for showing me that confidence is built by victories and success, and that smart, hard work trumps all.</li>
 	<li><strong>Surely You're Joking, Mr. Feynman! by Richard Feynman</strong> for showing me how to enjoy life and to always carry curiosity.</li>
 	<li><strong>Don Quixote by Miguel de Cervantes</strong> for showing me how beautiful literature can be.</li>
 	<li><strong>The 4-Hour Workweek by Timothy Ferriss</strong> for showing me that there's something else other than working.</li>
-	<li><strong>Head First Android Development by Anthony Griffiths and Thomas Asbridge</strong> for showing me how fun programming could be.</li>
-	<li><strong>Introduction to Algorithms by C., L., R., S.</strong> for showing me that math is actually useful.</li>
-</ul>
-<p align="justify">Books I'm currently reading.</p>
-<ul>
-	<li><strong>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance</strong> because we all need a good motivational story every once in a while.</li>
-	<li><strong>Basic Economics by Thomas Sowell</strong> because it's not really an economics 101 book, but a book that teaches the economic principles through real world examples, policies, and more.</li>
-	<li><strong>Building a JavaScript Framework by Alex Young</strong> because I want to learn about clean API designs and the machinations of JavaScript .</li>
-	<li><strong>Coding the Matrix: Linear Algebra Through Computer Science Applications by Philip N. Klein</strong> because it would help once I start diving deeper into machine learning, though that is a big "if".</li>
-</ul>
+	<li><strong>How to Calculate Quickly: Full Course in Speed Arithmetic by Henry Sticker</strong> for showing me how fun mathematics could be.</li>
+	<li><strong>Introduction to Algorithms by C., L., R., S.</strong> for bruising my ego and showing me how little knowledge I have of computer science.</li>
+</ol>
