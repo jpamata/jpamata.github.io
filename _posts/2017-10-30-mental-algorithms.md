@@ -9,7 +9,7 @@ description:
 </p>
 
 <center>
-<p align="justify"> Let's consider the graph below.
+<p> Let's consider the graph below.
 </p>
 </center>
 
