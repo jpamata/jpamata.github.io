@@ -29,7 +29,7 @@ description:
 <p align="justify">The other algorithm, depth first search, as its name suggests, traverses the graph by going deeper. Say from the source vertex 1, the algorithm would traverse into 5, 4, and then finally into vertex 6, the farthest edge from the visited vertices. Afterwards, it would backtrack again to all the visited vertices. The edges the tree edges then are <strong>v ϵ V and v.e ≠ discovered </strong>. 
 </p>
 
-<p align="justify">This can be alluded to thinking deeply. Depth first thinking is done when we have an idea of where the problem might lead us to, or in situations where we know that there's only a few possible solutions to the problem. 
+<p align="justify">This can be alluded to thinking deeply. Depth first thinking is done when we have an idea of where the problem might lead us to, or in situations where we know that there's only a few possible solutions to the problem. As such, this kind of thinking is often used when thinking strategically. Depth First Search for example, is used in chess games.
 </p>
 
 <p align="justify">
