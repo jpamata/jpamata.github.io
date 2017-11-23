@@ -21,7 +21,7 @@ description:
 <p align="justify">In computer science, the two most common ways to traverse such graph are breadth first search and depth first search. Breadth first search is when you traverse such graph by exhausting all the nearest vertices from the current/source vertex before moving on to vertices on the next level. Say in the graph above, <strong>G</strong> your source vertex is 1, <strong>s</strong>, you would first traverse into vertex 5 and 2, the reachable vertices or edges of <strong>s</strong> before you move on to the next level, where 4 and 3 lies. This in real life can be associated to thinking broadly.
 </p>
 
-<p align="justify">The other algorithm, depth first search, as its name suggests, traverses the graph by going deeper. Say from the source vertex 1, the algorithm would traverse into 5, 4, and then finally into vertex 6, the farthest edge from the visited vertices. Afterwards, it would backtrack again to all the visited vertices, where <strong>v ϵ V and v.e ≠ discovered </strong>.
+<p align="justify">The other algorithm, depth first search, as its name suggests, traverses the graph by going deeper. Say from the source vertex 1, the algorithm would traverse into 5, 4, and then finally into vertex 6, the farthest edge from the visited vertices. Afterwards, it would backtrack again to all the visited vertices. The edges the tree edges then are <strong>v ϵ V and v.e ≠ discovered </strong>.
 </p>
 
 <p align="justify">
