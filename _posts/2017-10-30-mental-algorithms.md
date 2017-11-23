@@ -18,7 +18,7 @@ description:
 </p>
 <!-- more -->  
 
-<p align="justify">
+<p align="justify">In computer science, the two most common ways to traverse such graph are breadth first search and depth first search. Breadth first search is when you traverse such graph by exhausting all the nearest vertices from the current vertex before moving on to vertices on the next level. This in real life can be associated to thinking broadly.
 </p>
 
 <p align="justify">
