@@ -17,9 +17,12 @@ description: On preparing for technical interviews and putting myself out there.
 
 <p align="justify">I've a little knowledge of the IT job industry in the country, yet enough to understand that it is a competitive one. Yes, we all know that there's a high demand for IT workers but the demand is for competitive, skilled workers. I've heard stories from my friends and from strangers of typical interview practices and processes and what employers look for fresh grads. With these knowledge, I developed a plan to prepare myself for the Job Market, one that I'll follow as early as today to January. This blog post details the plan that I've made, a three pronged attack on the following: </p>
 <ol>
-   <p align="justify"> >><strong>Presence</strong>: to get the interest of headhunters & get the opportunity to either an interview or to submit my resume. </p>
-   <p align="justify"> >><strong>Projects</strong>: to pass the resume filters and get to the interview </p>
-   <p align="justify"> >><strong>Knowledge</strong>: to pass the interviews and get the job </p>
+   <p align="justify"> >>
+     <strong>Presence</strong>: to get the interest of headhunters & get the opportunity to either an interview or to submit my resume. </p>
+   <p align="justify"> >>
+     <strong>Projects</strong>: to pass the resume filters and get to the interview </p>
+   <p align="justify"> >>
+     <strong>Knowledge</strong>: to pass the interviews and get the job </p>
 </ol>
 
 <h2>Three - Pronged Attack</h2>
@@ -124,7 +127,7 @@ How to Speak to Computers, Pre-Siri</a>
 <h3>December</h3>
 <p align="justify">On December, I will start tackling algorithms. Starting with the Udacity course on technical interviews and doing the exercises from the Problem Solving with Algorithms and Data Structures using Python online book. I will start with some warmup challenges as well on HackerRank and a bunch of easy problems from URI, which fortunately for me has a huge stack of easy problems (at least compared to HackerRank and codewars). I will start using Anki for chunking in fundamental knowledge; review some basic Networking, OS, OOP, and Java-specific questions.</p>
 <h3>January</h3>
-<p align="justify">January will be about polishing my projects and preparing myself for a discussion of em. Nonetheless, the focus for this month is on getting better at algorithmic challenges.</p>
+<p align="justify">January will be about polishing my projects and preparing myself for a discussion of em. Nonetheless, the focus for this month is on getting better at algorithmic challenges. While doing this, I will start looking for jobs.</p>
 
 <h2>Retrospective</h2>
 <hr>
