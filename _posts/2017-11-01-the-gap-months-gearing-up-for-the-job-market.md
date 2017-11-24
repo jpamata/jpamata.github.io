@@ -48,18 +48,26 @@ description: On preparing for technical interviews and putting myself out there.
 
 <p align="justify"><strong>Java</strong>: </p>
  
-   <p align="justify"> >><a href="https://www.udacity.com/course/java-programming-basics--ud282">UDACITY - Java Programming Basics</a> </p>
-   <p align="justify"> >><a href="https://www.udacity.com/course/object-oriented-programming-in-java--ud283">UDACITY - Object Oriented Programming in Java</a> </p>
-   <p align="justify"> >><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">HACKERRANK - 30 Days of Code</a> </p>
-   <p align="justify"> >><a href="http://codingbat.com/java">Codingbat - Java</a> </p>
+   <p align="justify"> >>
+  <a href="https://www.udacity.com/course/java-programming-basics--ud282">UDACITY - Java Programming Basics</a> </p>
+   <p align="justify"> >>
+  <a href="https://www.udacity.com/course/object-oriented-programming-in-java--ud283">UDACITY - Object Oriented Programming in Java</a> </p>
+   <p align="justify"> >>
+  <a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">HACKERRANK - 30 Days of Code</a> </p>
+   <p align="justify"> >>
+  <a href="http://codingbat.com/java">Codingbat - Java</a> </p>
  
 
 <p align="justify"><strong>JavaScript</strong>:</p>
  
-   <p align="justify"> >><a href="https://www.freecodecamp.org/map">Free Code Camp -- Front End Development Certification</a> </p>
-   <p align="justify"> >><a href="https://www.hackerrank.com/7days-javascript/">7 Days of JavaScript</a> </p>
-   <p align="justify"> >><a href="https://javascript30.com">30 Day Vanilla JS Coding Challenge</a> </p>
-   <p align="justify"> >><a href="https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a">
+   <p align="justify"> >>
+  <a href="https://www.freecodecamp.org/map">Free Code Camp -- Front End Development Certification</a> </p>
+   <p align="justify"> >>
+  <a href="https://www.hackerrank.com/7days-javascript/">7 Days of JavaScript</a> </p>
+   <p align="justify"> >>
+  <a href="https://javascript30.com">30 Day Vanilla JS Coding Challenge</a> </p>
+   <p align="justify"> >>
+  <a href="https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a">
 Object-oriented programming in vanilla JavaScript</a> </p>
    
 
@@ -114,9 +122,9 @@ How to Speak to Computers, Pre-Siri</a>
 <h3>November</h3>
 <p align="justify">The goal for this month is to review the fundamentals behind the languages, and so I am currently taking up udacity courses on Java and the 30 days of Code from HackerRank. To review some web development fundamentals, I have also started doing the exercises from the FreeCodeCamp, doing the 7 days of JavaScript from HackerRank and finishing up the 30 Day Vanilla JS challenge. All of these should be finished by the end of the month. I will also attempt to finish an ethereum app this month, along with a full stack javascript application to add to my portfolio.</p>
 <h3>December</h3>
-<p align="justify">On December, I will start tackling algorithms. Starting with the Udacity course on technical interviews and doing the exercises from the Problem Solving with Algorithms and Data Structures using Python online book. I will start with some warmup challenges as well on HackerRank and a bunch of easy problems from URI, which fortunately for me has a huge stack of easy problems (at least compared to HackerRank and codewars).</p>
+<p align="justify">On December, I will start tackling algorithms. Starting with the Udacity course on technical interviews and doing the exercises from the Problem Solving with Algorithms and Data Structures using Python online book. I will start with some warmup challenges as well on HackerRank and a bunch of easy problems from URI, which fortunately for me has a huge stack of easy problems (at least compared to HackerRank and codewars). I will start using Anki for chunking in fundamental knowledge; review some basic Networking, OS, OOP, and Java-specific questions.</p>
 <h3>January</h3>
-<p align="justify"></p>
+<p align="justify">January will be about polishing my projects and preparing myself for a discussion of em. Nonetheless, the focus for this month is on getting better at algorithmic challenges.</p>
 
 <h2>Retrospective</h2>
 <hr>
