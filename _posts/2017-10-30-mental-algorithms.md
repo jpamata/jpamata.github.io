@@ -2,7 +2,7 @@
 layout: post
 title: "Mental Algorithms"
 author: "John"
-description: 
+description: When thinking about problems, people usually have two ways to tackle such situation. Let's consider the graph below.
 ---
 
 <p align="justify"> When thinking about problems, people usually have two ways to tackle such situation.
