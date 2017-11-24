@@ -134,4 +134,4 @@ How to Speak to Computers, Pre-Siri</a>
 
 <h2>Retrospective</h2>
 <hr>
-<p align="justify">It is quite a large curriculum and there is a strong chance that I might not finish it all. Nonetheless, though accomplishing such feat would be great, it'll be perhaps an overkill for common fresh grad jobs. Still, you can almost never be wrong with having too much of something. Also, I must look beyond the outlook on the entry-level job market and into the experienced professional market. Thus, undergoing such endeavour is not just to lend me my first job, but also an investment for my future.</p>
+<p align="justify">It is quite a large curriculum and there is a strong chance that I might not finish it all. Nonetheless, though accomplishing such feat would be great, for some it could perhaps be an overkill for some job interviews. Still, you can almost never be wrong with having too much of something. Also, I must look beyond the outlook of the entry-level job market and into the experienced professional market. Thus, undergoing such endeavour is not just to lend me my first job, but also an investment for my future.</p>
