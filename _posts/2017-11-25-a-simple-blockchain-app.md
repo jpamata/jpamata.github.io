@@ -12,7 +12,7 @@ description: A few things on the first blockchain app I made.
   <td>This is a draft/preview</td>
 </tr>
 <tr>
-  <td>Full post to be git pushed to master branch on 2017-11-23, 10:00 PM, UTC + 08:00</td>
+  <td>Full post to be git pushed to master branch on 2017-11-25, 10:00 PM, UTC + 08:00</td>
 </tr>
 </table>
 
