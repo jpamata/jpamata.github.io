@@ -106,7 +106,7 @@ How to Speak to Computers, Pre-Siri</a>
 
 <p align="justify"><strong>Algorithmic</strong>:</p>
  
-   <p align="justify"> >><a href="https://www.udacity.com/course/technical-interview--ud513">Udacity Technical Interview: Algorithms and Data Structures in Python </p>
+   <p align="justify"> >><a href="https://www.udacity.com/course/technical-interview--ud513">Udacity Technical Interview: Algorithms and Data Structures in Python</a> </p>
    <p align="justify"> >><a href="http://interactivepython.org/runestone/static/pythonds/index.html">Problem Solving with Algorithms and Data Structures using Python</a>
    <p align="justify"> >><a href="https://www.udacity.com/course/intro-to-algorithms--cs215">Udacity - Intro to Algorithms: Social Network Analysis</a> </p>
    <p align="justify"> >>
