@@ -3,8 +3,9 @@ layout: page
 title: "About"
 permalink: /about/
 ---
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <center>
-<img src="/assets/profile.JPG"/>
+<img src="/assets/profile.JPG"/><div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="jpamata"><a class="LI-simple-link" href='https://ph.linkedin.com/in/jpamata?trk=profile-badge'>John Patrick Amata</a></div>
 </center>
 ## Hi  
 <p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities. This blog is powered by Jekyll, Github Pages, Namecheap, Disqus, whiteglass, formspree, and a few scoops of JavaScript magic. To learn more about why I blog, please read this <a href="http://johnamata.com/2016/06/23/i-blog-because/">post</a>.</p>
