@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Simple Blockchain App"
+categories: junk
 author: "John"
 description: A few things on the first blockchain app I made.
 ---
