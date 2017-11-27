@@ -1,5 +1,5 @@
-title: "John Patrick Amata"
-tagline: "On Software and Math"
+title: John Patrick Amata
+tagline: On Software and Math
 author: John Amata
 email: hello@johnamata.com 
 description: "Tech and a little bit of everything." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
@@ -170,7 +170,7 @@ locales:
 
 # Build settings
 markdown: kramdown
-# highlighter: pygments
+highlighter: rouge
 kramdown:
         input: GFM
         syntax_highlighter: rouge
