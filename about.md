@@ -10,7 +10,7 @@ permalink: /about/
 <center>
 
 </center>
-## Hi  
+## Hello  
 <p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities. This blog is powered by Jekyll, Github Pages, Namecheap, Disqus, whiteglass, formspree, and a few scoops of JavaScript magic. To learn more about why I blog, please read this <a href="http://johnamata.com/2016/06/23/i-blog-because/">post</a>.</p>
 
 ## About me
