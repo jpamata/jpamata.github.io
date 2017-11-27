@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Simple Blockchain App"
-categories: junk
+author: "John"
 description: A few things on the first blockchain app I made.
 ---
 <table style="border:2px solid black;" width="75%" align="center">	
