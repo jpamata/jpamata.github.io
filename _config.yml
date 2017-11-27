@@ -1,22 +1,25 @@
+### Site info:
 title: John Patrick Amata
 tagline: On Software and Math
 author: John Amata
-email: hello@johnamata.com 
+email: my@email.com
 description: "Tech and a little bit of everything." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "programming"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://jpamata.github.io" # the base hostname & protocol for your site
+url: "johnamata.com" # the base hostname & protocol for your site
 locale: en_US
 
+### Personal info and site tools info:
 twitter_username: john__amata
 github_username:  jpamata
 disqus_shortname: john-amata
 favicon:     ""
 aboutme:  Into tech, books, piano, and lasagnas. Not here for hookups. # these are shown on aboutme-sidebar.
-aboutme_photo: '/assets/profile.JPG'.
+aboutme_photo: https://avatars1.githubusercontent.com/u/12871105?s=460&v=4 your photo.
 google_analytics_key: UA-107698218-1 # put YOUR key here to enable tracking! (blank to disable)
 
-# Site setting:
+
+### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
 default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
@@ -168,9 +171,9 @@ locales:
       Guestbook: "Buku tamu"
       Subscribe: "Langganan"
 
-# Build settings
+### Build settings
 markdown: kramdown
-highlighter: rouge
+#highlighter: pygments
 kramdown:
         input: GFM
         syntax_highlighter: rouge
