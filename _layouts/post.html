@@ -1,25 +1,35 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    {% if page.external-url %}
-      <h1 class="post-title" itemprop="name headline"><a href="{{ page.external-url }}">{{ page.title | escape }} &rarr;</a></h1>
-    {% else %}
-      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
+    <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
+    <p class="post-meta">
+    {{ site.locales[site.default_locale].PostedInCategories }}
+    {% for cat in page.categories %}
+    <a href="{{site.baseurl}}/categories/#{{ cat }}">{{ cat }}</a>{% unless page.categories.last == cat %}, {% endunless %}
+    {% endfor %} 
+    {% if page.tags != empty %}
+    {{ site.locales[site.default_locale].Taggedwith }}
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>{% unless page.tags.last == tag %}, {% endunless %}
+    {% endfor %}
     {% endif %}
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}{% if page.categories != empty %} • {% include category_links.html categories=page.categories %}{% endif %}</p>
+    <time itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">
+    {{ site.locales[site.default_locale].PostDate }}{{ page.date | date: "%b %-d, %Y" }}
+    </time>
+    </p>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
+  <article class="post-content" itemprop="articleBody">
     {{ content }}
-  </div>
+  </article>
+  <hr />
+</div>
 
-  {% if site.comments == true and page.comments != false %}
-    <div class="post-comments" itemprop="comment">
-      {% include custom_comments_provider.html %}
-    </div>
-  {% endif %}
 
-</article>
+{% include page_pagination.html%}
+{% include comments.html %}
+

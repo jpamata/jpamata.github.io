@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Mental Algorithms"
-author: "John"
+categories: [misc]
+tags: 
+  - algorithms
+comments: true
 description: When thinking about problems, people usually have two ways to tackle such situation. Let's consider the graph below.
 ---
 

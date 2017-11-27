@@ -1,7 +1,11 @@
 ---
 title: "Notes from The Healthy Programmer"
 layout: post
-author: "John"
+categories: [books]
+tags: 
+  - health
+  - reviews
+comments: true
 description: Some of my notes, input, and some additional research for the book, The Healthy Programmer by Joe Kutner.
 ---
 

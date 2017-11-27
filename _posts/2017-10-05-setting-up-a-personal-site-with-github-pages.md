@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Setting Up a Personal Site with Github Pages (and Namecheap)"
-author: "John"
+categories: [web]
+tags: 
+  - github
+comments: true
 description: How to set up your own personal website and email - the cheapskate way. 
 ---
 
@@ -21,7 +24,7 @@ description: How to set up your own personal website and email - the cheapskate 
 <p align="justify">#4. <strong>Your Custom Email with Zoho mail</strong></p>
 <p align="justify">If you want to add an e-mail for your new domain, you can do it for free with zoho mail. Just follow this guide: <a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9758/2208/how-to-set-up-zoho-email-for-my-domain">How to set up Zoho email for my domain?</a></p>
 
-<p align="justify">Sometimes, you may come across (or not, if you're lucky) some redirection errors. Don't fret, it's okay. You have just created and moved to a new domain. Your DNS still has to propagate to various other servers around the world. To see its status, you can check it here: <a href="http://cachecheck.opendns.com/">CacheCheck – OpenDNS</a>. For some, it takes 48 hours, some 72 hours, and then on others up to a week. Nonetheless, if it persists for more than 3 days, it is best to mail namecheap about it. Also, check your DNS settings for any duplicates or past records. Those redirection errors may be happening because of a fault in your end, use this site, <a href="http://www.redirect-checker.org">Redirect Checker</a> to diagnose the fault.</p>
+<p align="justify">Sometimes, you may come across (or not, if you're lucky) some redirection errors. Don't fret, it's okay. You have just created and moved to a new domain. And it still has to propagate to various other servers around the world. To see its status, you can check it here: <a href="http://cachecheck.opendns.com/">CacheCheck – OpenDNS</a>. For some, it takes 48 hours, some 72 hours, and then on others up to a week. Nonetheless, if it persists for more than 3 days, it is best to mail namecheap about it. Also, check your DNS settings for any duplicates or past records. Those redirection errors may be happening because of a fault in your end, use this site, <a href="http://www.redirect-checker.org">Redirect Checker</a> to diagnose the fault.</p>
 
 <p align="justify">-- John</p>
 > Namecheap DNS Settings

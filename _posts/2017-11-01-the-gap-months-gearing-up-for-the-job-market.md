@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "The Gap Months: Gearing Up for the Job Market"
-author: "John"
+categories: [career]
+tags: 
+  - job
+comments: true
 description: On preparing for technical interviews and putting myself out there.
 ---
 

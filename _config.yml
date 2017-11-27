@@ -1,75 +1,182 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.author }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+### Site info:
 title: John Patrick Amata
+tagline: On Software and Math
 author: John Amata
-description: Minimal, responsive Jekyll theme for hackers.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jpamata.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-lang: en
-timezone: UTC
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - README.md
-  - LICENSE.txt
-  - CHANGELOG.md
-  - jekyll-whiteglass.gemspec
-  - screenshot.png
-  - vendor
+email: my@email.com 
+description: "Tech and a little bit of everything." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+keywords: "programming"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "johnamata.com" # the base hostname & protocol for your site
+locale: en_US
 
-# Social media
+### Personal info and site tools info:
 twitter_username: john__amata
-twitter_image:
-facebook_app_id:
-facebook_image:
-google_analytics: 'UA-107698218-1'
-comments: true
+github_username:  jpamata
+disqus_shortname: john-amata
+favicon:     ""
+aboutme:  Into tech, books, piano, and lasagnas. Not here for hookups. # these are shown on aboutme-sidebar.
+aboutme_photo: '/assets/profile.JPG'.
+google_analytics_key: UA-107698218-1 # put YOUR key here to enable tracking! (blank to disable)
 
-# Plugins
-gems:
-  - jekyll-archives
-  - jekyll-paginate
-  - jekyll-sitemap
 
-# Build settings
+### Site setting:
+ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
+
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"
+      PostDate: "on "
+      Google_search: "Site Search"
+      Home: "Home"
+      About: "About"
+      Guestbook: "Guestbook"
+      Resume: "Resume"
+      Subscribe: "Subscribe"
+    cn:
+      Aboutme: "关于我"
+      Archives: "存档"
+      Blogroll: "良师益友"        
+      Categories: "分类目录"    
+      Copyright_Notice: "版权声明"
+      Recent_Posts: "近期文章"
+      Tags: "标签" 
+      Previous: "前一页"
+      Next: "后一页"
+      PostedInCategories: "目录:"   
+      Taggedwith: "| 标签:"
+      PostDate: "| 发表时间: "
+      Google_search: "站内搜索"
+      Home: "首页"
+      About: "关于"
+      Guestbook: "留言"
+      Subscribe: "订阅"
+    jp:
+      Aboutme: "著者"
+      Archives: "アーカイブ"
+      Blogroll: "ブログロール"
+      Categories: "カテゴリー"
+      Copyright_Notice: "著作権表示"
+      Recent_Posts: "最近の投稿"
+      Tags: "タグ"
+      Previous: "前の記事"
+      Next: "次の記事"
+      PostedInCategories: "カテゴリー："
+      Taggedwith: "| タグ："
+      PostDate: "| 投稿日時: "
+      Google_search: "サイト内検索"
+      Home: "ホーム"
+      About: "このブログについて"
+      Guestbook: "メッセージ"
+      Subscribe: "購読"
+    pl:
+      Aboutme: "O mnie"
+      Archives: "Archiwum"
+      Blogroll: "Odnośniki"
+      Categories: "Kategorie"
+      Copyright_Notice: "Prawa autorskie"
+      Recent_Posts: "Najnowsze wpisy"
+      Tags: "Tagi"
+      Previous: "Starsze"
+      Next: "Nowsze"
+      PostedInCategories: "Kategoria"
+      Taggedwith: "tagi"
+      PostDate: "on "
+      Google_search: "Wyszukiwarka"
+      Home: "Strona główna"
+      About: "O mnie"
+      Guestbook: "Księga gości"
+      Subscribe: "Subskrypcja"
+    kr:
+      Aboutme: "저자 소개"
+      Archives: "모든 게시물"
+      Blogroll: "참조 링크"
+      Categories: "카테고리"
+      Copyright_Notice: "저작권"
+      Recent_Posts: "최근 게시물"
+      Tags: "태그"
+      Previous: "이전 게시물"
+      Next: "다음 게시물"
+      PostedInCategories: "카테고리: "
+      Taggedwith: "태그: "
+      PostDate: "작성일: "
+      Google_search: "게시물 검색"
+      Home: "홈"
+      About: "소개"
+      Guestbook: "방명록"
+      Subscribe: "구독하기"
+    ru:
+      Aboutme: "Обо мне" # = 'About me'
+      Archives: "Архив"
+      Blogroll: "Ссылки" # = 'Links'
+      Categories: "Разделы"
+      Copyright_Notice: "Авторские права"
+      Recent_Posts: "Свежие посты"
+      Tags: "Теги"
+      Previous: "Предыдущий пост"          # = 'Previous post'
+      Next: "Следующий пост"               # = 'Next post'
+      PostedInCategories: "Опубликовано в" # = 'Posted in'
+      Taggedwith: "с тегами"
+      PostDate: ""
+      Google_search: "Поиск на Google"
+      Home: "Домой"
+      About: "О блоге"            # = 'About blog'
+      Guestbook: "Гостевая книга"
+      Subscribe: "Подписаться"
+    tr:
+      Aboutme: "Hakkımda"
+      Archives: "Arşivler"
+      Blogroll: "Bağlantılar"
+      Categories: "Kategoriler"
+      Copyright_Notice: "Telif Hakkı Bildirimi"
+      Recent_Posts: "Son Yazılar"
+      Tags: "Etiketler"
+      Previous: "Daha Eski"
+      Next: "Daha Yeni"
+      PostedInCategories: "Şuraya gönderildi:"
+      Taggedwith: "ve şöyle etiketlendi:"
+      PostDate: "şu tarihte:"
+      Google_search: "Sitede Ara"
+      Home: "Anasayfa"
+      About: "Hakkında"
+      Guestbook: "Konuk Defteri"
+      Subscribe: "Abone Ol"
+    id:
+      Aboutme: "Tentang Saya"
+      Archives: "Arsip"
+      Blogroll: "Blog teman"
+      Categories: "Kategori"
+      Copyright_Notice: "Legal Formal"
+      Recent_Posts: "Post Terkini"
+      Tags: "Tag"
+      Previous: "Lebih lama"
+      Next: "Lebih baru"
+      PostedInCategories: "Diposting di"
+      Taggedwith: "dan ditag"
+      PostDate: "pada "
+      Google_search: "Pencarian Situs"
+      Home: "Beranda"
+      About: "Tentang"
+      Guestbook: "Buku tamu"
+      Subscribe: "Langganan"
+
+### Build settings
 markdown: kramdown
-excerpt_separator: "<!-- more -->"
-
-# Outputting
-permalink: /:year/:month/:day/:title/
-paginate_path: /posts/:num/
-paginate: 10
-
-# Markdown settings
+#highlighter: pygments
 kramdown:
-  auto_ids: false
-  enable_coderay: false
-  entity_output: as_char
-  footnote_nr: 1
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  toc_levels: 1..6
-
-# jekyll-archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: category_archives
-  permalinks:
-    category: /categories/:name/
-
-disqus:
-  shortname: "john-amata" # enter this from your disqus account
+        input: GFM
+        syntax_highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+excerpt_separator: <!-- more -->
