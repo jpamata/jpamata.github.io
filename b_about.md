@@ -7,7 +7,7 @@ permalink: /about/
 
 
 ## Hi
-<p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities. This blog is powered by Jekyll, Github Pages, Namecheap, Disqus, and Freshman21 by Lijia Yu. I blog about the stuff I learn so I can better remember them, using the power of the <a href="https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/">Feynman method</a> of learning, which is all about creating efficient feedback loops for learning. To learn more about why I blog, please read this <a href="http://johnamata.com/misc/2016/06/23/i-blog-because.html">post</a>.</p>
+<p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities. I blog about the stuff I learn so I can better remember them, using the power of the <a href="https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/">Feynman method</a> of learning, which is all about creating efficient feedback loops for learning. To learn more about why I blog, please read this <a href="http://johnamata.com/misc/2016/06/23/i-blog-because.html">post</a>.</p>
 
 ## About me
 <p align="justify">Some of my friends call me John, while some call me Ice. I'm a computer science undergrad from Asia Pacific College.</p>
@@ -31,3 +31,6 @@ permalink: /about/
 
 <h2>Resume</h2>
 <p align="justify"><a href="/docs/jpamata-resume.pdf">VIEW PDF</a> || <a href="/docs/jpamata-resume.pdf" download>DOWNLOAD PDF</a></p>
+
+## This Blog
+<p align="justify">This blog is powered by Jekyll, Github Pages, Namecheap, Disqus, and Freshman21 by Lijia Yu. </p>
