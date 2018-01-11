@@ -1,8 +1,8 @@
 ### Site info:
 title: John Patrick Amata
-tagline: On Software and Math
+tagline: Writings on Software
 author: John Amata
-email: my@email.com 
+email: hello@johnamata.com
 description: "Tech and a little bit of everything." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "programming"
 baseurl: "/" # the subpath of your site, e.g. /blog/
@@ -14,8 +14,8 @@ twitter_username: john__amata
 github_username:  jpamata
 disqus_shortname: john-amata
 favicon:     ""
-aboutme:  Into tech, books, piano, and lasagnas. Not here for hookups. # these are shown on aboutme-sidebar.
-aboutme_photo: '/assets/profile.JPG'.
+aboutme:  Into tech, books, piano, and lasagnas. I blog about the stuff I learn to better remember them. # these are shown on aboutme-sidebar.
+aboutme_photo: "/images/profile.JPG"
 google_analytics_key: UA-107698218-1 # put YOUR key here to enable tracking! (blank to disable)
 
 

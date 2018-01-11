@@ -28,4 +28,4 @@ description: How to set up your own personal website and email - the cheapskate 
 
 <p align="justify">-- John</p>
 > Namecheap DNS Settings
-<div align="center"><img src="https://i.imgur.com/iVhB4TG.png"></div>
+<div align="center"><a href="https://i.imgur.com/iVhB4TG.png"><img src="https://i.imgur.com/iVhB4TG.png"></a></div>

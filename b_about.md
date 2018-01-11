@@ -7,7 +7,7 @@ permalink: /about/
 
 
 ## Hi
-<p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities. This blog is powered by Jekyll, Github Pages, Namecheap, Disqus, and Freshman21 by Lijia Yu. To learn more about why I blog, please read this <a href="http://johnamata.com/2016/06/23/i-blog-because/">post</a>.</p>
+<p align="justify">Welcome to my thinking space, my stash of notes and essays collected from my cabinet of curiosities. I blog about the stuff I learn so I can better remember them, using the power of the <a href="https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/">Feynman method</a> of learning, which is all about creating efficient feedback loops for learning. To learn more about why I blog, please read this <a href="http://johnamata.com/misc/2016/06/23/i-blog-because.html">post</a>.</p>
 
 ## About me
 <p align="justify">Some of my friends call me John, while some call me Ice. I'm a computer science undergrad from Asia Pacific College.</p>
@@ -17,13 +17,6 @@ permalink: /about/
 <p align="justify">My most proud trait, is being a disciplined goal setter. Every year, I'd set up goals for myself and accomplish them. Thanks to that habit, it brought me some joys and skills in life: I learned to play the guitar, the piano, started hitting the gym and am strong enough to deadlift my bodyweight, and over time, learned some niche fields in computer science - natural language processing and machine learning.</p>
 
 <p align="justify">On the topic of CS, I was never the guy who was into computers, even though I came from a technical school, Don Bosco Technical Institute - Makati. In time though, I have found that it is indeed a rewarding path to take in life. There is nothing more rewarding than creating your own product and shipping it to the public.</p>
-
-<h2>What I'm Currently Up To</h2>
-<p align="justify"><strong>In life:</strong>
-I'm spending my time learning the spanish language with duolingo this year. Apart from it, I'm trying to commune with my creative side by relearning my dusty piano and taking some writing classes.</p>
-<p align="justify"><strong>In programming:</strong> Other than programming C# and JavaScript at work, the latest trend in blockchain and the rise of cryptocurrencies as an asset has caught my eye on the May of 2017. Ever since then, I have been pouring some of my free time on the topic. </p>
-<p align="justify"><strong>In other businesses:</strong>
-I spend some of my free time working on an independent smartwatch app development studio, developing and publishing apps and watchfaces for the android market. I utilise Javascript and C++ for the job.</p>
 
 <h2>Bookshelf</h2>
 <p align="justify">A list of books that influenced me.</p>
@@ -38,3 +31,6 @@ I spend some of my free time working on an independent smartwatch app developmen
 
 <h2>Resume</h2>
 <p align="justify"><a href="/docs/jpamata-resume.pdf">VIEW PDF</a> || <a href="/docs/jpamata-resume.pdf" download>DOWNLOAD PDF</a></p>
+
+## This Blog
+<p align="justify">This blog is powered by Jekyll, Github Pages, Namecheap, Disqus, and Freshman21 by Lijia Yu. </p>
