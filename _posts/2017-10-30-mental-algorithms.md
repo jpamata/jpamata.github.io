@@ -51,16 +51,6 @@ description: When thinking about problems, people usually have two ways to tackl
 <p align="justify">Say you are evaluating a startup idea. One of the questions that will pop up is, <i>"What is your target market?"</i> Depth first thinking in this scenario will then be about looking at a single hypothesis for the question, evaluate and research a market lead as far as you can before pivoting to the next hypothesis and see if the evaluated branches/hypotheseses holds more weight than the new one. On the other hand, breadth first thinking will have us listing all the possible market entries first, then one by one we evaluate them for a certain category or factor before performing further research.
 </p>
 
-<p align="justify"> These two approaches are popular as they allow us to modularised our thinking.
+<p align="justify"> These two approaches are popular as they allow us to modularised our thinking and choosing between the two depends on one's aptitude of procedural decision making.
 </p>
-
-<p align="justify"> Breadth First
-</p>
-
-<p align="justify">
-</p>
-
-<p align="justify">
-</p>
-
 
