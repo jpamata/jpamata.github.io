@@ -34,7 +34,7 @@ description: When thinking about problems, people usually have two ways to tackl
 
 <br>
 
-<p align="justify">This in real life can be associated to thinking broadly. Should people think broadly when solving a problem, this method of thinking is best suited to problems that we have little idea of. A common mistake that people make is that when thinking broadly, is that they go into random solutions to tackle such problem. Breadth first search teaches us that we ought to first think of all related solutions before branching deeper. Thinking should be structured. This allows us to see the big picture, a bird's eye view as we unfold our way to fully understand the problem.
+<p align="justify">This in real life can be associated to thinking broadly. Should people think broadly when solving a problem, this method of thinking is best suited to problems that we have little idea of. A common mistake that people make when thinking broadly is that they often go into random solutions to tackle such problem. Breadth first search teaches us that we ought to first think of all related solutions before branching deeper. Thinking should be structured. This allows us to see the big picture, a bird's eye view as we unfold our way to fully understand the problem.
 </p>
 
 <p align="justify">The other algorithm, depth first search, as its name suggests, traverses the graph by going deeper. Say from the source vertex a, the algorithm would traverse into b and then into d and e, the farthest edge from the visited vertices. Afterwards, it would backtrack again to all the visited vertices. The tree edges then are <strong>v ϵ V and v.e ≠ discovered </strong>. 
