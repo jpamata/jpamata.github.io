@@ -17,16 +17,16 @@ description: Screenshots from my project in cloud programming last term.
   <!-- more -->  
   
   <p>E-Mail Log In</p>
-  <img src="https://i.imgur.com/vdU1vtF.png">
+  <a href="https://i.imgur.com/vdU1vtF.png"><img src="https://i.imgur.com/vdU1vtF.png"></a>
   
   <p>FB Log In</p>
-  <img src="https://i.imgur.com/tOytXQN.png">
+  <a href="https://i.imgur.com/tOytXQN.png"><img src="https://i.imgur.com/tOytXQN.png"></a>
 
   <p>Welcome Page</p>
-  <img src="https://i.imgur.com/5rKVlUy.png">
+  <a href="https://i.imgur.com/5rKVlUy.png"><img src="https://i.imgur.com/5rKVlUy.png"></a>
 
   <p>Requests</p>
-  <img src="https://i.imgur.com/kJTnywm.png">
+  <a href="https://i.imgur.com/kJTnywm.png"><img src="https://i.imgur.com/kJTnywm.png"></a>
 
 </center>
 
