@@ -8,13 +8,25 @@ comments: true
 description: Screenshots from my project in cloud programming last term.
 ---
 
-<p align="justify">Just  a series of screenshots from my project in cloud programming last term, a website for the <a href="https://www.facebook.com/RSY-Fitness-Gym-268524300015901/">RSY Fitness Gym.</a></p>
+<p align="justify">Just  a series of old screenshots from my project in cloud programming last term, a website for the <a href="https://www.facebook.com/RSY-Fitness-Gym-268524300015901/">RSY Fitness Gym</a> that was hosted in MS Azure. Unfortunately I didn't have any more new screenshots for the polished/finished product and I can't take any new shots as the MS Azure trial has expired. </p>
 
 <center>
+  <p>Home page</p>
+  <img src="https://i.imgur.com/BTJpjUl.png">
+  
+  <!-- more -->  
+  
+  <p>E-Mail Log In</p>
+  <img src="https://i.imgur.com/vdU1vtF.png">
+  
+  <p>FB Log In</p>
+  <img src="https://i.imgur.com/tOytXQN.png">
 
+  <p>Welcome Page</p>
+<img src="https://i.imgur.com/5rKVlUy.png">
 
+  <p>Requests</p>
+  <img src="https://i.imgur.com/kJTnywm.png">
 
 </center>
-
-<!-- more -->  
 
