@@ -12,7 +12,7 @@ description: Screenshots from my project in cloud programming last term.
 
 <center>
   <p>Home page</p>
-  <img src="https://i.imgur.com/BTJpjUl.png">
+  <a href="https://i.imgur.com/BTJpjUl.png"><img src="https://i.imgur.com/BTJpjUl.png"></a>
   
   <!-- more -->  
   
@@ -23,7 +23,7 @@ description: Screenshots from my project in cloud programming last term.
   <img src="https://i.imgur.com/tOytXQN.png">
 
   <p>Welcome Page</p>
-<img src="https://i.imgur.com/5rKVlUy.png">
+  <img src="https://i.imgur.com/5rKVlUy.png">
 
   <p>Requests</p>
   <img src="https://i.imgur.com/kJTnywm.png">
