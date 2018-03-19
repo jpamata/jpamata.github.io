@@ -18,6 +18,9 @@ permalink: /about/
 
 <p align="justify">On the topic of CS, I was never the guy who was into computers, even though I came from a technical school, Don Bosco Technical Institute - Makati. In time though, I have found that it is indeed a rewarding path to take in life. There is nothing more rewarding than creating your own product and shipping it to the public.</p>
 
+## What I'm Up To
+<p align="justify">Currently, I am learning react by going through books from <a href="https://www.packtpub.com">Packt Publishing</a> and <a href="https://www.oreilly.com">O'Reilly</a>. I am also learning C by building my own database, text editor, and interpreter.</p>
+
 <h2>Bookshelf</h2>
 <p align="justify">A list of books that influenced me.</p>
 <ol>
