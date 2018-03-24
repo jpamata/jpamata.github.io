@@ -2,11 +2,8 @@
 layout: default
 title: About Vinit Kumar
 ---
-
-<h1 class="owner-name">{{ site.owner.name}} </h1>
-Wassup Wassup
 <img src="https://i.imgur.com/gx8qztE.jpg"/>
-
+<p align="justify">John. But some of his friends call him Ice. John is an undergrad who's set to graduate with a BS in Computer Science this year, in May. Other than being busy in all things computer science, John likes to spend his time playing the piano, reading non-fiction books, and eating lasagnas.</p>
 <div class="pagination">
   {% if site.owner.linkedin %}
     <a href="{{ site.owner.linkedin }}" class="social-media-icons"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a>
