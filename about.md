@@ -4,9 +4,8 @@ title: About Vinit Kumar
 ---
 
 <h1 class="owner-name">{{ site.owner.name}} </h1>
-![user-avatar]({{ site.owner.avatar }})
-
 Wassup Wassup
+<img src="https://i.imgur.com/gx8qztE.jpg"/>
 
 <div class="pagination">
   {% if site.owner.linkedin %}
