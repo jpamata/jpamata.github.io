@@ -9,10 +9,10 @@ comments: true
 
 <p align="justify">I have just recently moved this site from github pages to a namecheap domain. Without reinventing the wheel or anything I'll just stick to linking the excellent tutorials (which the authors update from time to time) that I've followed to the bone to get this site up and running.</p>
 
+<!-- more -->  
+
 <p align="justify">#1. <strong>Hosting with Github Pages. </strong></p> 
 <p align="justify">Github Pages allows you to host a static account free of charge, under the <i>*.github.io</i> domain. Supposing you don't have a Github Pages site/repo to begin with or have little idea of what it is, I recommend going through Karl Broman's tutorials: <a href="http://kbroman.org/simple_site/">kbroman.org/simple_site/</a></p>
-
-<!-- more -->  
 
 <p align="justify">#2. <strong>Getting a Custom Domain</strong></p>
 <p align="justify">Once you have your site up and running on github pages, it is now time to get yourself a domain from namecheap. The process is simple, just go to <a href="https://www.namecheap.com">namecheap</a>, register for an account, search for your chosen domain, add to cart, and buy. After you bought yourself a domain, just follow the official guide by namecheap to connect your new domain to your github pages site: <a href="https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages">How do I link my domain to GitHub Pages?</a></p>
