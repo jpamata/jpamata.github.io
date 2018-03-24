@@ -3,7 +3,7 @@ description: >
     Writings on Software
 about: >
     
-url: https://jpamata.github.io
+url: johnamata.com
 baseurl: "/"
 markdown: kramdown
 excerpt_separator: "<!-- more -->"
