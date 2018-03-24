@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Setting Up a Personal Site with Github Pages (and Namecheap)"
-categories: [web]
-tags: 
-  - github
-comments: true
 description: How to set up your own personal website and email - the cheapskate way. 
+category: articles
+tags: [github]
+comments: true
 ---
 
 <p align="justify">I have just recently moved this site from github pages to a namecheap domain. Without reinventing the wheel or anything I'll just stick to linking the excellent tutorials (which the authors update from time to time) that I've followed to the bone to get this site up and running.</p>

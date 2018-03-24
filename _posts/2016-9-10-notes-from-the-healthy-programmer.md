@@ -1,12 +1,10 @@
 ---
-title: "Notes from The Healthy Programmer"
 layout: post
-categories: [books]
-tags: 
-  - health
-  - reviews
-comments: true
+title: "Notes from The Healthy Programmer"
 description: Some of my notes, input, and some additional research for the book, The Healthy Programmer by Joe Kutner.
+category: articles
+tags: [health, reviews]
+comments: true
 ---
 
 # On Sitting

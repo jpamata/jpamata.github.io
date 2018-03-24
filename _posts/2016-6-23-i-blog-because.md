@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "I Blog Because"
-categories: [misc]
-tags: 
-  - blogging
-comments: true
 description: I admit. I am not an expert and I do not claim to be one. How can I? I'm just an undergrad who hasn't gotten a glimpse yet of the industry; I haven't put in as much time as others had. But whenever I talk to people about putting their content out there, their voice on the matter, they would often tell me of not being good enough.
+category: articles
+tags: [blogging]
+comments: true
 ---
 
 <h1>I am not an expert.</h1>

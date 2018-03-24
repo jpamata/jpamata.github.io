@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Mental Algorithms"
-categories: [misc]
-tags: 
-  - algorithms
-comments: true
 description: When thinking about problems, people usually have two ways to tackle such situation. Let's consider the graph below.
+category: articles
+tags: [health, reviews]
+comments: true
 ---
 
 <p align="justify"> When thinking about problems, people usually have two ways to tackle such situation.
