@@ -33,6 +33,7 @@ permalink: /archives/
 </ul>
 </div>
 <hr/>
+<p>Yours truly,</p>
 <div style="display:table-cell; vertical-align:middle; text-align:center">
   <img src="http://johnamata.com/assets/transparent-sign.png"> 
 </div>
