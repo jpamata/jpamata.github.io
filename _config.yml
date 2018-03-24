@@ -19,7 +19,7 @@ disqus_shortname: john-amata
 rtl: false
 owner:
   name:           jpa
-  avatar:         "https://amatajohn.files.wordpress.com/2017/02/dec-3-sunshine-on-a-cloudy-day.jpg?w=800"
+  avatar:         "/assets/jpalogo.png"
   twitter: https://twitter.com/john__amata
   email:          "hello@johnamata.com"
   # Social networking links used in footer. Update and remove as you like.
