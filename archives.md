@@ -16,7 +16,7 @@ permalink: /archives/
 {% assign year = this_year %}
 {% unless post == site.posts.first %}
 {% endunless %}
-<li id="{{ year }}">{{ year }}</li>
+<h2>{{ year }}</h2>
 {% endunless %}
 <time datetime="{{ post.date | date:"%Y-%m-%d" }}">
 {{ post.date | date:"%Y-%m-%d" }}
