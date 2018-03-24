@@ -4,7 +4,7 @@ description: >
 about: >
 
 baseurl: "/"  
-url: johnamata.com
+url: "http://johnamata.com"
 markdown: kramdown
 excerpt_separator: "<!-- more -->"
 highlighter: rouge
