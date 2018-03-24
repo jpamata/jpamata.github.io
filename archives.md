@@ -32,3 +32,5 @@ permalink: /archives/
 
 </ul>
 </div>
+<hr/>
+<img src="http://johnamata.com/assets/transparent-sign.png"> 
