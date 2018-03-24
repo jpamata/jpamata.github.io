@@ -9,14 +9,14 @@ comments: true
 
 # On Sitting
 <p align="justify"><strong>Sitting is Harmful</strong> In 2009, researchers at the Pennington Biomedical Research Center in Louisiana published a study suggesting that the amount of time a person sits is directly associated with mortality from all causes. The study examined 17,013 Canadians over a period of twelve years. The researchers measured each participant’s time spent sitting over those years and adjusted for factors like smoking, alcohol consumption, and physical activity. In the end, they found that the participants who sat the most were fifty percent more likely to die prematurely.</p>
-
+<!-- more -->  
 <p align="justify"><strong>Change Often</strong> Dr. Hedge recommends sitting for no longer than twenty minutes, but you shouldn’t stand for longer than twenty minutes at a time, either. The key is to keep your body moving—adjust your position often and take many breaks.</p>
 
 <p align="justify"><strong>Change If It Hurts</strong> If you’ve been standing for a few minutes and your legs or feet are starting to hurt, then sit down. Likewise, if you’ve been sitting and your back or shoulders start to hurt, then stand up. Neither of these positions should be painful, so the best position is the one in which you are able to hold good posture.</p>
 
 <p align="justify"><strong>Stand Often</strong> An advantage of standing is that it’s not sitting. This simple fact means that standing can reduce your risk for many of the diseases we discussed in the previous section. To be specific, standing forces the muscles in your legs
 and abdomen to contract more often than when you sit. This is important because when those muscles don’t contract, your body suppresses the production of an enzyme in the skeletal muscle called lipoprotein lipase (LPL). LPL plays an important role in transporting fats and breaking down fat-carrying molecules in the bloodstream. When the enzyme is not available, fatty materials can build up on the walls of your arteries.</p>
-<!-- more -->  
+
 # On Eye Strain
 <p align="justify"><strong>Blink Often</strong> Blinking moistens your eyes and replenishes the protective film that coats the cornea. When working at a computer, you tend to blink less often—about five times less than normal. This causes your eyes to dry out more rapidly. As a result, you need to force yourself to blink—ideally every twenty minutes. Close your eyes slowly, as though you are falling asleep, and repeat ten times.</p>
 
