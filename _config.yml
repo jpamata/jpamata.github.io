@@ -2,9 +2,9 @@ name: John Patrick Amata
 description: >
     Writings on Software
 about: >
-    
+
+baseurl: "/"  
 url: johnamata.com
-baseurl: "/"
 markdown: kramdown
 excerpt_separator: "<!-- more -->"
 highlighter: rouge
