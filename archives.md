@@ -33,4 +33,6 @@ permalink: /archives/
 </ul>
 </div>
 <hr/>
-<img src="http://johnamata.com/assets/transparent-sign.png"> 
+<div align="right">
+  <img src="http://johnamata.com/assets/transparent-sign.png"> 
+</div>
