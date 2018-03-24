@@ -34,6 +34,6 @@ permalink: /archives/
 </div>
 <hr/>
 <p>&nbsp;&nbsp;Yours truly,</p>
-<div style="display:table-cell; vertical-align:middle; text-align:center">
+<div style="display: flex; justify-content: center;">
   <img src="http://johnamata.com/assets/transparent-sign.png"> 
 </div>
