@@ -13,7 +13,7 @@ comments: true
 <!-- more -->  
 
 <center>
-<p> Let's consider the graph below.
+<p> Let's consider the following graph.
 </p>
 </center>
 
