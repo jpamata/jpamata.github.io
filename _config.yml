@@ -1,8 +1,8 @@
 name: John Patrick Amata
 description: >
     Tech and a little bit of everything.
-about: > John Patrick Amata
-
+about: >
+    John Patrick Amata
 baseurl: "/"  
 url: "http://johnamata.com"
 markdown: kramdown
