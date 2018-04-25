@@ -14,7 +14,7 @@ func main() {
 }
 ```
 
-<p align="justify">I started my internship on May 4, a Thursday. For the first week (May 4 & 5), it was mostly spent on getting to grasp the company and its projects. They showed me this vantage page where I filled up some personal details and went through a few online courses about the company. I also attended a couple meetings about the company's projects.</p> 
+<p align="justify">I started my internship on May 4, a Thursday. For the first week (May 4 & 5), it was mostly spent on getting to grasp the company and its projects. They showed me a vantage page where I filled up some personal details and went through a few online courses about the company. I also attended a couple of meetings about the company's projects.</p> 
 
 <!-- more -->
 
