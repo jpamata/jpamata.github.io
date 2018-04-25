@@ -24,10 +24,9 @@ func main() {
 
 <p align="justify">They also have this VBA training program, which I think is a brilliant opportunity for interns but frankly, I am yet to attend a single meeting seeing that I wasn't there when they began the training. For the past couple of weeks, I've went thru dozens of meetings about the onboardings, the projects, and a few meetings to discuss the team metrics. I've also done some JQuery to scrape up the data for application testing as my first real work.</p>
 
-<p align="justify">For the next work, I was given the task to debug a code issue on how the excel output for a report from the web app is having some problems with rendering the values. I spent I think a couple of days or so before I realised that the problem was with the language type, that the app doesn't accept such values.</p> 
+<p align="justify">For the next work, I was given the task to debug a code issue on how the excel output for a report from the web app is having some problems with rendering the values. I spent I think a couple of days before I found that the problem was with the language type, that the app doesn't accept such values.</p> 
 
-<p align="justify">It was frustrating at first because I had absolutely no idea on how to approach the problem. I went through method by method then line by line of the code (commenting out some lines or editing some values) to see on which part of the code results to the issue. I was like a blind man groping for the door handle. Nevertheless, that experience taught me how to read error reports from Visual Studio to diagnose the problem.</p>
-
+<p align="justify">It was frustrating at first because I had absolutely no idea on how to approach the problem. I went through method by method then line by line of the code to see on which part of the code results to the issue. I was like a blind man groping for the door handle. Nevertheless, that experience taught me how to read error reports from Visual Studio to diagnose the problem and got me more acquainted with C#.</p>
 
 <p align="justify">Aside from learning the ecosystem of Microsoft, one must also learn AngularJS and JavaScript. This free online course is what I used to grasp the basics of it: <a href="https://www.codeschool.com/courses/shaping-up-with-angularjs">codeschool - AngularJS</a>. </p>
 
