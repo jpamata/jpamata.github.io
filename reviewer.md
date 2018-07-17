@@ -54,3 +54,10 @@ title: Reviewer
 > Software Development
 
 - [Textbook for NUS TE3201: SOFTWARE ENGINEERING](https://nus-te3201.github.io/website/book-adapted/index.html)
+- [Explain the Agile Software Development approach](https://en.wikipedia.org/wiki/Agile_software_development)
+- [Quick Review of Git at codecademy](https://www.codecademy.com/learn/learn-git)
+
+> Other Resources
+
+- [Massive Interview Tips Blog](https://massivetechinterview.blogspot.com)
+- [CareerCup](https://www.careercup.com/page)
