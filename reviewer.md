@@ -3,7 +3,7 @@ layout: default
 title: Reviewer
 ---
 
-<h2>About</h3>
+<h2>About</h2>
 
 <p align="justify">My resources and general study plan for at least 1 week of preparation for a technical interview.</p>
 
