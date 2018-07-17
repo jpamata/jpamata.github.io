@@ -5,7 +5,7 @@ title: Reviewer
 
 <h2>About</h2>
 
-<p align="justify">My resources and general study plan for at least 1 week of preparation for a technical interview.</p>
+<p align="justify">My resources and references for at least 1 week of preparation for a technical interview. Note that I made this for my use.</p>
 
 > Quick Review of Programming Langauges
 
