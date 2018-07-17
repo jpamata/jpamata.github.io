@@ -70,3 +70,5 @@ title: Reviewer
 - [CareerCup](https://www.careercup.com/page)
 - Networks: [Networks: CISCO ICND1](http://www.freeccnastudyguide.com/study-guides/icnd1-100-101/)
 - Networks: [CISCO ICND2](http://www.freeccnastudyguide.com/study-guides/icnd2-200-101/)
+- Algo: [Tushar Roy YouTube Channel (Algos/System Design for Interviews)](https://www.youtube.com/user/tusharroy2525/videos)
+- Algo: [Vivekanand Khyade YouTube Channel (In depth Algo Explanations)](https://www.youtube.com/user/vivekanandkhyade/videos)
