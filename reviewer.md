@@ -52,13 +52,20 @@ title: Reviewer
 - [Sorting Algo Playlist](https://www.youtube.com/playlist?list=PLqM7alHXFySHrGIxeBOo4-mKO4H8j2knW)
 - Important to review: loop implementation, array & linked list implementation, sorting algos
 
+> Security
+
+- [Security and the TCP/IP stack](https://searchnetworking.techtarget.com/tip/Security-and-the-TCP-IP-stack)
+- [Basic Security Concepts for the TOPCIT exam (1 hour youtube playlist)](https://www.youtube.com/playlist?list=PLwFtJ4OZ4zgx_nQGVDOKcx-yTEJVbIdwe)
+
 > Software Development
 
 - [Textbook for NUS TE3201: SOFTWARE ENGINEERING](https://nus-te3201.github.io/website/book-adapted/index.html)
 - [Explain the Agile Software Development approach](https://en.wikipedia.org/wiki/Agile_software_development)
 - [Quick Review of Git at codecademy](https://www.codecademy.com/learn/learn-git)
 
-> Other Resources
+<h2>For >1 Week Review</h2>
 
 - [Massive Interview Tips Blog](https://massivetechinterview.blogspot.com)
 - [CareerCup](https://www.careercup.com/page)
+- Networks: [Networks: CISCO ICND1](http://www.freeccnastudyguide.com/study-guides/icnd1-100-101/)
+- Networks: [CISCO ICND2](http://www.freeccnastudyguide.com/study-guides/icnd2-200-101/)
