@@ -11,6 +11,7 @@ title: Reviewer
 
 - [Learn X in Y minutes](https://learnxinyminutes.com)
 - [Codecademy](https://www.codecademy.com/)
+- [115 Java Interview Questions and Answers (only ch 1-6 are essential)](https://snowdream.github.io/115-Java-Interview-Questions-and-Answers/115-Java-Interview-Questions-and-Answers/en/index.html)
 
 > OOP
 
