@@ -3,9 +3,9 @@ layout: default
 title: About John
 ---
 <hr>
-<p align="justify">John. But some of his friends call him Ice. John is an undergrad who's set to graduate with a BS in Computer Science this year, in May. Take a look at this photo of John for the 2018 college yearbook if you don't believe me: <a href="/photos/jpamata-bscs.JPG">link</a>. Other than being busy in all things computer science, John likes to spend his time playing the piano, reading non-fiction books, and eating lasagnas.</p>
+<p align="justify">John. But some of his friends call him Ice. John is an undergrad who's set to graduate with a BS in Computer Science this year, in May.Other than being busy in all things computer science, John likes to spend his time playing the piano, guitar, reading non-fiction books, and eating lasagnas.</p>
 <center>
-  <p><img src="https://i.imgur.com/d3Se2PY.jpg"/></p>
+  <p><img src="https://avatars1.githubusercontent.com/u/12871105"/></p>
 </center>
   
 <div class="pagination">
