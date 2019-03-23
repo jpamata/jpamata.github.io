@@ -7,7 +7,7 @@ tags: [career]
 comments: true
 ---
 
-<p align="justify">Everything that I have learned from the first half of my internship, INTERN2 is merely just a solidification of those lessons. As my internship is nearing its end, in this post, I would like to thank the following whom I had the privilege of being with.</p>
+<p align="justify">Everything that I have learned from the first half of my internship, INTERN2 is merely just a solidification of those lessons. As my internship is nearing its end, in this post, I would like to thank the following whom I had the privilege of being with:</p>
 <!-- more -->  
 <ol>
   <li><strong>Sir Mark:</strong> for forcing me to face my SQL/Database “phobia”. And for also making me realise that although I do not like working with .NET, there are still some gems worth mining - and this goes for everything that we do in life.</li>
@@ -33,3 +33,5 @@ comments: true
 <p align="justify">During my first week at Willis Towers Watson, they sent me to attend meetings on every team and every project that they have. They asked me to look at problems. And all those tasks given to me, the aggregate sum of it all, to these I give my greatest thanks. For ever since that week, I looked at problems differently.</p>
 
 <p align="justify">Thank you for that. For what Descartes was to Newton, what Talmey was to Einstein, and what Gates was to Zuckerberg, if I have seen further, it is by standing on the shoulders of these giants.</p>
+
+<B
