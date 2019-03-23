@@ -19,7 +19,7 @@ comments: true
   <li><strong>Sir Rommel:</strong> for making me appreciate corporate work. You Sir, just have this habit of making tasks worth enjoyable, and making it seem like every task is built on a definite purpose. </li>
   <li><strong>Sir Sean:</strong> for those talks on tech and career. Though that day may have eclipsed your memory, I will never forget that time when you talked to me about what it's like in the industry as a senior developer.</li>
   <li><strong>Sir Emil:</strong> for that 1 on 1 talk about a career on the tech industry and project management.</li>
-  <li><strong>Sir Roland:</strong> for insights on the industry. I will miss the talks about</li>
+  <li><strong>Sir Roland:</strong> for insights on the industry. Aside from the jokes that you crack up in the middle of the day, I will miss the talks about job hunting, your past experiences with other project managers and your opinion on what defines a good leader.</li>
   <li><strong>Sir Darwin:</strong> for giving me solid tips for the job hunt. </li>
   <li><strong>Miss Jeania:</strong> for helping me cultivate the habit of looking for problems to solve.</li>
   <li><strong>Miss Lui:</strong> for teaching me that the best way to vibe with a person, is through self-disclosure.</li>
