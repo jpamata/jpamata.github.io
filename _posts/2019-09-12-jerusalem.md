@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Trip to Jerusalem"
-description: Screenshots from my project in cloud programming last term.
+description: A trip to the holy land and mum and dad's wedding.
 category: articles
 tags: [travel]
 comments: true
