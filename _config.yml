@@ -14,7 +14,9 @@ plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 paginate: 5
 
 logo: "/assets/jpalogo.png"
-disqus_shortname: john-amata
+disqus_shortname: 
+
+# john-amata
 
 rtl: false
 owner:
