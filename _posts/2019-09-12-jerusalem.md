@@ -7,15 +7,33 @@ tags: [travel]
 comments: true
 ---
 
+<style type="text/css" rel="stylesheet">
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+</style>
+
 <p align="justify">Mum and dad had their wedding at Jerusalem, and it was quite romantic to think about. They were too poor back then to afford a wedding, and now that they're about 50 (mum just turned 50 a few months ago while dad will turn 50 next year), they finally got their dreams come true. Nonetheless, plenty of stuff was done at Israel. </p>
 
 <!-- more -->  
 
-<p align="justify">Now I won't post all my pics and videos here like my other blog posts about travel; maybe I'll post more stuff on my travel blog. But here's a few highlights from our stay:</p>
+<p align="justify">Now I won't post all my pics and videos here like my other blog posts about travel; maybe I'll post more stuff on my travel blog. But here's a few highlights from our stay...</p>
 
 <center>
-
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/mwsFoV6Imb0" width="700"></iframe>
+  
+<div class="video-responsive">
+  <iframe src="https://www.youtube.com/embed/mwsFoV6Imb0" height="344" width="459" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <img src="https://lh3.googleusercontent.com/WH-oWntHocEwtwvDC1RyuWAyKySqZsBFuBf6NmO2l5PeHr6glqfGj_QrruImRzOoHtJL2c8MnZV0OwVrTRMf50J7XW73dj3eqYGVwiW0BWVmeDgRT3uAOozxKdy5eiMB3XM5foMIxZ0=w2400">
 
