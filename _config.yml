@@ -2,7 +2,7 @@ name: John Patrick Amata
 description: >
     John Patrick Amata
 about: >
-    Tech and a little bit of everything.
+    A little bit of everything.
 baseurl: "/"  
 url: "http://johnamata.com"
 markdown: kramdown
@@ -21,9 +21,9 @@ owner:
   name:           jpa
   avatar:         "/assets/jpalogo.png"
   twitter: https://twitter.com/john__amata
-  email:          "hello@johnamata.com"
+  email:          "j+p@johnamata.com"
   # Social networking links used in footer. Update and remove as you like.
-  github: https://github.com/jpamata
+  github: https://github.com/bradp1tt
   stackexchange: 
   linkedin: https://www.linkedin.com/in/jpamata
   facebook: https://www.facebook.com/JohnTheGreat
