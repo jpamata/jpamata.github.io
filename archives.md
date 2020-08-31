@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Archives
-permalink: /archives/
 ---
 
 <div class="listing">
