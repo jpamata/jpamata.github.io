@@ -4,6 +4,8 @@ title: About John
 ---
 <hr>
 <p align="justify">John. But some of his friends call him Ice. John recently did his <a href="https://johnamata.com/photos/jpamata-bscs.JPG">Bachelor of Science in Computer Science</a> and am now doing <a href="https://www.linkedin.com/in/jpamata">postgrad studies</a>. Outside of work, in his free time he mostly codes in <a href="https://github.com/bradp1tt?tab=repositories&q=&type=&language=python">Python</a>, <a href="https://github.com/bradp1tt?tab=repositories&q=&type=&language=java">Java</a>, and <a href="https://github.com/bradp1tt?tab=repositories&q=&type=&language=c">C</a>. Other than being busy in all things computer science, John likes to spend his time playing his <a href="#">electronic keyboard</a>, the <a href="https://johnamata.com/photos/playing-guitar-in-2009.jpg">guitar</a>, reading non-fiction books, and eating lasagnas. He's not much of a sporty guy. Nowadays he just lifts weights from home, but in highschool he was part of the school's <a href="https://johnamata.com/photos/footballsoccer.jpg">soccer team</a>. He's still looking for a sport to get into, probably MMA with his friends. We'll see after this pandemic is over.</p>    
+
+<p>Feel free to send emails at (ignore brackets): <j+p@johnamata.com></p>
 <center>
   <p><img src="https://avatars1.githubusercontent.com/u/12871105"/></p>
 </center>
