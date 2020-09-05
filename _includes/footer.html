@@ -25,11 +25,11 @@
   
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-  NEXT
       <a href="{{site.url}}/" class="newer"><span class="mega-octicon octicon-playback-{% if site.rtl %}rewind{% else %}fast-forward{% endif %}" style="min-width: 32px;"></span></a>
+    NEXT
     {% else %}
-  NEXT
       <a href="{{site.url}}/page{{paginator.previous_page}}" class="newer"><span class="mega-octicon octicon-playback-{% if site.rtl %}rewind{% else %}fast-forward{% endif %}" style="min-width: 32px;"></span></a>
+    NEXT
     {% endif %}
   {% else %}
     <span class="previous"><span class="mega-octicon octicon-playback-{% if site.rtl %}rewind{% else %}fast-forward{% endif %}" style="min-width: 32px;"></span></span>
