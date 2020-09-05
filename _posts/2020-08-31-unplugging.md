@@ -7,8 +7,6 @@ tags: [life]
 comments: true
 ---
 
-<meta property="og:image" content="https://johnamata.com/photos/2020-08-31-screenshot.png" /> 
-
 <p align="justify">I'm taking a break for a month to focus on some projects of mine.</p>
 
 <!-- more -->  
