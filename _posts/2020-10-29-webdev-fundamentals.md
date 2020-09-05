@@ -11,6 +11,8 @@ comments: true
 
 <!-- more -->  
 
+<img src="https://johnamata.com/photos/mit-weblab-2020.png">
+
 <div>
 <h2>Kickoff</h2>
 
