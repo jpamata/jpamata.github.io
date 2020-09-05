@@ -142,3 +142,87 @@ comments: true
 
 <p align="justify">todo.</p>
 </div>
+
+
+<div>
+<h2>Sockets Workshop</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>Data Fetching: GraphQL and Relay</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>Sockets Workshop 2</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>Redux</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>Advanced MongoDB</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>Advanced Async</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>API & Asynchronous Programming</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>Continuing Sockets Workshop 2</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>Web Design</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>React Debugging</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>Deployment</h2>
+
+<p align="justify">todo.</p>
+</div>
+
+
+<div>
+<h2>Best Practices</h2>
+
+<p align="justify">todo.</p>
+</div>
