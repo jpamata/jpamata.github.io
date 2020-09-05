@@ -7,7 +7,7 @@ tags: [webdev]
 comments: true
 ---
 
-<p align="justify">DRAFT - looking to complete it by October 29, 2020. Notes from MIT Web Lab/Web Programming & Competition Class.</p>
+<p align="justify">DRAFT - looking to do the MIT Web Lab/Web Programming & Competition class and complete it by October 29, 2020. Deadline may change as this wont be a priority of mine. This post will contain my notes for it that may prove to be helpful for those looking to learn web development.</p>
 
 <!-- more -->  
 
