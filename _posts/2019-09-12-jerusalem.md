@@ -23,8 +23,6 @@ comments: true
 }
 </style>
 
-<meta property="og:image" content="https://lh3.googleusercontent.com/B-MmK5sCHAaNUnZSBV-9QXXa7sDQ29wsga72WKEX2m_cXbkJjoGLPoZ9ze7ANm-3oUJ5L4-P0J6Oo2fklaeRoaUSDhIrzYm8csKRWbUmFMlcFWtz16qe41FWo3YSMu-93_WQ49wKeOg=w2400">
-
 <p align="justify">Mum and dad had their wedding at Jerusalem, and it was quite romantic to think about. They were too poor back then to afford a wedding, and now that they're about 50 (mum just turned 50 a few months ago while dad will turn 50 next year), they finally got their dreams come true. They had their wedding at Cana. Now that's biblical. Nonetheless, we also did plenty of other stuff at Israel. </p>
 
 <!-- more -->  
