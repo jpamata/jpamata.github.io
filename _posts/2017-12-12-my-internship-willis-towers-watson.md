@@ -7,8 +7,6 @@ tags: [career]
 comments: true
 ---
 
-<meta property="og:image" content="https://i.imgur.com/PzUp70d.jpg" />
-
 <p align="justify">Everything that I have learned in internship 2, is merely just a solidification of those lessons from my first internship. As my internship is nearing its end, in this post, I would like to thank the following whom I had the privilege of being with:</p>
 <!-- more -->  
 <ol>
