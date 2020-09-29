@@ -27,7 +27,7 @@ comments: true
 
 <!-- more -->  
 
-<p align="justify">Now I won't post all my pics and videos here like my other blog posts about travel; maybe I'll post more stuff on my travel blog. But here's a few highlights from our stay...</p>
+<p align="justify">Now I won't post all my pics and videos here; maybe I'll post more stuff on my travel blog. But here's a few highlights from our stay...</p>
 
 <center>
   
