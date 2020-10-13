@@ -21,7 +21,7 @@ Disenchanted with business studies, I dropped out, took a 1 year break to cope w
 
 <p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt; and remember: NEVER GIVE, NEVER SURRENDER</p>
 <center>
-  <p><img src="/photos/me-69.jpg"/></p>
+  <p><img src="/photos/me-69-min.jpg"/></p>
 </center>
   
 <div class="pagination">
