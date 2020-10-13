@@ -9,19 +9,19 @@ title: About John
 </p>
 
 <p align = "justify">
-I started learned programming when I was 10, with HTML/CSS. Mostly it was all because of school. Because of my academic performance, I was placed into a specialized program in electronics when I was 12, and that was when I was exposed to C programming for robotics. I eventually entered college and majored in Accounting as my parents at the time wanted me to become a CPA-Lawyer. 
+I started learned programming when I was 10, with HTML/CSS. Mostly it was all because of school. Because of my academic performance, I was placed into a specialized program in electronics when I was 12, and that was when I was exposed to C programming for robotics. I eventually entered college when I was around 14 and majored in Accounting as my parents at the time wanted me to become a CPA-Lawyer. 
 </p>
 
 <p align="justify">
-Disenchanted with business studies, I dropped out, took a 1 year break to cope with depression that started growing when I was 13 (but only diagnosed later when I was 16-17), and then enrolled at a different school. That was when I majored in Computer Science, and when this journey of learning to love programming, began. I recently graduated with a <a href="/photos/jpamata-bscs.JPG">Bachelor of Science in Computer Science</a>, and recently, started pursuing postgrad studies.
+Disenchanted with business studies, I dropped out, took a 1 year break to cope with depression that started growing when I was 13 (but only diagnosed later when I was 16-17), and then enrolled at a different school. That was when I majored in Computer Science, and when this journey of learning to love programming, began. I recently graduated with a <a href="/photos/jpamata-bscs.JPG">Bachelor of Science in Computer Science</a> and had started working on software development.
 </p>
 
 <p align="justify">Outside of work and education, in my free time I like to spend my time learning the electronic keyboard, the <a href="/photos/playing-guitar-in-2009.jpg">guitar</a>, reading non-fiction books, and baking. I'm not much of a sporty guy. Nowadays I just lift weights at home, but in highschool I was part of the school's <a href="/photos/footballsoccer.jpg">soccer/football team</a>.
 </p>  
 
-<p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt;</p>
+<p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt; and remember: NEVER GIVE, NEVER SURRENDER</p>
 <center>
-  <p><img src="/photos/me-110.jpg"/></p>
+  <p><img src="/photos/me-69.jpg"/></p>
 </center>
   
 <div class="pagination">
