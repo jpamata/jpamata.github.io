@@ -19,7 +19,8 @@ Disenchanted with business studies, I dropped out, took a 1 year break to cope w
 <p align="justify">Outside of work and education, in my free time I like to spend my time learning the electronic keyboard, the <a href="/photos/playing-guitar-in-2009.jpg">guitar</a>, reading non-fiction books, and baking. I'm not much of a sporty guy. Nowadays I just lift weights at home, but in highschool I was part of the school's <a href="/photos/footballsoccer.jpg">soccer/football team</a>.
 </p>  
 
-<p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt; and remember: NEVER GIVE, NEVER SURRENDER</p>
+<p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt; and always remember:</p> 
+<p><strong>NEVER GIVE, NEVER SURRENDER</strong></p>
 <center>
   <p><img src="/photos/me-69-min.jpg"/></p>
 </center>
