@@ -9,11 +9,11 @@ title: About John
 </p>
 
 <p align = "justify">
-I started learning programming when I was 10, with HTML/CSS. Mostly it was all because of school. Later because of my academic performance, I was placed into a specialized program in electronics when I was 12, and that was when I was exposed to C programming for robotics. I eventually entered college when I was around 14 and majored in Accounting as my parents at the time wanted me to become a CPA-Lawyer. 
+I started learning programming when I was 10, with HTML/CSS then a tiny bit of JavaScript the following year. Mostly it was all because of school. Later because of my academic performance, I was placed into a specialized program in electronics when I was 12 and that was when I was exposed to C programming, where I had to attend additional classes that amounted to 8 hours a week. The classes were stressful but when I look back, along with the friendships made, it's those classes that stood out to me in my high school years. 
 </p>
 
 <p align="justify">
-Disenchanted with business studies, I dropped out, took a 1 year break to cope with depression that started growing when I was 13 (but only diagnosed later when I was 16-17), and then enrolled at a different school. That was when I majored in Computer Science, and when this journey of learning to love programming, began. I recently graduated with a <a href="/photos/jpamata-bscs.JPG">Bachelor of Science in Computer Science</a> and had started working on software development.
+Eventually I entered college when I was around 14 and majored in Accounting as my parents at the time wanted me to become a CPA-Lawyer. Later I was disenchanted with such studies and dropped out. I took a 1 year break to cope with growing depression, and then enrolled at a different school. That was when I majored in Computer Science, and when this journey of learning to love programming, began. I recently graduated with a <a href="/photos/jpamata-bscs.JPG">Bachelor of Science in Computer Science</a> and had started working on software development.
 </p>
 
 <p align="justify">Outside of work and education, in my free time I like to spend my time learning the electronic keyboard, the <a href="/photos/playing-guitar-in-2009.jpg">guitar</a>, reading non-fiction books, and baking. I'm not much of a sporty guy. Nowadays I just lift weights at home, but in highschool I was part of the school's <a href="/photos/footballsoccer.jpg">soccer/football team</a>.
