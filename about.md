@@ -9,7 +9,7 @@ title: About John
 </p>
 
 <p align = "justify">
-I started learned programming when I was 10, with HTML/CSS. Mostly it was all because of school. Because of my academic performance, I was placed into a specialized program in electronics when I was 12, and that was when I was exposed to C programming for robotics. I eventually entered college when I was around 14 and majored in Accounting as my parents at the time wanted me to become a CPA-Lawyer. 
+I started learning programming when I was 10, with HTML/CSS. Mostly it was all because of school. Later because of my academic performance, I was placed into a specialized program in electronics when I was 12, and that was when I was exposed to C programming for robotics. I eventually entered college when I was around 14 and majored in Accounting as my parents at the time wanted me to become a CPA-Lawyer. 
 </p>
 
 <p align="justify">
