@@ -13,7 +13,7 @@ I started learning programming when I was 10, with HTML/CSS then a tiny bit of J
 </p>
 
 <p align="justify">
-Eventually I entered college when I was around 14 and majored in Accounting as my parents at the time wanted me to become a CPA-Lawyer. Later I was disenchanted with such studies and dropped out. I took a 1 year break to cope with growing depression, and then enrolled at a different school. That was when I majored in Computer Science, and when this journey of learning to love programming, began. I recently graduated with a <a href="/photos/jpamata-bscs.JPG">Bachelor of Science in Computer Science</a> and had started working on software development and a software product company with some of my friends.
+Eventually I entered college when I was around 14 and majored in Accounting as my parents at the time wanted me to become a CPA-Lawyer. Later I was disenchanted with such studies and dropped out. I took a 1 year break to cope with growing depression, and then enrolled at a different school. That was when I majored in Computer Science, and when this journey of learning to love programming, began. I recently graduated with a <a href="/photos/jpamata-bscs.JPG">Bachelor of Science in Computer Science</a> and had started working on software engineering.
 </p>
 
 <p align="justify">Outside of work and education, in my free time I like to spend it learning the piano, the <a href="/photos/playing-guitar-in-2009.jpg">guitar</a>, reading non-fiction books, and baking. I'm not much of a sporty guy. Nowadays I just lift weights at home, but in highschool I was part of the school's <a href="/photos/footballsoccer.jpg">soccer/football team</a>.
