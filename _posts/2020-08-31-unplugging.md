@@ -29,7 +29,9 @@ comments: true
 
 <p align="justify">My usage of them scales up only when I'm stressed and need a quick escape.  So this month of unplugging will do that. But nonetheless, it gave me a challenge to conquer.</p>
 
-<img src="https://johnamata.com/photos/2020-08-31-screenshot.png">
+<!-- 
+<img src="https://johnamata.com/photos/2020-08-31-screenshot.png"> 
+-->
 
 <p align="justify">Thus I made my last social media post in a while, posting it when everyone else was asleep. Saves me the time from telling each of my friends that I'm unplugged. Granted, I posted it on instagram, a platform that most of my friends barely use. Still, it's better than nothing.</p>
 
