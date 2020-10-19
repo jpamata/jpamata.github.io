@@ -22,10 +22,10 @@ rtl: false
 owner:
   name:           jpa
   avatar:         "/assets/jpalogo.png"
-  twitter: https://twitter.com/john__amata
+  twitter: # https://twitter.com/john__amata
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  github: https://github.com/bradp1tt
+  github: # https://github.com/bradp1tt
   stackexchange: 
   linkedin: 
   facebook: 
