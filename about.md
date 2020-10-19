@@ -22,7 +22,9 @@ Eventually I entered college when I was around 14 and majored in Accounting as m
 <p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt; and always remember:</p> 
 <p><strong>NEVER GIVE UP, NEVER SURRENDER</strong></p>
 <center>
-  <p><img src="/photos/me-69-min.jpg"/></p>
+  <!--
+<p><img src="/photos/me-69-min.jpg"/></p> 
+-->
 </center>
   
 <div class="pagination">
