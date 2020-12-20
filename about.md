@@ -13,7 +13,7 @@ title: About John
 I started learning programming when I was 10, with HTML/CSS then a tiny bit of JavaScript the following year. Mostly it was all because of school. Later because of my academic performance, I was placed into a specialized program in electronics when I was 12 and that was when I was exposed to C programming, where I had to attend additional classes that amounted to 8 hours a week. The classes were stressful but when I look back, along with the friendships made, it's those classes that stood out to me in my high school years. 
 </p>
 
-<p><img src="/photos/jpamata-cropped-20171220_145904.jpg"></p>
+<p><img src="/photos/collegeboyz.jpg"></p>
 
 <p align="justify">
 Eventually I entered college when I was around 14 and majored in Accounting as my parents at the time wanted me to become a CPA-Lawyer. Later I was disenchanted with such studies and dropped out. I took a 1 year break to cope with growing depression, and then enrolled at a different school. That was when I majored in Computer Science, and when this journey of learning to love programming, began. I recently graduated with a <a href="/photos/jpamata-bscs.JPG">Bachelor of Science in Computer Science</a> and had started working on software engineering.
