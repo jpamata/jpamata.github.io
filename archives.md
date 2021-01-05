@@ -32,7 +32,6 @@ title: Archives
 </ul>
 </div>
 <hr/>
-<p align="center">&nbsp;&nbsp;Yours truly,</p>
 <div style="display: flex; justify-content: center;">
   <img src="http://johnamata.com/assets/transparent-sign.png"> 
 </div>
