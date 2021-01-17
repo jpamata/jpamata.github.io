@@ -8,7 +8,6 @@ title: About John
 </p>
 <p><img src="https://avatars2.githubusercontent.com/u/59356126?s=460&u=29781d305467afd9b83fc9745dd79a27bab02094&v=4"></p>
 <p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt;</p> 
-</center>-->
   
 <div class="pagination">
   {% if site.owner.linkedin %}
