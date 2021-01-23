@@ -1,5 +1,5 @@
 # blog
-- using the following theme, i merely changed the banner and added an archive page template: https://github.com/vinitkumar/white-paper
+- using the following template, i just added a few stuff on my own like the projects, project portfolio pages for each year, and archive: https://github.com/vinitkumar/white-paper
 
 
 
