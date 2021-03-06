@@ -6,7 +6,7 @@ title: About John
 <p align="justify">
 <big><strong>Hello!</strong></big> I'm John, but some of my friends call me either Ice or JP.
 </p>
-<p><img src="https://avatars2.githubusercontent.com/u/59356126?s=460&u=29781d305467afd9b83fc9745dd79a27bab02094&v=4"></p>
+<p><img src="/photos/johnamata.jpeg"></p>
 <p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt;</p> 
   
 <div class="pagination">
