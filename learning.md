@@ -21,6 +21,12 @@ Things I'm learning
 
 [Writing an Interpreter in Go](https://interpreterbook.com/)
 
+[Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+
+[Putnam and Beyond, 2nd Edition](https://www.amazon.com/Putnam-Beyond-R%C4%83zvan-Gelca-ebook/dp/B077NHBD4N)
+
+[Basic Mathematics](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)
+
 **Courses**
 
 BackToBackSWE's [Ace Your Coding Interview](https://backtobackswe.com/)
