@@ -7,7 +7,7 @@ Things I'm learning
 
 <hr>
 
-<center><h1>2021</h1></center>
+<center><big>></big><h1>2021</h1></center>
 
 **Books**
 
