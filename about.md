@@ -6,6 +6,8 @@ title: About John
 <p align="justify">
 <big><strong>Hello!</strong></big> I'm John, but some of my friends call me either Ice or JP.
 </p>
+
+<p>Me, Elsewhere: <a href="https://github.com/johnamata">github</a>, <a href="https://www.codewars.com/users/johnamata">codewars</a>, <a href="https://open.kattis.com/users/johnpatrickamata">kattis</a>, <a href="https://leetcode.com/johnamata/">leetcode</a></p>
 <p><img src="/photos/johnamata.jpeg"></p>
 <p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt;</p> 
   
