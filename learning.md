@@ -7,11 +7,13 @@ Things I'm learning
 
 <hr>
 
-<center><h2><u>2021</u></h2></center>
+<center><h1>2021</h1></center>
 
 **Books**
 
 [How to Design Programs](https://htdp.org/2020-8-1/Book/index.html)
+
+[Ethereum Book/Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
 [Database Internals](https://www.databass.dev/)
 
