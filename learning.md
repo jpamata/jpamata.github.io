@@ -5,6 +5,8 @@ title: Learning
 
 Things I'm learning
 
+<hr>
+
 <h2>2021</h2>
 
 **Books**
@@ -36,3 +38,5 @@ Inanc Gumus' [Go Bootcamp Master Golang with 1000+ Exercises and Projects](https
 Andy Leverenz's [Hello Rails](https://hellorails.io/)
 
 Microsoft's "24 Lessons, 12 Weeks, Get Started as a Web Developer" [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+<hr>
