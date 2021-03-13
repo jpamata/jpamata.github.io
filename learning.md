@@ -29,6 +29,16 @@ Things I'm learning
 
 [Basic Mathematics](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)
 
+[Master Essential Algebra Skills Practice Workbook with Answers](https://www.amazon.com/Essential-Algebra-Practice-Workbook-Answers/dp/194169134X)
+
+[Algebra Essentials Practice Workbook with Answers](https://www.amazon.com/Algebra-Essentials-Practice-Workbook-Answers/dp/1453661387)
+
+[Algebra Word Problems Practice Workbook with Full Solutions](https://www.amazon.com/Algebra-Problems-Practice-Workbook-Solutions/dp/1941691293)
+
+[How to Solve Word Problems in Algebra](https://www.amazon.com/Problems-Algebra-Proven-Techniques-Expert/dp/0071343075)
+
+[300+ Mathematical Pattern Puzzles](https://www.amazon.com/300-Mathematical-Pattern-Puzzles-Recognition/dp/1512044288)
+
 **Courses**
 
 BackToBackSWE's [Ace Your Coding Interview](https://backtobackswe.com/)
