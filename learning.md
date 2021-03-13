@@ -25,7 +25,7 @@ Things I'm learning
 
 [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 
-[Putnam and Beyond, 2nd Edition](https://www.amazon.com/Putnam-Beyond-R%C4%83zvan-Gelca-ebook/dp/B077NHBD4N)
+[Mathematics via Problems: Part 1: Algebra](https://bookstore.ams.org/cdn-1613114724929/mcl-25/)
 
 [Basic Mathematics](https://www.amazon.com/Basic-Mathematics-Serge-Lang/dp/0387967877)
 
