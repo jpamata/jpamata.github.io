@@ -9,7 +9,7 @@ title: About John
 
 <p>Feel free to send emails at &lt;<code>j+p@johnamata.com</code>&gt;</p> 
 
-<p><img src="/photos/johnamata.jpeg"></p>
+<p><img src="/photos/johnamata2.png"></p>
   
 <p>you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p>
 <div class="pagination">
