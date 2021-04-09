@@ -1,14 +1,5 @@
 ---
 layout: post
-title: "My Software Engineering Internship at Willis Towers Watson Philippines"
-description: aka 8 Months of Feeling Stupid
-category: articles
-tags: [career]
-comments: true
----
-
----
-layout: post
 title: "My Software Engineering Internship at Willis Towers Watson, Philippines"
 description: aka 8 Months of Feeling Stupid
 category: articles
