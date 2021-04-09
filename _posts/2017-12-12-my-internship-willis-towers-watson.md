@@ -41,7 +41,7 @@ NOTE 2: they dont call us software engineers, but rather developers. Some teams,
 
 - I got to write documentations for User Acceptance Testing
 
-- Learned the importance of dynamic programming in the real world
+- Learned the importance of dynamic programming in the real world, testing multiple edit distance algorithms to satisfy a spec for a search function. In the end, implemented a custom levenshtein distance
 
 - I got to develop and then release a management system into production that scaled from 1 QPS to 23 QPS (or almost 2 million per day)
 
