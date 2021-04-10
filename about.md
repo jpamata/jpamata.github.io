@@ -13,7 +13,7 @@ title: About John
 
 <p><img src="/photos/johnamata2.png"></p>
   
-<p>you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p>
+<!--<p>you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p>-->
 <div class="pagination">
   {% if site.owner.linkedin %}
     <a href="{{ site.owner.linkedin }}" class="social-media-icons"><i class="fa fa-2x fa-linkedin" aria-hidden="true"></i></a>
