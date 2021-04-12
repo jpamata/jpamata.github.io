@@ -6,7 +6,7 @@ layout: default
   <div class="tags-expo-list">
   <p>Tags</p>
     {% for tag in site.tags %}
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
+    | <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}</a>
     {% endfor %}
   </div>
   <hr/>
