@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DIY Bootcamp Day 0: Teaching Myself Web Development in the Next 49 Days"
+title: "DIY WebDev Bootcamp Day 0: Teaching Myself Web Development in the Next 49 Days"
 description: 
 category: articles
 tags: [webdev, diy-bootcamp-webdev]
