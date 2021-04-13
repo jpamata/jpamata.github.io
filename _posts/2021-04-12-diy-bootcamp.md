@@ -3,13 +3,13 @@ layout: post
 title: "DIY Programming Bootcamp: Teaching Myself How to Code in the Next 140 (or more) Days"
 description: 
 category: articles
-tags: [diy-hacker]
+tags: [diy-bootcamp]
 comments: true
 ---
 
 Alright, time for a new project: I've decided to learn programming seriously from this month til the end of August 2021, which translates <u>roughly to 140 days of learning</u>. And I'm going to blog everyday what I learned from learning web development.
 
-The tag I created for this series is: <a href="/tags#diy-hacker">diy-bootcamp</a>
+The tag I created for this series is: <a href="/tags#diy-bootcamp">diy-bootcamp</a>
 
 <!-- more -->  
 
