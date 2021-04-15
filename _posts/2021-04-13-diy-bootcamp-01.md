@@ -37,7 +37,7 @@ output = 'hello world! I am ' + user_input
 print(output)
 ```
  
-Some pretty basic code, but for beginners those 4 lines of code it introduces 5 things about python:
+Some pretty basic code, but for beginners those 4 lines of code introduces 5 things about python:
 
 1. printing to the console with <code>print()</code>
 
