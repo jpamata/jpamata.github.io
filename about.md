@@ -12,6 +12,8 @@ title: About John
 <!-- <p>see some <a href="#">projects</a>; you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p> -->
 
 <p><img src="/photos/johnamata2.png"></p>
+
+<p>this pic makes me look small</a>
   
 <!--<p>you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p>-->
 <div class="pagination">
