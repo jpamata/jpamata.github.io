@@ -10,7 +10,7 @@ comments: true
 Alright, time to get into the meme.
 
 <!-- more -->  
-<img src="https://lh3.googleusercontent.com/pw/ACtC-3dv4-VZbOwKoIwSkL6WPVqfu-5WFmNCeYw5O7dE0QAjwR4slVLVG-RwBzknzsZOVgAdue3_Cu4Vca5cJS-fLpNizsTRKkLvElZPNki_QR-CyLr6FtE8Wk4eULmOtp40GbznD-WrRkamB3PgYoJOt3vQ=w1280-h720-no?authuser=0">
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dv4-VZbOwKoIwSkL6WPVqfu-5WFmNCeYw5O7dE0QAjwR4slVLVG-RwBzknzsZOVgAdue3_Cu4Vca5cJS-fLpNizsTRKkLvElZPNki_QR-CyLr6FtE8Wk4eULmOtp40GbznD-WrRkamB3PgYoJOt3vQ=w1280-h720-no?authuser=0" width="50%">
 
 I started learning some python today, one thing that surprised me was that False, "", and 0 are considered as "False" in python
 
