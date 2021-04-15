@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DIY Bootcamp Day 1: Hello World"
-description: 
+description: So my experiment "diy programming bootcamp" begins. I got lazy today and only worked on ultra python basics.
 category: articles
 tags: [diy-bootcamp]
 comments: true
