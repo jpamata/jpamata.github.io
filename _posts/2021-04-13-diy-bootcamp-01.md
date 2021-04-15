@@ -10,8 +10,9 @@ comments: true
 Alright, time to get into the meme.
 
 <!-- more -->  
+<center>
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3dv4-VZbOwKoIwSkL6WPVqfu-5WFmNCeYw5O7dE0QAjwR4slVLVG-RwBzknzsZOVgAdue3_Cu4Vca5cJS-fLpNizsTRKkLvElZPNki_QR-CyLr6FtE8Wk4eULmOtp40GbznD-WrRkamB3PgYoJOt3vQ=w1280-h720-no?authuser=0" width="50%">
-
+</center>
 I started learning some python today, one thing that surprised me was that False, "", and 0 are considered as "False" in python
 
 I used JetBrains Academy's Hyperskill to learn Python but at least on my end, it was a poor experience. I downloaded the IntelliJ Edu IDE for it as it's much faster sometimes to do the exercises. On most exercises, it takes MINUTES to check the code I submitted for the exercises. This one alone took 5 minutes of loading time from hyperskill just to check my answer
