@@ -13,7 +13,7 @@ title: About John
 
 <p><img src="/photos/johnamata2.png"></p>
 
-<p>this pic makes me look small</a>
+<p>this pic makes me look small</p>
   
 <!--<p>you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p>-->
 <div class="pagination">
