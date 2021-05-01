@@ -13,8 +13,8 @@ title: About John
 
 <p><img src="/photos/johnamata2.png"></p>
 
-<p>this pic makes me look small</p>
-  
+[github](https://github.com/johnamata)
+
 <!--<p>you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p>-->
 <div class="pagination">
   {% if site.owner.linkedin %}
