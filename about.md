@@ -15,7 +15,9 @@ title: About John
 
 <p><img src="/photos/skiface.jpg" height="420"></p>
 
-[github](https://github.com/johnamata), [kattis](https://open.kattis.com/users/youwillneverafford1bitcoin)
+[github](https://github.com/johnamata), [kattis](https://open.kattis.com/users/youwillneverafford1bitcoin), [youtube]()
+
+<p>links: <a href="https://github.com/johnamata">github</a>, <a href="https://open.kattis.com/users/youwillneverafford1bitcoin">kattis</a>, <a href="http://kaggle.com/johnamata">kaggle</a>, <a href="https://leetcode.com/johnamata/">leetcode</a></p>
 
 <!--<p>you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p>-->
 <div class="pagination">
