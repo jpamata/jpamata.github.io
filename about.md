@@ -13,7 +13,7 @@ title: About John
 
 <p><img src="/photos/johnamata2.png"></p>
 
-[github](https://github.com/johnamata)
+[github](https://github.com/johnamata), [kattis](https://open.kattis.com/users/youwillneverafford1bitcoin)
 
 <!--<p>you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p>-->
 <div class="pagination">
