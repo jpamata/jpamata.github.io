@@ -13,7 +13,7 @@ title: About John
 
 <!-- <p><img src="/photos/johnamata2.png" alt="pic of me with lake at view"></p> -->
 
-<p><img src="/photos/skiface.jpg"></p>
+<p><img src="/photos/skiface.jpg" height="420"></p>
 
 [github](https://github.com/johnamata), [kattis](https://open.kattis.com/users/youwillneverafford1bitcoin)
 
