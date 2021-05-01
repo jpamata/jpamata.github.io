@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DIY Bootcamp Day 14: Slacking"
-description: 
+description: DId nothing except for Cobra Kai season 3
 category: articles
 tags: [diy-bootcamp]
 comments: true
