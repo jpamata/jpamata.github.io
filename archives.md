@@ -11,7 +11,7 @@ title: Archives
 <h1>All posts</h1>
 </center>
 
-<p>note: alternative - here's a list sorted in <a href="{{ "/tags" | prepend: site.url }}">tags/categories</a></p>
+<p>alternatively, here's a list sorted in <a href="{{ "/tags" | prepend: site.url }}">tags/categories</a></p>
 
 <ul class="tags-box">
 
