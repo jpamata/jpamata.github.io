@@ -11,7 +11,9 @@ title: About John
 
 <!-- <p>see some <a href="#">projects</a>; you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p> -->
 
-<p><img src="/photos/johnamata2.png"></p>
+<!-- <p><img src="/photos/johnamata2.png" alt="pic of me with lake at view"></p> -->
+
+<p><img src="/photos/skiface.jpg"></p>
 
 [github](https://github.com/johnamata), [kattis](https://open.kattis.com/users/youwillneverafford1bitcoin)
 
