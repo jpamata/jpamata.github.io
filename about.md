@@ -13,9 +13,7 @@ title: About John
 
 <!-- <p><img src="/photos/johnamata2.png" alt="pic of me with lake at view"></p> -->
 
-<a href="https://www.youtube.com/watch?v=zz7IprhSnDk">
-  <p><img src="/photos/skiface.jpg" height="420"></p>
-</a>
+<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="/photos/skiface.jpg" height="420"></a></p>
 
 <p>links: <a href="https://github.com/johnamata">github</a>, <a href="https://open.kattis.com/users/youwillneverafford1bitcoin">kattis</a>, <a href="http://kaggle.com/johnamata">kaggle</a>, <a href="https://leetcode.com/johnamata/">leetcode</a></p>
 
