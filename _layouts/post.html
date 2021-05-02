@@ -1,6 +1,20 @@
 ---
 layout: default
 ---
+<head>
+ <style> 
+.post-nav {
+    display: flex;
+}
+.post-nav div {
+    /* flex-grow, flex-shrink, flex-basis */
+    flex: 1 1 0;
+}
+.post-nav-next {
+    text-align: right;
+}
+</style>
+  </head>
 <h2>{{ page.title }}</h2>
 <p class="meta">{{ page.date | date_to_string }}</p>
 <span>Post Tag(s): [
@@ -9,18 +23,39 @@ layout: default
     <a href="/tags#{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
     ]</span>
+
+
+
 <hr>
 <div class="post">
 {{ content }}
 </div>
 
 <div class="keep-in-touch">
-    <p>
-        If you like this post, say thanks by following me at instagram <a href="https://www.instagram.com/jpamata/">@jpamata</a> so I can look legit enough to message Taylor Swift.
-    </p>
+    
 </div>
 
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="large" data-hashtags="johnamata">Tweet</a>
+<p></p>
+
+<div class="post-nav">
+  <div>
+    {% if page.previous.url %}
+    <a href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a>
+    {% endif %}
+  </div>
+  <div class="post-nav-next">
+    {% if page.next.url %}
+    <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a>
+    {% endif %}
+  </div>
+</div>
+
+<p>
+        If you like this post, you can say thanks by following me at instagram <a href="https://www.instagram.com/jpamata/">@jpamata</a> so I can look legit enough to message Taylor Swift.
+    </p>
+
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="{{ site.owner.twitter }}" data-size="large" data-hashtags="{{site.name}}">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 {% if site.disqus_shortname %}
