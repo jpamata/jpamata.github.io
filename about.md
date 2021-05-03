@@ -15,7 +15,7 @@ title: About John
 
 <p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="/photos/skiface.jpg" height="420"></a></p>
 
-<p>links: <a href="https://github.com/johnamata">github</a>, <a href="https://open.kattis.com/users/youwillneverafford1bitcoin">kattis</a>, <a href="http://kaggle.com/johnamata">kaggle</a>, <a href="https://leetcode.com/johnamata/">leetcode</a></p>
+<p>links: <a href="https://github.com/johnamata">github</a>, <a href="https://open.kattis.com/users/youwillneverafford1bitcoin">kattis</a>, <a href="https://www.youtube.com/channel/UC9jQqBH8hBidqxe6_FqKw0A">youtube</a>, <a href="https://leetcode.com/johnamata/">leetcode</a></p>
 
 <p>i code to this <a href="https://open.spotify.com/playlist/18eMGojFf1jsDEp2Oy6WYt?si=90c2a251fea64339">playlist</a></p>
 
