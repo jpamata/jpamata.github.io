@@ -1,0 +1,60 @@
+---
+layout: default
+title: About John
+---
+
+<center>
+	<h2>Books</h2>
+	<p>A list of interesting books I've read on my downtime that I highly recommend</p>
+</center>
+
+<center>
+
+<!-- row 1 -->
+<div>
+<a href="https://www.goodreads.com/book/show/52838315-greenlights">
+	<img src="/photos/books/greenlights.jpeg" height ="300" alt="greenlights by matthew mcconaughey">
+</a>
+
+<a href="https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman">
+	<img src="/photos/books/feynman.jpeg" height ="300" alt="surely you're joking mr feynman">
+</a>
+
+<a href="https://www.goodreads.com/book/show/115759.Arnold">
+	<img src="/photos/books/arnold.jpeg" height ="300" alt="arnold">
+	</a>
+</div>
+
+<!-- row 2 -->
+<div>
+<a href="https://www.goodreads.com/book/show/3828382-tribes">
+	<img src="/photos/books/tribes.jpeg" height="300" alt="tribes"> 
+</a>
+
+<a href="https://www.goodreads.com/book/show/17098.Isaac_Newton">
+	<img src="/photos/books/newton.jpeg" height="300" alt="newton">
+</a>
+
+<a href="https://www.goodreads.com/book/show/13589182-mastery">
+	<img src="/photos/books/mastery.jpeg" height="300" alt="mastery">
+</a>
+
+<a href="https://www.goodreads.com/book/show/349426.The_Memory_Book">
+	<img src="/photos/books/memory-book.jpeg" height="300" alt="the memory book">
+</a>
+</div>
+
+<!-- row 3 -->
+<div>
+<a href="https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life">
+	<img src="/photos/books/stoic-joy.jpg" height="300" alt="a guide to the good life: the ancient art of stoic joy">
+</a>
+
+<a href="https://www.goodreads.com/book/show/561436.Why_Don_t_Penguins_Feet_Freeze_">
+	<img src="/photos/books/penguins-freeze.jpeg" height="300" alt="Why Don't Penguins' Feet Freeze And 114 Other Questions">
+</a>
+
+<a href="https://www.goodreads.com/book/show/9439303-life">
+	<img src="/photos/books/keith-richards.jpeg" height="300" alt="keith-richards">
+</a>
+</div>
