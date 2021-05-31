@@ -5,11 +5,18 @@ title: About John
 
 <center>
 	<h2>Books</h2>
-	<p>A list of interesting books I've read on my downtime that I highly recommend</p>
+	<p>A list of interesting books I've read on my downtime. Click the photos to view my notes.</p>
 </center>
 
 <center>
-
+<hr>	
+	<h2>2021</h2>
+<!-- row 1 -->
+<div>
+</div>
+	
+	<h2>2010-2020</h2>
+	<p>Books I remember reading when I was in my teens/early twenties. I have no notes from them and clicking will just bring you to their goodreads page. Perhaps later I'll reread them</p>
 <!-- row 1 -->
 <div>
 <a href="https://www.goodreads.com/book/show/52838315-greenlights">
