@@ -120,3 +120,26 @@ Lmao this book title
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3dLgKWU0nPFahxLBGE0_niJ53rsL2FVsQzDrusLQEbkVY355ly64iMOjUWHWkivpju44lqZxzi2GugMxhtui5pxZswLfu59INLoNrwrbXvRWY-Dc4DQSHOWHsYzyDzpF-jhEO3JFKSNznEXFtRe7fs9=w1856-h1392-no?authuser=0">
 
+## 2021-04-23
+
+After getting prescription glasses for my massive eye strain, I want to keep my eyes healthy for the time being so again I didnt do anything today.
+
+For now, here's a pic from today's walk with my dog
+
+<!-- more -->
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dFmR1_wxvj6TkyvQtVNCeq1eGIBMNZ9x8b-zf4_KgP9lFOMyR8qh6BzvfAzVoLrzEbPTBY45xJ3bZYEmb_Klq2NNYJUkbbllNhVPfpb6Jt7Wcgqsif8bm4txHX2h-e7kf4MBWEika7Kyy-LyCCzQL3=w1856-h1392-no?authuser=0">
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3fefmEbENnzyiJbgDdTPVlcpmAstJE6hmYhwc5_ZhS9BzzEMNgYL6be5gDpOfs9nXZNMZ09eeELhxHPmU7GoEF2WOWXFIwL8Uma5JMW_ihoGMmIWvmlSIsjujXmt9if7cMeyJVmO-dM_1nRt4V_U_Gw=w1856-h1392-no?authuser=0">
+
+## 2021-04-24
+
+All I did was watch cobra kai the entire day. I loved it. Pretty motivating. The character is pretty based and it's like a story of (dragonball) Vegeta's redemption. I'm just about to finish season 1.
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3c9WaKBLgYdxOrtXWqwLdZZSMNeNaHTebGiRRaOKsrob5Bc_qSbnDNWn8nvUt0WnFOIOsCFp3I_im1-zqgIbxLGfDsuCynh6PpiLMC9DkvadiFCUjb0Rm0N6fyHa0PU_dsK0tDp7KbSpH8LFPu238qN=w2160-h1214-no?authuser=0">
+
+Cobra Kai baby. Johnny Lawrence is a hero.
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3c9A50IWx2X5tU8o3WIXW3U_7uFxM947GLD8-41EBdHG8LWG0wv8r98EMCBih2YVif94uJ5Vxi-kiI9QlfcHQaADLY4YH91rozZKg8VgVjFr7xlnLsINJTuUKJ-BeeeDQeG9DXD-pwoKKU8Ahu0vJMS=w2000-h1333-no?authuser=0">
+
+
