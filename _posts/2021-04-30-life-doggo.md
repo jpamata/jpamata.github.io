@@ -7,7 +7,7 @@ tags: [travel]
 comments: true
 ---
 
-Stuff I did in May
+Stuff I did in May, also some pics of my pet doggo (not the real name)
 
 <!-- more -->  
 
@@ -62,9 +62,37 @@ Anyhow that's it and as usual, a pic of today's walk with the friendly doggy
 
 ## 2021-04-16
 
+Still on a break from computers, I opened my macbook today as I couldnt reist the temptation. I just checked my mails and I had just read the an email from a well accomplished database professor. Earlier I emailed him for some advice on learning the internals and implementations of databases. He replied by giving me some resources as well as his book. I checked out his book and it's perfect. I'd like to talk about it, but it might attract some unintended attention and in turn, he'll start getting spam emails.
+
+With this, I looked for some open source database projects I could work on in the future, and ones that caught my eye are cockroachDB and trinoDB. One is built in Go and the latter is built in Java.
+
+I downloaded the code and created my own "toy repo" for it, then I looked into the codebase which is of course, HUGE. Couldnt understand a single thing. That's not MY problem though, that's my FUTURE ME's problem. Step by step, little by little, that's how we go. Learn some Java and GO first, then some databases, and google what I dont understand in the codebase. That's the plan.
+
+After that, I didnt do much today. Still on that eye strain break. I'm thinking about 10 days of this break. My eyes get really itchy when staring on the screen, despite wearing glasses.
+
+As usual, here's today's walk with doggo
+
+<img src="https://lh3.googleusercontent.com/CFA1zsg5iHQYyZD9F1JNLlicswS1UqszFo0pU2V0BL_QVMDFNi9imDNWGESgiVzD5QBA_kMYsKGHCpHz1L_uH1BWv5x5SFjLE5EOj-vXrSjmJ0l85Z3c0NEdGkwyayfqQmPocYrsfRI0kzAFoZ9WVE_cetr1s1tP208WHFhoRWnwZVVtFbXhvfRKSiPF6vTR9nIAyf8RGzF0dGdg5WwkPu1ilQtbLh-oFHjDXD5sYmbD5vSp9ZXvum5YTdmHvojN448Sosu5fo-ZtlZyjNyXjVPZFKkBB-UyjVm0LPAnGVC_mL1STrznWe2nFu9hR27UaKAJzqtLZsKVSSyYfKjmwKyi8STQLQm18r1AzAqCrtj2PCxqPeXyqLGbhQ7_V68vzs9nTOlgkjCc2NcH3E_0z9vDqz-h2SJjPiSvHZc_3gegBRNKvSu_ADetD-Go7H8X9fr8uyqpjAvzvOFRIWcper_K1y-WqKmWwmwgHRdb2qpj388COzSHAasp3G73J56cK9oMBcCI0dYRAOW72LgctMH613cDkg99cl1n-XiUBl8Nqg8EAtMPWCzbNKHSSgzjlX8saByE8jCssYodq2Cbr8IEJKTREchGMGdsK6LgroiQC9V8Ew3I9_5xcIPuXN9d0kgs3Z5kQZiZ408dH7gC28-xSw03jp7vCdz1rOCRCaRILwZf9lAHnDvWNpBmFtp_jMRn83lnVwZu6bBF7GsjskN9=w1856-h1392-no?authuser=0">
+
 ## 2021-04-17
 
-## 2021-04-18
+Today I did nothing. Really took my eye strain break seriously. So here's a picture from a walk with my dog today.
+
+<img src="https://lh3.googleusercontent.com/SgQA1opu5iLXQ42Gl2Lkn0lOHNl7E9Wj1H-F_OgYjK1l4akNT21P8QxRg21LgzFctfi-0wpVLofbZNoSnDYJcB4JeOU7qAAXpviu-mARzFRjmuxC9z03ddNbjtFysSkkwReMYGeq4uhTFwDtMfABpiLS2U9K-sNMLvEIT6bWzwa6y2Gvz2HtFJWRlrS_KSYEHS8C-mPis_xr6vOBj2hEdd37kwAvlmU6tIcTIsXQGj5YCM-cFRqE9M5ngd-S3iFKXhaitPk4bD5HJNUrmzZU09ewfZ4vfJ_KT71q9W8y8DFk5nTBZDm_I0d8YD8U7pKJ3Wdz63JlqZ4E4ichTTPItLVP-6ouBkWlsuBU9T1RE5ijz6_J6aH6mJuYCm978feg9PUMxZrnr9fWdkoQxpslwfNdm9rCgC24Tnz0JXdJsN4D6CWnF-HSOWw3vMGTVScDW2xw8abY_TqE5Oi2C2uO86NdbInej4nAsNoL2PciLaswVWEGNNW0hNTfJW-wVocTa41UI5aTC5bVHykbqsaF5l8DCXV-Lg81N5o3IWJRvMYRX5WnRO2TOrfRI9yGYVCq6tR3YZ1lyYdg5fUNGnrhyet9xQcqh3ouwN0pCaria1U5jKFlhaULQDIOdYi7z9rGfb1wVF7Xxxg8mmsq1z03lJfc_Kbpaeul0_W4_1vSdHYq2JpOaCbp9U-tSLChJGcOEKU5mRdv9ny6khLnaRtM4k2_=w1858-h1392-no?authuser=0">
+
+## 2021-04-18 - Mum's birthday
+
+Did nothing today. Took my Eye Strain break seriously today as well as today's mom's birthday. As it's COVID time, it's just a small family gathering. We ate cake, spaghetti, pancit, and other stuff in the garden and had some talks. 
+
+Here's a pic of doggo at the patio near the garden
+
+<img src="https://lh3.googleusercontent.com/7SQLsh7pJiDXfiNkBzwPzn09O7xgaBiXNpqIHHaPJhW5J2iKxfvQ5n0BlX0OFcZBCvaExJc1yuFYwmYn4MuiY9tAiHei0gZKg4Bgphp5v8LWmBGnIDoHQUlO8YOKevHoycug0Z5C8AkHJYLp3Ez3AKjdd7cCGmlWRNJUd0q-9elWRCuVsQQCoh4bAGIFEGBTY_sCMtJR_N0CPAX890YFkTrK_45om5CAJ05Le3gtxAca27kOfdynzCVRV95ezoolUJfFwFXnteCgZQHh282JnQ0AlKmahIHvgMvPTbFbTlQn-OgDpSVp4kfQTyWMOH5dFRKuMCtSV1IxdaN3mSKseEa5BTR3kylV265eCyc39zOFjnsQj6qFEi-GvoWJRxdTwHna12u4wEpqmNouB7r9a35x606aNuo4SwN6C5EHTHx7ql-sm29y8wx5eW_RHQrpYO9fI9oo5JdWe2ZFAGyIkcJ4UVhq6pi354V_rfMcxOSYSXazPcMAgdGI_lqvZkmvZYZ14ZWBsTf_bFuH76Ec3r1GA4acstla58H-DksgvLWPqzWgUs-GtehgBVjzTP9oC4_OgMvuRGD7Y__sY8nRp_rwZW8TtjP_pRIS6h8S7pRPyQZh-RN9c9gEcLQrQUPU-162X-Wpd5Ke9O78BFYJ3pdZCE_S9428_08JitH81PHr82h4nbN13ClhFO-Dmr4CkA9SFytYh3Scr1iKAbMA4BwT=w1856-h1392-no?authuser=0">
+
+# 2021-04-19
+
+today's walk with doggo
+
+<img src="https://lh3.googleusercontent.com/CzWD6hqyrt7IMYG_-fW3oLLhY_MzGXrXVNgdmOb_Lr4HmbHnMO_38GYeS9enju0o3f_3mqdUk0cRIHoh2OLEbHNWG1N0sVyXvaikedEZRYZ6P3aJ_zekpEst9ulpSEMXWOYHgY8WnHJ2acEKmb6Lds9t7cv18jHzH-Wc1I_bcTOjFZ5eVJIiTjhj5Q8XpKLP2i3wHtBapYkKRJsLDaCN-r0i12mipz-Tr-Ds47GMFEC485wC6WDdAY6tXHlq2Sq0G58Rn6KpvHTsZ-7IIY9Qu1UI03Tdrb2pawXcPIP_tvzgxAtyy5AvUqxoZkozGVfQMy-Ybw78wj9o94XzXjN-p1Lxku4kK1hb4FyF4LNK8GWeesdQYtjA_YS3RgY43TEhWuSChOng1GrajfnTeQAWDu1RFb_1iiJio6V0yQa6GUNfIGrkoeynkvjXvhgJJ7JQOX9j6qKgQU9UF9xokeAP3GJGtc9dgkDNpd5hKaRE-TSwlLAY3C_9Znn-FK8NikSwtABXbIfc9kU7_xHq34BXh9yL85Q-v352l0MDdKpgspEMeoTcEpzDpsQigpJEePNTruBCxYusHSmOxNnMZiKg_fNMaCOI2T4NVLXvmr6PeNTKYqsNh-WsRvxv7mhW6xnsyKaGA2FlwgDbBR3uO_6aYvtYLW2hf1uTC9sVlbEFDzzed4rdryXa-XGixUWjqSZQUb5W5vcTYAyAGtBXyEH5aGPl=w784-h1392-no?authuser=0">
 
 ## 2021-04-20
 
