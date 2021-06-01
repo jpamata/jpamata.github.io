@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kids and Building Stuff"
-description: 
+description: Some inspiration hit me today on a walk with my dog.
 category: articles
 tags: [life]
 comments: true
