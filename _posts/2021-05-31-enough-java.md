@@ -7,6 +7,8 @@ tags: [java]
 comments: true
 ---
 
+The very basics one needs to get started with writing Java programs
+
 <!-- more -->
 
 Java is nice, a platform independent language. When you compile a program with java, the compiler turns it into a platform independent code (which is standard) called the java bytecode, which runs on jvm platforms.
