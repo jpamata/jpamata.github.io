@@ -17,7 +17,12 @@ title: About John
 
 <!-- <p>links: <a href="https://github.com/johnamata">github</a>, <a href="https://open.kattis.com/users/youwillneverafford1bitcoin">kattis</a>, <a href="https://www.youtube.com/channel/UC9jQqBH8hBidqxe6_FqKw0A">youtube</a>, <a href="https://leetcode.com/johnamata/">leetcode</a></p> -->
 
-<p><a href="/bookshelf">books i like</a></p>
+<ul>
+  <li>links: <a href="https://github.com/johnamata">github</a>, <a href="https://open.kattis.com/users/johnamata">kattis</a>, <a href="https://www.youtube.com/channel/UC9jQqBH8hBidqxe6_FqKw0A">youtube</a></li>
+  <li>Sometimes I read books, here's some <a href="/bookshelf">books I've read</a></li>
+  <li>follow me on instagram <a href="https://www.instagram.com/jpamata/">@jpamata</a></li>
+</ul>
+
 
 <!--<p>you can find me <a href="{{ "/elsewhere" | prepend: site.url }}">elsewhere</a></p>-->
 <div class="pagination">
