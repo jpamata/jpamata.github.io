@@ -120,13 +120,31 @@ Lmao this book title
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3dLgKWU0nPFahxLBGE0_niJ53rsL2FVsQzDrusLQEbkVY355ly64iMOjUWHWkivpju44lqZxzi2GugMxhtui5pxZswLfu59INLoNrwrbXvRWY-Dc4DQSHOWHsYzyDzpF-jhEO3JFKSNznEXFtRe7fs9=w1856-h1392-no?authuser=0">
 
+## 2021-04-22
+
+Did nothing today. Still on that eye strain break. I went out for 2nd opinion from a doctor for my eyes. Then I got some new prescription glasses at another mall (not the one from yesterday).
+
+Check it out
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3fYR6it3r7KkJ8kE3YrHpikIMcRZXyh0kWPuCa7_tSoSbKKAFxqmdhn_av4f_kGhOY_EsU187xYHctlvDKqeeFaX3ABx7vQ2U5otG7R_NBfl6YaF_rFt2YTR2weVbZRZ5rBq5pJuMd2jtBIBctq6lKd=w1856-h1392-no?authuser=0">
+
+The glasses are tinted brown kind of like gunnar glasses for blue light protection. Then there's a 2nd lens underneath it, again with antiradiation, albeit it's not tinted. The 2nd lens is the one with prescription. One can remove the other tinted lens if they want to. I personally won't. I dont want to get that eye strain again. The eye strain I'm having the past few days spooked me. Especially the first night, felt like I was going blind with how blurry things were going.
+ 
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3fUzq1zLeYVCidR7n0FnhudOJyfQze3W2X1ZA02NgSJf1jzH5qefh2WGMf56IRD1mPstog0fkkZNaj0Hy8ZjTgkI-IPYxr0wHbE093OKDY7dfI9GyFNjoernWNGNhfTaF3mfQqJ3Q57PeWghfOgavMZ=w1044-h1392-no?authuser=0">
+
+After not being able to find a math book yesterday from the other mall's bookstore, I tried my luck here, at a larger bookstore. Unfortunately they also dont have college textbooks thanks to education from primary school to college being online thanks to coronachan.
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3eTSUc09JTqSKEqUNfJliEoYbJGOBr03gdnJzbH5cAFMmhyj59eWA8RGAf7z8Stw9WTqNz0ealsqLNUV0d8AGXeL6HhOxJcBJdYLnKVjn0ksVY7Q3YwyBe_-KdJhMDqrr0gj12ZQKfU7xlv9Ci7lYef=w1856-h1392-no?authuser=0">
+
+Men's room at the mall. I dont know why I decided to take a pic here, but at least there's a pic of me.
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3fteJQpCS5RZ8o5W9SmrObVI9zL93B_BrzEuF_L5HDruiUoofq6vaKfAQoHIeuOfLL5WJ4TA1AHYIRfRsMPaT5HTsE-dyL5YSqNpZ7jGa8Gjz2Gk5qLpyvrE1XZkZz_QvfeVN7Vp1jNaVoYMyIaIYnR=w1044-h1392-no?authuser=0">
+
 ## 2021-04-23
 
 After getting prescription glasses for my massive eye strain, I want to keep my eyes healthy for the time being so again I didnt do anything today.
 
 For now, here's a pic from today's walk with my dog
-
-<!-- more -->
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3dFmR1_wxvj6TkyvQtVNCeq1eGIBMNZ9x8b-zf4_KgP9lFOMyR8qh6BzvfAzVoLrzEbPTBY45xJ3bZYEmb_Klq2NNYJUkbbllNhVPfpb6Jt7Wcgqsif8bm4txHX2h-e7kf4MBWEika7Kyy-LyCCzQL3=w1856-h1392-no?authuser=0">
 
@@ -141,5 +159,32 @@ All I did was watch cobra kai the entire day. I loved it. Pretty motivating. The
 Cobra Kai baby. Johnny Lawrence is a hero.
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3c9A50IWx2X5tU8o3WIXW3U_7uFxM947GLD8-41EBdHG8LWG0wv8r98EMCBih2YVif94uJ5Vxi-kiI9QlfcHQaADLY4YH91rozZKg8VgVjFr7xlnLsINJTuUKJ-BeeeDQeG9DXD-pwoKKU8Ahu0vJMS=w2000-h1333-no?authuser=0">
+
+## 2021-04-25
+
+ My eyes still arent full health, but I can do coding now. I pretty much just watched some Cobra Kai, finished season 2 and watched some movies.
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3eN4PvxCamG8xxWhIs_gq4RbUHWAFJpSsCT6sqmUgMpSQEsiX8S2nRViaCjD9NkhsWpiS_5K0H6yUiAazfBiGBajQry_pC8_gNLaQcs-a8E1Yt-krqxL2UlLbtHGQwoMk-jKH7AKBFvm1wncjA-egkE=w1858-h1392-no?authuser=0">
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3ee5OFa9EhxiJ8AkUgxnEQfy3z7-zwsy-XQJB2LOjqqJkZwp9jAwThbLb2ERr4DTmiuKkhPKYgsr0sUopoaMqhJZGATO7PAx3QezJJE-HL-Nx6HSidee6Pio4wktJ2cWMHOvUqho7mWmDj_ZAMcCrTq=w1858-h1392-no?authuser=0">
+
+## 2021-04-26
+
+Didnt do a single thing today. I'm still having some eye strain but I'm getting better, so I should be doing stuff today but I didnt. I didnt have a plan. That's what I shouldve done, made a todo this morning or the night before. 
+
+I just watched all Cobra Kai episodes so far. One of the best TV series I've watched man. Though I didnt like how some parts of it werent focused on Cobra Kai man himself and his sense Reese, which is my 2nd fave character in the series (writers did a good job), the final episodes of the season make up for it.
+
+Waiting for season 4!
+
+For now, as usual to end this post, a pic of my doggo from today's walk
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3dCeSZpaifIn22auEsfJWcuFTdBdyS9Ri06S2lW5VpUfR4wP0rAA6iUS0OMyBmHwFZGXogA1yzTPJOV5TUvnC51qBDk3sbDT6YCDWxBuMnQanVRHhO69C5ji00QFrJ8O9wvt-D-Tc9IvbYiRv5NFWD6=w1856-h1392-no?authuser=0">
+
+## 2021-04-27
+
+ here's a pic of my trusty sidekick from today's walk
+
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3cg3jUHB0dvQOXVIeP5O2CZPz_Wj0znyw3MpUOh6JA3G8wex4IAA_QdeMpJHCsa7NvSWplkAwefvHcCIC7oqNpOVXa6C5dtysHltCVknXirHWfv5XnZzw455VuAVjBN_arCsNtl29Qt5gk2hPe5ehbH=w1856-h1392-no?authuser=0">
+
 
 
