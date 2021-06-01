@@ -7,7 +7,7 @@ tags: [java]
 comments: true
 ---
 
-The very basics one needs to get started with writing Java programs
+The very basics one needs to get started with writing Java programs. These are originally notes I took (later polished) while I reviewed some Java fundamentals to get started with leetcode problems (will add more later)
 
 <!-- more -->
 
