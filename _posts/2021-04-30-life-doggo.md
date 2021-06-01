@@ -3,7 +3,7 @@ layout: post
 title: "Life and doggo"
 description: Photos of my dog as we go outdoors
 category: articles
-tags: [travel]
+tags: [life]
 comments: true
 ---
 
@@ -186,5 +186,6 @@ For now, as usual to end this post, a pic of my doggo from today's walk
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3cg3jUHB0dvQOXVIeP5O2CZPz_Wj0znyw3MpUOh6JA3G8wex4IAA_QdeMpJHCsa7NvSWplkAwefvHcCIC7oqNpOVXa6C5dtysHltCVknXirHWfv5XnZzw455VuAVjBN_arCsNtl29Qt5gk2hPe5ehbH=w1856-h1392-no?authuser=0">
 
+## 2021-04-29
 
-
+<img src="https://lh3.googleusercontent.com/pw/ACtC-3fkjdFx5OVHelCBGIkzz133CTkC4QOWwaPqBOS__1Tl4ibCcO31h11tuzZB0puG2r-YIcvNXRn93XgbRs4vEwe5E6xqk_sG6Nd9wJXcuTRSuKoI1GNSgyFpXAybIO-MuMQq55HThlgc2QAUaYYPCj0G=w1856-h1392-no?authuser=0">
