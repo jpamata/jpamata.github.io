@@ -14,7 +14,7 @@ title: About John
 	<p>Already read the 4-hour workweek when I was a kid, just re-read it this year.</p>
 <!-- 2021: row 1 -->
 <div>
-	<a href="/bookshelf/tf4hww">
+	<a href="/mybookshelf/tf4hww">
 	<img src="/photos/books/tim-ferris-4hww.jpg" height ="300" alt="TIM FERRISS - The 4-Hour Workweek"></a>
 </div>
 
