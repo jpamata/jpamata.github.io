@@ -11,6 +11,8 @@ I recently went to Beijing. I stayed about a month, and saw some sights like the
 
 <!-- more -->
 
+<img src="/photos/2018-cashless-beijing.jpg">
+
 One realises this when one starts to run out of cash. Exchanging your dollars to yuan takes could take about an hour due to the slow system at exchanges. VISA only works in only a few places as well, such as Starbucks.
 
 Soon, I found out that WeChat is the preferred mode of payment there. You can pay nearly everything with WeChat. You pay the bus & trains with WeChat, hotels & apartments, fast foods and even humble fruit stands accept em. Heck, even those free public wifi requires a WeChat login. And get this: even the street buskers and the homeless accept money through WeChat - they have this printed QR code for you to scan with your phone. It made me wonder, how did China adapt to this "mobile economy" and why aren't other countries following suit?
