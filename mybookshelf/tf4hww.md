@@ -3,6 +3,8 @@ layout: default
 title: BOOK - Tim Ferriss' 4 Hour Workweek
 ---
 
+## 4 Hour Workweek
+
 <img src="/photos/books/tim-ferris-4hww.jpg" height ="300" alt="TIM FERRISS - The 4-Hour Workweek">
 
 - At its core the book is about lifestyle design to become what Tim refers to as the *New Rich*, a group of people who maximise for freedom and mobility. Tech made plenty of the advice in this book obsolete, but nonetheless, the idea of planning one's path towards Tim's "New Rich" lifestyle is what I feel makes this book worth it
@@ -46,3 +48,15 @@ title: BOOK - Tim Ferriss' 4 Hour Workweek
 - For a woman's mini-retirement, she took her family for a 15-month world sailing trip. Sailed 15,000 miles from Venice to Polynesia and it cost only $18000 to $19000. 
 
 > Most people would consider this impossible. Then again, most people don’t know that more than 300 families set sail from France each year to do the same.
+
+- Question to ask yourself: What if I did the opposite?
+
+- Cold calling executives from 08:00-08:30 and 18:00-18:30 to avoid secretaries
+
+- <mark>Retirement is the worst case, as it is based on the assumption that you dislike what you do</mark>. I like this one, it reminded me of a book I skimmed called Black Hole Focus, of which I'll be putting for my reading list this year after I type this. Black Hole Focus talked that it's better to have a job or something to do when you're older, as among other things, it increases your longevity as seen on the Japanese
+
+- mini-retirements distributed through your life > retirement
+
+- Timing is never right. Just do it and adapt, fix things along the way
+
+- It is more lucrative to leverage your strengths than to fix your weaknesses which mostly just upgrades you to mediocre. 
