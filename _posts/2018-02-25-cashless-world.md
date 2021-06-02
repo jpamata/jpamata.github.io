@@ -11,7 +11,10 @@ I recently went to Beijing. I stayed about a month, and saw some sights like the
 
 <!-- more -->
 
-<img src="/photos/2018-cashless-beijing.jpg">
+<figure>
+  <img src="/photos/2018-cashless-beijing.jpg">
+  <figcaption>Fig.1 - pretty proud of myself for capturing this moody pic</figcaption>
+</figure>
 
 One realises this when one starts to run out of cash. Exchanging your dollars to yuan takes could take about an hour due to the slow system at exchanges. VISA only works in only a few places as well, such as Starbucks.
 
