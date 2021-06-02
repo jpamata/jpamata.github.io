@@ -3,7 +3,7 @@ layout: post
 title: "Walks with my dog"
 description: Photos of my dog as we go outdoors
 category: articles
-tags: [travel]
+tags: [life]
 comments: true
 ---
 
