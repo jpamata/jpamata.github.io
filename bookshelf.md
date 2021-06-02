@@ -5,7 +5,7 @@ title: About John
 
 <center>
 	<h2>Books</h2>
-	<p>A list of interesting books I've read on my downtime.</p>
+	<p>Interesting books I've read on my downtime. Books after 2020 have my notes, click photo for notes.</p>
 </center>
 
 <center>
