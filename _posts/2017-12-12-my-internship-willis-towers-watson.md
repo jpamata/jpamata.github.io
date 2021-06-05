@@ -15,6 +15,10 @@ NOTE 1: <u>updated on april 2021</u> to add more details before I forget about t
 
 NOTE 2: they dont call us software engineers, but rather developers. Some teams, their label are software engineers though
 
+staged pic of me in the office
+
+<img src="https://i.imgur.com/gx8qztE.jpg">
+
 # Learning software engineering
 
 - I got to write code to production, and almost all projects I worked on were used globally
