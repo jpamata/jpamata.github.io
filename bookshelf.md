@@ -68,4 +68,8 @@ title: About John
 <a href="https://www.goodreads.com/book/show/9439303-life">
 	<img src="/photos/books/keith-richards.jpeg" height="300" alt="keith-richards">
 </a>
+	
+<a href="https://www.goodreads.com/book/show/11878168-anything-you-want">
+	<img src="/photos/books/anything-sivers.jpg" height="300" alt="anything you want by derek sivers">
+</a>
 </div>
