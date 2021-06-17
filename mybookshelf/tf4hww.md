@@ -61,4 +61,4 @@ title: BOOK - Tim Ferriss' 4 Hour Workweek
 
 - It is more lucrative to leverage your strengths than to fix your weaknesses which mostly just upgrades you to mediocre. 
 
-[<a href="/books">back to bookshelf</a>]
+[<a href="/bookshelf">back to bookshelf</a>]
