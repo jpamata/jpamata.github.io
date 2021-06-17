@@ -19,9 +19,10 @@ title: About John
 </div>
 
 <!-- 2010-2020 -->	
+
 	<h2>2010-2020</h2>
-	<p>Books I remember reading when I was in my teens/early twenties. I have no notes from them and clicking will just bring you to their goodreads page. Perhaps later I'll reread them</p>
-<!-- 2010-2020: row 1 -->
+	<p>Great books I remember reading when I was in my early teens to my early twenties. To be specific, I read them from 2012-2016 with the exception of Greenlights. <mark>I have no notes from them</mark>, perhaps I'll revisit them later and make notes. For now, clicking their photos goes to their goodreads page.</p>
+<!-- row 1 -->
 <div>
 <a href="https://www.goodreads.com/book/show/52838315-greenlights">
 	<img src="/photos/books/greenlights.jpeg" height ="300" alt="greenlights by matthew mcconaughey">
@@ -34,9 +35,13 @@ title: About John
 <a href="https://www.goodreads.com/book/show/115759.Arnold">
 	<img src="/photos/books/arnold.jpeg" height ="300" alt="arnold">
 	</a>
+
+<a href="https://www.goodreads.com/book/show/21820378-mastering-bitcoin">
+	<img src="/photos/books/mastering-bitcoin.jpg" height ="300" alt="mastering bitcoin">
+	</a>
 </div>
 
-<!-- 2010-2020: row 2 -->
+<!-- row 2 -->
 <div>
 <a href="https://www.goodreads.com/book/show/3828382-tribes">
 	<img src="/photos/books/tribes.jpeg" height="300" alt="tribes"> 
@@ -55,7 +60,7 @@ title: About John
 </a>
 </div>
 
-<!-- 2010-2020: row 3 -->
+<!-- row 3 -->
 <div>
 <a href="https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life">
 	<img src="/photos/books/stoic-joy.jpg" height="300" alt="a guide to the good life: the ancient art of stoic joy">
@@ -68,7 +73,7 @@ title: About John
 <a href="https://www.goodreads.com/book/show/9439303-life">
 	<img src="/photos/books/keith-richards.jpeg" height="300" alt="keith-richards">
 </a>
-	
+
 <a href="https://www.goodreads.com/book/show/11878168-anything-you-want">
 	<img src="/photos/books/anything-sivers.jpg" height="300" alt="anything you want by derek sivers">
 </a>
