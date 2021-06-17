@@ -60,3 +60,5 @@ title: BOOK - Tim Ferriss' 4 Hour Workweek
 - Timing is never right. Just do it and adapt, fix things along the way
 
 - It is more lucrative to leverage your strengths than to fix your weaknesses which mostly just upgrades you to mediocre. 
+
+[<a href="/books">back to bookshelf</a>]
