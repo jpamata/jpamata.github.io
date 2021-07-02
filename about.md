@@ -22,6 +22,7 @@ title: About John
 <li>links: <a href="https://github.com/johnamata">github</a>, <a href="https://open.kattis.com/users/johnamata">kattis</a>, <a href="https://leetcode.com/johnamata/">leetcode</a>, <a href="https://www.codewars.com/users/johnamata">codewars</a>, <a href="https://www.youtube.com/channel/UC9jQqBH8hBidqxe6_FqKw0A">youtube</a>, <a href="https://www.duolingo.com/profile/johnamata">duolingo</a></li>
 -->
   <li>Sometimes I read books, here's some <a href="/bookshelf">books I've read</a></li>
+  <li>I tweet (<a href="https://twitter.com/epsugma">@epsugma</a>) about learning <a href="http://norvig.com/21-days.html">programming in 10 years</a></li>
   <li>follow me on instagram <a href="https://www.instagram.com/jpamata/">@jpamata</a></li>
 </ul>
 
