@@ -21,6 +21,8 @@ As for algorithmic thinking, I think that one finally starts to "get it" after g
 
 It's all about pattern recognition. For example in this case, here's a sample of patterns I recall from going through a few algorithm problems:
 
+- fast lookup or checking for duplicates? hashmaps
+
 - Partition an array? Quicksort or DFS
 
 - Implement a cache? Start thinking of queues or if it really needs a key like an LRU or memcache, then hashtables.
