@@ -15,6 +15,8 @@ code: <a href="https://github.com/johnamata/thinking">github.com/johnamata/think
 
 <h2>Pics</h2>
 
+* click image(s) to view in full size
+
 HD version of the thumbnail from project page, a screenshot from jan 26, 2021:
 
-<img src="pics/hd/think-hd.png">
+<a href="pics/hd/think-hd.png"><img src="pics/hd/think-hd.png"></a>
